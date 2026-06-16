@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="banner.png" alt="Iri Banner" width="200%">
+  <img src="banner1.png" alt="Iri Banner" width="200%">
 </p>
 
 # Hi, I'm Iri 💜
