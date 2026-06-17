@@ -13,15 +13,15 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Solo%20Developer-8A5CF6?style=for-the-badge&logo=github&logoColor=white">
-  <img src="https://img.shields.io/badge/Creator%20of-WebWarden-9B6BFF?style=for-the-badge&logo=googlechrome&logoColor=white">
-  <img src="https://img.shields.io/badge/Always-Learning-BB86FC?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Solo%20Developer-8A5CF6?style=for-the-badge&logo=github&logoColor=white" alt="Solo Developer">
+  <img src="https://img.shields.io/badge/Creator%20of-WebWarden-9B6BFF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Creator of WebWarden">
+  <img src="https://img.shields.io/badge/Always-Learning-BB86FC?style=for-the-badge&logo=sparkles&logoColor=white" alt="Always Learning">
 </p>
 
 <br>
 
 <p align="center">
-  <img src="image4.png" alt="Purple aesthetic image" width="520">
+  <img src="image4.png" alt="Purple aesthetic hero image" width="500">
 </p>
 
 ---
@@ -32,22 +32,24 @@ I'm a solo software developer who believes technology should make life better, s
 
 I enjoy building tools that solve real problems, protect users, and make everyday browsing feel safer and more controlled.
 
+<br>
+
 <table>
 <tr>
-<td width="58%">
+<td width="60%" valign="top">
 
-### ✨ What I care about
+### ✨ What I Care About
 
-- 🛡️ Creating software that protects people  
-- 💻 Building clean and useful tools  
-- 🌱 Learning more with every project  
-- 💜 Making technology feel safer and easier to use  
-- ⚡ Designing software with both function and personality  
+* 🛡️ Creating software that protects people
+* 💻 Building clean and useful tools
+* 🌱 Learning more with every project
+* 💜 Making technology feel safer and easier to use
+* ⚡ Designing software with both function and personality
 
 </td>
-<td width="42%" align="center">
+<td width="40%" align="center">
 
-<img src="image1.png" alt="Iri aesthetic image" width="280">
+<img src="image1.png" alt="Iri aesthetic image" width="260">
 
 </td>
 </tr>
@@ -56,7 +58,7 @@ I enjoy building tools that solve real problems, protect users, and make everyda
 <br>
 
 <p align="center">
-  <img src="image2.png" alt="Purple divider" width="230">
+  <img src="image2.png" alt="Purple electro divider" width="180">
 </p>
 
 ---
@@ -71,24 +73,38 @@ I enjoy building tools that solve real problems, protect users, and make everyda
 
 WebWarden is my main project. It is built to give users more control over their browsing experience by focusing on safety, privacy, protection, and trust.
 
-### WebWarden focuses on:
+<br>
 
 <table>
 <tr>
-<td>🛡️ Browser protection</td>
-<td>Helping block unsafe, suspicious, or unwanted behaviour while browsing.</td>
-</tr>
-<tr>
-<td>🔒 Privacy control</td>
-<td>Giving users more control over trackers, cookies, permissions, and risky browsing behaviour.</td>
-</tr>
-<tr>
-<td>⚠️ Download safety</td>
-<td>Helping users understand whether a download looks safe, suspicious, or dangerous.</td>
-</tr>
-<tr>
-<td>🌙 User-friendly design</td>
-<td>Keeping protection clear, simple, and easy to understand.</td>
+<td align="center" width="25%">
+
+### 🛡️ Protection
+
+Blocks unsafe, suspicious, or unwanted behaviour while browsing.
+
+</td>
+<td align="center" width="25%">
+
+### 🔒 Privacy
+
+Helps users control trackers, cookies, permissions, and risky behaviour.
+
+</td>
+<td align="center" width="25%">
+
+### ⚠️ Safety
+
+Helps users understand suspicious downloads and risky websites.
+
+</td>
+<td align="center" width="25%">
+
+### 🌙 Control
+
+Keeps protection clear, simple, and easy to understand.
+
+</td>
 </tr>
 </table>
 
@@ -97,12 +113,12 @@ WebWarden is my main project. It is built to give users more control over their 
 <!-- Replace these with your real WebWarden screenshots when ready -->
 
 <p align="center">
-  <img src="webwarden-dashboard.png" alt="WebWarden Dashboard" width="700">
+  <img src="webwarden-dashboard.png" alt="WebWarden Dashboard" width="720">
 </p>
 
 <p align="center">
-  <img src="webwarden-settings.png" alt="WebWarden Settings" width="340">
-  <img src="webwarden-protection.png" alt="WebWarden Protection" width="340">
+  <img src="webwarden-settings.png" alt="WebWarden Settings" width="350">
+  <img src="webwarden-protection.png" alt="WebWarden Protection" width="350">
 </p>
 
 <br>
@@ -129,7 +145,7 @@ WebWarden is my main project. It is built to give users more control over their 
 
 I like building software with both purpose and identity.
 
-For me, code is not just about making something work.  
+For me, code is not just about making something work.
 It is about making something useful, trusted, and enjoyable for the people who use it.
 
 ```text
@@ -137,16 +153,42 @@ protect users
 build with care
 keep learning
 make it beautiful
+```
 
+---
 
-📊 GitHub
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=iri-dev&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=BB86FC&icon_color=BB86FC&text_color=E6EDF3" alt="Iri GitHub Stats" width="420"> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iri-dev&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=BB86FC&text_color=E6EDF3" alt="Top Languages" width="420"> </p>
+## 📊 GitHub
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=iri-dev&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=BB86FC&icon_color=BB86FC&text_color=E6EDF3" alt="Iri GitHub Stats" width="430">
+</p>
 
-💭 Motto
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iri-dev&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=BB86FC&text_color=E6EDF3" alt="Top Languages" width="430">
+</p>
 
-Code is not just about technology.
+---
 
-It is about the people who use it.
+## 💭 Motto
 
-<br> <p align="center"> <img src="image3.png" alt="Smiling aesthetic footer image" width="360"> </p> <h3 align="center">💜 Thanks for visiting my profile 💜</h3> <p align="center"> Creator of WebWarden • Software Developer • Always Learning </p> <p align="center"> <a href="https://buymeacoffee.com/iri.dev"> <img src="https://img.shields.io/badge/Support%20Me-Buy%20Me%20a%20Coffee-9B6BFF?style=for-the-badge&logo=buymeacoffee&logoColor=white"> </a> </p> ```
+> Code is not just about technology.
+>
+> It is about the people who use it.
+
+<br>
+
+<p align="center">
+  <img src="image3.png" alt="Smiling aesthetic footer image" width="330">
+</p>
+
+<h3 align="center">💜 Thanks for visiting my profile 💜</h3>
+
+<p align="center">
+  Creator of WebWarden • Software Developer • Always Learning
+</p>
+
+<p align="center">
+  <a href="https://buymeacoffee.com/iri.dev">
+    <img src="https://img.shields.io/badge/Support%20Me-Buy%20Me%20a%20Coffee-9B6BFF?style=for-the-badge&logo=buymeacoffee&logoColor=white" alt="Buy Me a Coffee">
+  </a>
+</p>
