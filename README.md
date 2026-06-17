@@ -52,3 +52,11 @@
   <a href="#-projects">
     <img src="https://img.shields.io/badge/Hydra%20Heart-BB86FC?style=for-the-badge">
   </a>
+
+  <a href="#-contact">
+    <img src="https://img.shields.io/badge/Contact-8A5CF6?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+</p>
+
+<br>
+
