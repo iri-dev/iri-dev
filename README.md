@@ -1,3 +1,9 @@
+<p align="center">
+  <img src="banner3.png" alt="Iri Banner" width="100%">
+</p>
+
+<br>
+
 <h1 align="center">Welcome 💜</h1>
 
 <p align="center">
@@ -6,10 +12,10 @@
 
 <br>
 
-<h2 align="center">Iri</h2>
+<h2 align="center">Hey, I'm Iri</h2>
 
 <p align="center">
-  pronounced <em>eye-ree</em>
+  <strong>pronounced <em>eye-ree</em></strong>
 </p>
 
 <p align="center">
@@ -27,10 +33,20 @@
   more understandable, and more human.
 </p>
 
+<p align="center">
+  <strong>Creating software with care, because technology should help people.</strong>
+</p>
+
 <br>
 
 <p align="center">
-  <strong>
-    "Technology should help people."
-  </strong>
+  <a href="#-webwarden">
+    <img src="https://img.shields.io/badge/WebWarden-9B6BFF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="WebWarden">
+  </a>
+  <a href="#-projects">
+    <img src="https://img.shields.io/badge/Hydra%20Heart-BB86FC?style=for-the-badge" alt="Hydra Heart">
+  </a>
+  <a href="#-contact">
+    <img src="https://img.shields.io/badge/Contact-8A5CF6?style=for-the-badge&logo=gmail&logoColor=white" alt="Contact">
+  </a>
 </p>
