@@ -15,10 +15,6 @@
 </p>
 
 <p align="center">
-  Building software that helps people feel safer,
-  healthier, and more in control.
-</p>
-
-<p align="center">
-  Privacy • Safety • Trust • Thoughtful Design
+  I enjoy building software that makes life
+  a little safer, healthier, and easier.
 </p>
