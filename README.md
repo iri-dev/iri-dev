@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <em>Building software that helps, protects, and makes everyday life feel a little safer.</em>
+  <em>I build software with care, privacy, safety, and a calm purple identity.</em>
 </p>
 
 <p align="center">
@@ -19,7 +19,7 @@
 </p>
 
 <p align="center">
-  <sub>software • privacy • user safety • calm design • thoughtful tools</sub>
+  <sub>software • privacy • user safety • thoughtful tools • purple magic</sub>
 </p>
 
 <br>
@@ -30,7 +30,13 @@
 
 ---
 
-<h2 align="center">About Me</h2>
+## 💜 Profile
+
+<table>
+  <tr>
+    <td width="70%" valign="top">
+
+### About Me
 
 I’m a solo software developer who cares about building tools with purpose.
 
@@ -38,68 +44,124 @@ I like creating software that feels clear, useful, and respectful of the people 
 
 For me, good software should not just work. It should help people feel more in control, more protected, and more understood.
 
-<p align="center">
-  <img src="image4.png" alt="Purple aesthetic image" width="150">
-</p>
+### I care about
 
-<p align="center">
-  <strong>careful design</strong> • <strong>user trust</strong> • <strong>privacy</strong> • <strong>helpful software</strong>
-</p>
+* Building tools that genuinely help people
+* Making privacy and safety easier to understand
+* Creating clean and calm designs
+* Learning through every project I make
+* Putting care into the small details
 
----
-
-<h2 align="center">What Matters To Me</h2>
-
-<p align="center">
-  <strong>Care</strong><br>
-  Software should respect the people using it.
-</p>
-
-<p align="center">
-  <strong>Safety</strong><br>
-  Protection should feel clear, honest, and understandable.
-</p>
-
-<p align="center">
-  <strong>Trust</strong><br>
-  Users should know what a tool is doing and why.
-</p>
-
-I believe good tools should feel approachable without losing their purpose. They should help quietly, explain clearly, and give users control without making things feel scary or confusing.
+</td>
+<td width="30%" align="center">
+  <img src="image4.png" alt="Purple aesthetic image" width="155">
+  <br><br>
+  <strong>Iri.dev</strong>
+  <br>
+  <sub>soft design • strong purpose</sub>
+</td>
+  </tr>
+</table>
 
 ---
 
-<h2 align="center">Beyond The Code</h2>
+## 💜 What Matters To Me
 
-<p align="center">
-  <img src="image1.png" alt="Iri aesthetic image" width="135">
-</p>
+<table>
+  <tr>
+    <td width="33%" valign="top" align="center">
+
+### Care
+
+Software should respect the people using it.
+
+I want my projects to feel thoughtful, helpful, and human.
+
+</td>
+    <td width="33%" valign="top" align="center">
+
+### Safety
+
+Protection should feel clear, not scary.
+
+Good tools should help users understand what is happening.
+
+</td>
+    <td width="33%" valign="top" align="center">
+
+### Trust
+
+Users should stay in control.
+
+A tool should be honest about what it does and why.
+
+</td>
+  </tr>
+</table>
+
+---
+
+## 💜 Developer Identity
+
+<table>
+  <tr>
+    <td width="25%" align="center">
+      <img src="image1.png" alt="Iri aesthetic image" width="120">
+    </td>
+    <td width="75%" valign="top">
+
+### How I Like To Build
 
 I like my projects to have both function and personality.
 
 I’m drawn to calm purple aesthetics, clean interfaces, privacy-focused tools, and software that feels human. I enjoy learning new technologies, improving my designs, and building things that feel useful rather than random.
 
-Outside of coding, I like creative design, technology, games, anime, guitar, art, and small ideas that can turn into meaningful projects.
+I want my GitHub to feel like a small purple corner of the internet: calm, caring, personal, and still serious about the software being built.
+
+</td>
+  </tr>
+</table>
 
 ---
 
-<h2 align="center">Current Focus</h2>
+## 💜 Beyond The Code
 
-<p align="center">
-  <strong>WebWarden</strong><br>
-  A privacy and browser safety extension focused on helping people browse with more confidence and control.
-</p>
+<table>
+  <tr>
+    <td width="50%" valign="top">
 
-<p align="center">
-  <strong>Helpful Everyday Tools</strong><br>
-  I also want to create projects that support people in simple daily ways, such as wellbeing, hydration, organisation, and safer technology use.
-</p>
+### Creative Side
+
+* Purple aesthetics
+* Clean UI design
+* Art and drawing
+* Character-inspired visuals
+* Soft but polished presentation
+
+</td>
+    <td width="50%" valign="top">
+
+### Personal Interests
+
+* Computers and technology
+* Games
+* Anime
+* Guitar
+* Turning small ideas into useful projects
+
+</td>
+  </tr>
+</table>
 
 ---
 
 <p align="center">
-  <img src="image2.png" alt="Purple aesthetic divider" width="70%">
+  <img src="image2.png" alt="Purple aesthetic divider" width="75%">
 </p>
+
+---
+
+## 💜 Current Project
 
 <h2 align="center">WebWarden</h2>
 
@@ -107,9 +169,11 @@ Outside of coding, I like creative design, technology, games, anime, guitar, art
   <em>A privacy and security browser extension designed to make the web feel safer and easier to understand.</em>
 </p>
 
-<p align="center">
-  <img src="image5.png" alt="Sakura aesthetic image" width="120">
-</p>
+<table>
+  <tr>
+    <td width="72%" valign="top">
+
+### What WebWarden Is
 
 WebWarden is my main project.
 
@@ -125,17 +189,122 @@ I want WebWarden to feel friendly, useful, and serious at the same time. A tool 
 * Suspicious website awareness
 * Clear and understandable user control
 
-### What guides WebWarden
+</td>
+<td width="28%" align="center">
+  <img src="image5.png" alt="Sakura aesthetic image" width="130">
+  <br><br>
+  <strong>WebWarden</strong>
+  <br>
+  <sub>privacy • safety • control</sub>
+</td>
+  </tr>
+</table>
 
-> User safety comes first.
-> Privacy should be understandable.
-> Protection should be transparent.
-> Features should have a clear purpose.
-> Users should stay in control.
+<br>
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+
+### Protection
+
+Helps users stay aware of unsafe, suspicious, or unwanted behaviour while browsing.
+
+</td>
+    <td width="50%" valign="top">
+
+### Privacy
+
+Focuses on giving users more control over trackers, cookies, permissions, and risky browsing behaviour.
+
+</td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+
+### Safety
+
+Helps make risky downloads, suspicious links, and unclear online behaviour easier to understand.
+
+</td>
+    <td width="50%" valign="top">
+
+### Control
+
+Keeps settings readable, calm, and understandable so users do not feel overwhelmed.
+
+</td>
+  </tr>
+</table>
 
 ---
 
-<h2 align="center">Languages</h2>
+## 💜 What Guides WebWarden
+
+<table>
+  <tr>
+    <td width="20%" align="center">
+      <strong>User First</strong>
+      <br>
+      <sub>People matter most.</sub>
+    </td>
+    <td width="20%" align="center">
+      <strong>Privacy</strong>
+      <br>
+      <sub>Protection should be respectful.</sub>
+    </td>
+    <td width="20%" align="center">
+      <strong>Clarity</strong>
+      <br>
+      <sub>Security should be understandable.</sub>
+    </td>
+    <td width="20%" align="center">
+      <strong>Control</strong>
+      <br>
+      <sub>Users should stay in charge.</sub>
+    </td>
+    <td width="20%" align="center">
+      <strong>Care</strong>
+      <br>
+      <sub>Every feature should have a reason.</sub>
+    </td>
+  </tr>
+</table>
+
+---
+
+## 💜 Future Projects
+
+<table>
+  <tr>
+    <td width="70%" valign="top">
+
+WebWarden is my main focus, but I also want to build more projects that help people in everyday life.
+
+I care about software that supports people, not just software that looks impressive. Future projects may focus on wellbeing, safer browsing, organisation, hydration, calm routines, or small tools that make daily life easier.
+
+### Project direction
+
+* Helpful everyday apps
+* Privacy and safety tools
+* Calm user interfaces
+* Software that feels kind and useful
+* Projects that make life a little easier
+
+</td>
+<td width="30%" align="center">
+  <img src="image3.png" alt="Smiling aesthetic image" width="120">
+  <br><br>
+  <strong>Built with care</strong>
+  <br>
+  <sub>not just code</sub>
+</td>
+  </tr>
+</table>
+
+---
+
+## 💜 Languages
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=cs,cpp,rust,python,js,html,css" alt="Languages">
@@ -145,38 +314,74 @@ I want WebWarden to feel friendly, useful, and serious at the same time. A tool 
   C# • C++ • Rust • Python • JavaScript • HTML • CSS
 </p>
 
-<p align="center">
-  <strong>Building:</strong> browser tools, security-focused features, helpful software<br>
-  <strong>Improving:</strong> cleaner code, better design, stronger protection<br>
-  <strong>Creating:</strong> tools people trust, software people enjoy, projects with purpose
-</p>
+<table>
+  <tr>
+    <td width="33%" align="center">
+
+### Building
+
+Browser tools
+security-focused features
+helpful software
+
+</td>
+    <td width="33%" align="center">
+
+### Improving
+
+Cleaner code
+better design
+stronger protection
+
+</td>
+    <td width="33%" align="center">
+
+### Creating
+
+Tools people trust
+software people enjoy
+projects with purpose
+
+</td>
+  </tr>
+</table>
 
 ---
 
-<h2 align="center">Contact</h2>
+## 💜 Contact
 
-<p align="center">
-  <img src="image3.png" alt="Smiling aesthetic image" width="115">
-</p>
+<table>
+  <tr>
+    <td width="75%" valign="top">
 
 If you have feedback, questions, bug reports, project ideas, or simply want to say hello, you are welcome to reach out.
 
 I read my emails personally and appreciate thoughtful messages. Whether something is broken, confusing, helpful, or you just have an idea, I genuinely value hearing from people.
 
-<p align="center">
-  <strong>Email:</strong> <a href="mailto:iri.devsupport@gmail.com">iri.devsupport@gmail.com</a><br>
-  <strong>Discord:</strong> iri.dev
-</p>
+<br>
 
-<p align="center">
-  <a href="mailto:iri.devsupport@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Iri%20Support-BB86FC?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Iri Support">
-  </a>
-</p>
+<strong>Email:</strong> <a href="mailto:iri.devsupport@gmail.com">[iri.devsupport@gmail.com](mailto:iri.devsupport@gmail.com)</a> <br> <strong>Discord:</strong> iri.dev
+
+<br><br>
+
+<a href="mailto:iri.devsupport@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Iri%20Support-BB86FC?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Iri Support">
+</a>
+
+</td>
+<td width="25%" align="center">
+  <img src="image3.png" alt="Contact aesthetic image" width="110">
+</td>
+  </tr>
+</table>
 
 ---
 
-<h2 align="center">A Small Promise</h2>
+## 💜 A Small Promise
+
+<table>
+  <tr>
+    <td width="100%" valign="top">
 
 If I build something, I want it to:
 
@@ -188,9 +393,13 @@ If I build something, I want it to:
 
 I want my work to feel protective, useful, and carefully made.
 
+</td>
+  </tr>
+</table>
+
 ---
 
-<h2 align="center">Motto</h2>
+## 💜 Motto
 
 > Code is not just about technology.
 > It is about the people who use it.
