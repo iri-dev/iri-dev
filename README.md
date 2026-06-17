@@ -21,6 +21,12 @@
 <br>
 
 <p align="center">
+  <img src="image1.png" width="180">
+</p>
+
+<br>
+
+<p align="center">
   I enjoy creating software that helps people feel safer,
   healthier, and more in control.
 </p>
@@ -59,4 +65,3 @@
 </p>
 
 <br>
-
