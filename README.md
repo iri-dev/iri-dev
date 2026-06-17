@@ -2,10 +2,14 @@
   <img src="banner3.png" alt="Iri Banner" width="100%">
 </p>
 
-<h1 align="center">Hi, I'm Iri 💜</h1>
+<h1 align="center">Iri.dev 💜</h1>
 
 <p align="center">
-  <strong>pronounced <em>eye-ree</em></strong> • she/her • solo developer • creator of WebWarden
+  <strong>Iri</strong> is pronounced <em>eye-ree</em>
+</p>
+
+<p align="center">
+  She/Her • Solo Developer • Creator of WebWarden
 </p>
 
 <p align="center">
@@ -22,13 +26,19 @@
   <sub>software • privacy • safety • trust • purple</sub>
 </p>
 
+<br>
+
+<p align="center">
+  <img src="image2.png" alt="Purple aesthetic divider" width="82%">
+</p>
+
 ---
 
 <table>
 <tr>
 <td width="68%" valign="top">
 
-## About Me
+## 💜 About Me
 
 I'm a solo software developer who enjoys building tools that solve real problems and help people feel more in control of their digital space.
 
@@ -47,40 +57,19 @@ My main project is **WebWarden**, a privacy and browser safety extension focused
 > Good software should help people, not confuse them.
 
 </td>
-<td width="32%" valign="top" align="center">
+<td width="32%" align="center" valign="top">
 
-<h3>Iri.dev</h3>
+<br>
 
-<img src="image4.png" alt="Iri aesthetic image" width="145">
+<img src="image4.png" alt="Purple aesthetic image" width="145">
 
 <br><br>
 
-<table>
-<tr>
-<td><strong>Name</strong></td>
-<td>Iri</td>
-</tr>
-<tr>
-<td><strong>Pronounced</strong></td>
-<td>eye-ree</td>
-</tr>
-<tr>
-<td><strong>Role</strong></td>
-<td>Solo Developer</td>
-</tr>
-<tr>
-<td><strong>Main Project</strong></td>
-<td>WebWarden</td>
-</tr>
-<tr>
-<td><strong>Focus</strong></td>
-<td>Privacy, safety, trust</td>
-</tr>
-<tr>
-<td><strong>Colour</strong></td>
-<td>Purple</td>
-</tr>
-</table>
+<strong>Iri.dev</strong>
+
+<br><br>
+
+<strong>Name:</strong> Iri <strong>Pronounced:</strong> eye-ree <strong>Role:</strong> Solo Developer <strong>Main Project:</strong> WebWarden <strong>Focus:</strong> Privacy, safety, trust <strong>Colour:</strong> Purple
 
 </td>
 </tr>
@@ -88,47 +77,28 @@ My main project is **WebWarden**, a privacy and browser safety extension focused
 
 ---
 
-<p align="center">
-  <img src="image2.png" alt="Purple aesthetic divider" width="82%">
-</p>
-
----
-
 <table>
 <tr>
-<td width="30%" valign="top" align="center">
+<td width="30%" align="center" valign="top">
 
-<img src="image1.png" alt="Iri profile aesthetic image" width="120">
+<br>
+
+<img src="image1.png" alt="Iri aesthetic image" width="115">
 
 </td>
 <td width="70%" valign="top">
 
-## Beyond The Code
+## 💜 Beyond The Code
 
 Outside of software development, I enjoy things that mix creativity, technology, and atmosphere.
 
-<table>
-<tr>
-<td><strong>Favourite colour</strong></td>
-<td>Purple</td>
-</tr>
-<tr>
-<td><strong>Favourite games</strong></td>
-<td>Genshin Impact and Wuthering Waves</td>
-</tr>
-<tr>
-<td><strong>Favourite anime</strong></td>
-<td>Steins;Gate</td>
-</tr>
-<tr>
-<td><strong>Creative hobbies</strong></td>
-<td>Guitar, art, and drawing</td>
-</tr>
-<tr>
-<td><strong>Interests</strong></td>
-<td>Computers, technology, and clean design</td>
-</tr>
-</table>
+| Favourite        | Details                                 |
+| ---------------- | --------------------------------------- |
+| Colour           | Purple                                  |
+| Games            | Genshin Impact and Wuthering Waves      |
+| Anime            | Steins;Gate                             |
+| Creative hobbies | Guitar, art, and drawing                |
+| Interests        | Computers, technology, and clean design |
 
 Purple is definitely part of the brand.
 
@@ -138,7 +108,7 @@ Purple is definitely part of the brand.
 
 ---
 
-## WebWarden
+## 💜 WebWarden
 
 <p align="center">
   <em>A privacy and browser safety extension designed to make the web feel safer and easier to understand.</em>
@@ -146,7 +116,7 @@ Purple is definitely part of the brand.
 
 <table>
 <tr>
-<td width="72%" valign="top">
+<td width="70%" valign="top">
 
 **WebWarden** is my main project. It is built around user safety, privacy, browser control, and clear communication.
 
@@ -163,38 +133,25 @@ I created WebWarden because I wanted browser protection to feel more approachabl
 | User control       | Helping users stay informed and in charge of their browsing experience.            |
 
 </td>
-<td width="28%" valign="top" align="center">
+<td width="30%" align="center" valign="top">
 
-<h3>Project Card</h3>
+<br>
 
-<img src="image5.png" alt="WebWarden aesthetic image" width="125">
+<img src="image5.png" alt="Sakura aesthetic image" width="125">
 
 <br><br>
 
-<table>
-<tr>
-<td><strong>Status</strong></td>
-<td>Active</td>
-</tr>
-<tr>
-<td><strong>Type</strong></td>
-<td>Browser Extension</td>
-</tr>
-<tr>
-<td><strong>Theme</strong></td>
-<td>Privacy & Safety</td>
-</tr>
-<tr>
-<td><strong>Goal</strong></td>
-<td>User trust</td>
-</tr>
-</table>
+<strong>Project Card</strong>
+
+<br><br>
+
+<strong>Status:</strong> Active <strong>Type:</strong> Browser Extension <strong>Theme:</strong> Privacy & Safety <strong>Goal:</strong> User Trust
 
 </td>
 </tr>
 </table>
 
-### What guides WebWarden
+### What Guides WebWarden
 
 * User safety comes first.
 * Privacy should be understandable.
@@ -217,7 +174,7 @@ When you have real WebWarden screenshots, add them here.
 
 ---
 
-## Languages
+## 💜 Languages
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=cs,cpp,rust,python,js,html,css" alt="Languages">
@@ -261,11 +218,11 @@ A safer, calmer web
 
 ---
 
-## Contact
-
 <table>
 <tr>
 <td width="72%" valign="top">
+
+## 💜 Contact
 
 If you have feedback, questions, bug reports, project ideas, or simply want to say hello, you are welcome to reach out.
 
@@ -273,19 +230,21 @@ I read my messages personally and try my best to respond whenever I can. Friendl
 
 Whether something is broken, confusing, helpful, or you just have an idea, I genuinely appreciate hearing from people.
 
-<table>
-<tr>
-<td><strong>Email</strong></td>
-<td><a href="mailto:iri.devsupport@gmail.com">iri.devsupport@gmail.com</a></td>
-</tr>
-<tr>
-<td><strong>Discord</strong></td>
-<td><code>iri.dev</code></td>
-</tr>
-</table>
+| Contact | Details                                                     |
+| ------- | ----------------------------------------------------------- |
+| Email   | [iri.devsupport@gmail.com](mailto:iri.devsupport@gmail.com) |
+| Discord | `iri.dev`                                                   |
+
+<p>
+  <a href="mailto:iri.devsupport@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Iri%20Support-BB86FC?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Iri Support">
+  </a>
+</p>
 
 </td>
 <td width="28%" align="center" valign="top">
+
+<br>
 
 <img src="image3.png" alt="Smiling aesthetic image" width="105">
 
@@ -295,7 +254,7 @@ Whether something is broken, confusing, helpful, or you just have an idea, I gen
 
 ---
 
-## A Small Promise
+## 💜 A Small Promise
 
 If I build something, I want it to:
 
