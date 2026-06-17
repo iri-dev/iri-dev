@@ -15,7 +15,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Solo%20Developer-8A5CF6?style=for-the-badge&logo=github&logoColor=white" alt="Solo Developer">
   <img src="https://img.shields.io/badge/WebWarden-9B6BFF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="WebWarden">
-  <img src="https://img.shields.io/badge/Iri.dev-BB86FC?style=for-the-badge&logo=sparkles&logoColor=white" alt="Iri.dev">
+  <img src="https://img.shields.io/badge/Iri.dev-BB86FC?style=for-the-badge" alt="Iri.dev">
 </p>
 
 <p align="center">
@@ -32,71 +32,44 @@
 
 ## About Me
 
-<table>
-  <tr>
-    <td width="72%" valign="top">
-
 I’m a solo software developer who cares about building tools with purpose.
 
 I like creating software that feels clear, useful, and respectful of the people using it. Whether I’m working on browser safety, privacy tools, or smaller everyday apps, I want my projects to feel thoughtful instead of overwhelming.
 
 For me, good software should not just work. It should help people feel more in control, more protected, and more understood.
 
+**What I care about:**
+
+* Building tools that genuinely help people
+* Making privacy and safety easier to understand
+* Creating clean, calm, and readable designs
+* Learning through every project I make
+* Putting care into the small details
+
 <br>
 
-<strong>What I care about:</strong>
-
-<ul>
-  <li>Building tools that genuinely help people</li>
-  <li>Making privacy and safety easier to understand</li>
-  <li>Creating clean, calm, and readable designs</li>
-  <li>Learning through every project I make</li>
-  <li>Putting care into the small details</li>
-</ul>
-
-</td>
-<td width="28%" align="center">
-  <img src="image4.png" alt="Purple aesthetic image" width="145">
-</td>
-  </tr>
-</table>
+<p align="center">
+  <img src="image4.png" alt="Purple aesthetic image" width="155">
+</p>
 
 ---
 
 ## What Matters To Me
 
-<table>
-  <tr>
-    <td align="center" width="33%">
-      <h3>Care</h3>
-      <p>Software should respect the people using it.</p>
-    </td>
-    <td align="center" width="33%">
-      <h3>Safety</h3>
-      <p>Protection should feel clear, honest, and understandable.</p>
-    </td>
-    <td align="center" width="33%">
-      <h3>Trust</h3>
-      <p>Users should know what a tool is doing and why.</p>
-    </td>
-  </tr>
-</table>
+**Care**
+Software should respect the people using it.
 
-<br>
+**Safety**
+Protection should feel clear, honest, and understandable.
 
-I believe good tools should feel approachable without losing their purpose.
-They should help quietly, explain clearly, and give users control without making things feel scary or confusing.
+**Trust**
+Users should know what a tool is doing and why.
+
+I believe good tools should feel approachable without losing their purpose. They should help quietly, explain clearly, and give users control without making things feel scary or confusing.
 
 ---
 
 ## Beyond The Code
-
-<table>
-  <tr>
-    <td width="22%" align="center">
-      <img src="image1.png" alt="Iri aesthetic image" width="105">
-    </td>
-    <td width="78%" valign="top">
 
 I like my projects to have both function and personality.
 
@@ -104,9 +77,11 @@ I’m drawn to calm purple aesthetics, clean interfaces, privacy-focused tools, 
 
 Outside of coding, I like creative design, technology, games, anime, guitar, art, and small ideas that can turn into meaningful projects.
 
-</td>
-  </tr>
-</table>
+<br>
+
+<p align="center">
+  <img src="image1.png" alt="Iri aesthetic image" width="135">
+</p>
 
 ---
 
@@ -114,32 +89,25 @@ Outside of coding, I like creative design, technology, games, anime, guitar, art
 
 Right now, I’m focused on building software that combines usefulness, safety, and care.
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>WebWarden</h3>
-      <p>A privacy and browser safety extension focused on helping people browse with more confidence and control.</p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>Helpful Everyday Tools</h3>
-      <p>I also want to create projects that support people in simple daily ways, such as wellbeing, hydration, organisation, and safer technology use.</p>
-    </td>
-  </tr>
-</table>
+**WebWarden**
+A privacy and browser safety extension focused on helping people browse with more confidence and control.
+
+**Helpful everyday tools**
+I also want to create projects that support people in simple daily ways, such as wellbeing, hydration, organisation, and safer technology use.
+
+---
+
+<p align="center">
+  <img src="image2.png" alt="Purple aesthetic divider" width="82%">
+</p>
 
 ---
 
 ## WebWarden
 
-<h2 align="center">WebWarden</h2>
-
 <p align="center">
-  <em>A privacy and security browser extension designed to make the web feel safer and easier to understand.</em>
+  <strong>A privacy and security browser extension designed to make the web feel safer and easier to understand.</strong>
 </p>
-
-<table>
-  <tr>
-    <td width="76%" valign="top">
 
 WebWarden is my main project.
 
@@ -147,83 +115,38 @@ It is built around browser safety, privacy, control, and user trust. My goal is 
 
 I want WebWarden to feel friendly, useful, and serious at the same time. A tool that protects users should also respect them.
 
-<br>
+**WebWarden focuses on:**
 
-<strong>WebWarden focuses on:</strong>
-
-<ul>
-  <li>Browser protection</li>
-  <li>Privacy control</li>
-  <li>Download safety</li>
-  <li>Suspicious website awareness</li>
-  <li>Clear and understandable user control</li>
-</ul>
-
-</td>
-<td width="24%" align="center">
-  <img src="image5.png" alt="Sakura aesthetic image" width="115">
-</td>
-  </tr>
-</table>
+* Browser protection
+* Privacy control
+* Download safety
+* Suspicious website awareness
+* Clear and understandable user control
 
 <br>
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>Protection</h3>
-      <p>Helps users stay aware of unsafe, suspicious, or unwanted behaviour while browsing.</p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>Privacy</h3>
-      <p>Focuses on giving users more control over trackers, cookies, permissions, and risky browsing behaviour.</p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>Safety</h3>
-      <p>Helps make risky downloads, suspicious links, and unclear online behaviour easier to understand.</p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>Control</h3>
-      <p>Keeps settings readable, calm, and understandable so users do not feel overwhelmed.</p>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="image5.png" alt="Sakura aesthetic image" width="135">
+</p>
 
 ---
 
 ## What Guides WebWarden
 
-<table>
-  <tr>
-    <td align="center" width="20%">
-      <strong>User First</strong>
-      <br>
-      <sub>People matter most.</sub>
-    </td>
-    <td align="center" width="20%">
-      <strong>Privacy</strong>
-      <br>
-      <sub>Protection should be respectful.</sub>
-    </td>
-    <td align="center" width="20%">
-      <strong>Clarity</strong>
-      <br>
-      <sub>Security should be understandable.</sub>
-    </td>
-    <td align="center" width="20%">
-      <strong>Control</strong>
-      <br>
-      <sub>Users should stay in charge.</sub>
-    </td>
-    <td align="center" width="20%">
-      <strong>Care</strong>
-      <br>
-      <sub>Every feature should have a reason.</sub>
-    </td>
-  </tr>
-</table>
+**User first**
+People matter most.
+
+**Privacy**
+Protection should be respectful.
+
+**Clarity**
+Security should be understandable.
+
+**Control**
+Users should stay in charge.
+
+**Care**
+Every feature should have a reason.
 
 ---
 
@@ -237,53 +160,41 @@ I want WebWarden to feel friendly, useful, and serious at the same time. A tool 
   C# • C++ • Rust • Python • JavaScript • HTML • CSS
 </p>
 
-<br>
+---
 
-<table>
-  <tr>
-    <td align="center" width="33%">
-      <h3>Building</h3>
-      <p>Browser tools<br>security-focused features<br>helpful software</p>
-    </td>
-    <td align="center" width="33%">
-      <h3>Improving</h3>
-      <p>Cleaner code<br>better design<br>stronger protection</p>
-    </td>
-    <td align="center" width="33%">
-      <h3>Creating</h3>
-      <p>Tools people trust<br>software people enjoy<br>projects with purpose</p>
-    </td>
-  </tr>
-</table>
+## Building Towards
+
+**Building**
+Browser tools, security-focused features, and helpful software.
+
+**Improving**
+Cleaner code, better design, and stronger protection.
+
+**Creating**
+Tools people trust, software people enjoy, and projects with purpose.
 
 ---
 
 ## Contact
 
-<table>
-  <tr>
-    <td width="78%" valign="top">
-
 If you have feedback, questions, bug reports, project ideas, or simply want to say hello, you are welcome to reach out.
 
 I read my emails personally and appreciate thoughtful messages. Whether something is broken, confusing, helpful, or you just have an idea, I genuinely value hearing from people.
 
+**Email:** [iri.devsupport@gmail.com](mailto:iri.devsupport@gmail.com)
+**Discord:** iri.dev
+
+<p align="center">
+  <a href="mailto:iri.devsupport@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Iri%20Support-BB86FC?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Iri Support">
+  </a>
+</p>
+
 <br>
 
-<strong>Email:</strong> <a href="mailto:iri.devsupport@gmail.com">[iri.devsupport@gmail.com](mailto:iri.devsupport@gmail.com)</a> <strong>Discord:</strong> iri.dev
-
-<br><br>
-
-<a href="mailto:iri.devsupport@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Iri%20Support-BB86FC?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Iri Support">
-</a>
-
-</td>
-<td width="22%" align="center">
-  <img src="image3.png" alt="Smiling aesthetic image" width="105">
-</td>
-  </tr>
-</table>
+<p align="center">
+  <img src="image3.png" alt="Smiling aesthetic image" width="125">
+</p>
 
 ---
 
@@ -291,13 +202,11 @@ I read my emails personally and appreciate thoughtful messages. Whether somethin
 
 If I build something, I want it to:
 
-<ul>
-  <li>Respect your privacy</li>
-  <li>Be honest about what it does</li>
-  <li>Feel clear instead of overwhelming</li>
-  <li>Put users first</li>
-  <li>Keep improving over time</li>
-</ul>
+* Respect your privacy
+* Be honest about what it does
+* Feel clear instead of overwhelming
+* Put users first
+* Keep improving over time
 
 I want my work to feel protective, useful, and carefully made.
 
