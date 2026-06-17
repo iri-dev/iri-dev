@@ -1,99 +1,124 @@
-<h1 align="center">Hi, I'm Iri 💜</h1>
+<p align="center">
+  <img src="banner3.png" alt="Iri Banner" width="100%">
+</p>
+
+<h1 align="center">🌙 Iri</h1>
 
 <p align="center">
-  <strong>Solo developer</strong> • <strong>Computing student</strong> • <strong>Builder of helpful software</strong>
+  <strong>Solo Developer • Computing Student • Builder of Helpful Software</strong>
 </p>
 
 <p align="center">
-  I create tools with care, privacy, safety, and a little purple magic.
-</p>
-
----
-
-## 🌙 About Me
-
-I'm **Iri**, a solo developer who loves building software that feels useful, thoughtful, and protective.
-
-I care a lot about making projects that genuinely help people — whether that means keeping users safer online, helping them build better habits, or creating apps that feel warm and easy to use.
-
-My main focus is learning deeply, improving every project I make, and slowly building a collection of software that reflects who I am: careful, compassionate, creative, and determined.
-
----
-
-## ✨ What I Like Building
-
-I enjoy creating projects around:
-
-- 🛡️ Privacy and safety tools
-- 🌐 Browser extensions
-- 💧 Helpful lifestyle apps
-- 🖥️ Windows desktop apps
-- 🎨 Soft, polished user interfaces
-- 🧠 Tools that make life easier
-
-I want my work to feel protective, calm, and meaningful — not just functional.
-
----
-
-## 🛠️ Languages & Tools
-
-<p align="center">
-  <img src="https://img.shields.io/badge/C%23-8A5CF6?style=for-the-badge&logo=csharp&logoColor=white">
-  <img src="https://img.shields.io/badge/C++-7C3AED?style=for-the-badge&logo=cplusplus&logoColor=white">
-  <img src="https://img.shields.io/badge/Python-9B6BFF?style=for-the-badge&logo=python&logoColor=white">
-  <img src="https://img.shields.io/badge/JavaScript-A855F7?style=for-the-badge&logo=javascript&logoColor=white">
-  <img src="https://img.shields.io/badge/HTML-E879F9?style=for-the-badge&logo=html5&logoColor=white">
-  <img src="https://img.shields.io/badge/CSS-C084FC?style=for-the-badge&logo=css3&logoColor=white">
+  <em>Creating thoughtful software with care, privacy, safety, and a little purple magic.</em>
 </p>
 
 ---
 
-## 🌸 Projects
+<p align="center">
+  <img src="image2.png" width="180">
+</p>
+
+## 🌸 About Me
+
+Hi, I'm **Iri**.
+
+I'm a solo developer  who enjoys creating software that genuinely helps people. I care about privacy, safety, wellbeing, and thoughtful design. My goal isn't simply to write code—it's to create technology that feels useful, trustworthy, and welcoming.
+
+I enjoy building projects that protect users, improve everyday life, and solve real problems in simple ways.
+
+---
+
+<p align="center">
+  <img src="image5.png" width="350">
+</p>
+
+## ✨ Current Projects
 
 ### 🛡️ WebWarden
 
-A browser safety and privacy extension focused on protecting users from harmful websites, trackers, risky downloads, redirects, and suspicious online behaviour.
-
-**Focus:** privacy, safety, browser protection, user control.
+A browser protection suite focused on privacy, safety, tracker blocking, download analysis, and online security.
 
 ### 💧 Hydra Heart
 
-A hydration app designed to help people build healthier water habits through gentle reminders and thoughtful design.
-
-**Focus:** wellbeing, daily habits, self-care.
+A hydration companion designed to help people build healthier daily habits through gentle reminders and thoughtful design.
 
 ### 🌿 The Garden
 
-A Windows desktop app concept where every tool feels like part of a peaceful digital garden.
-
-**Focus:** utilities, calm design, desktop tools, organisation.
+A collection of desktop tools built around a calm and peaceful digital garden aesthetic.
 
 ---
 
-## 💜 My Developer Values
+<p align="center">
+  <img src="image6.png" width="450">
+</p>
 
-| Value | Meaning |
-|--------|---------|
-| 🛡️ Safe | Protect users and respect their privacy |
-| 🌸 Helpful | Solve real problems in people’s lives |
-| ✨ Polished | Feel nice to use, not rushed |
-| 🧠 Honest | Avoid fake claims or overpromising |
-| 💜 Caring | Built with empathy, not just code |
+## 💻 Languages & Technologies
 
----
+<p align="center">
 
-## 🌌 Current Focus
+![C#](https://img.shields.io/badge/C%23-8A5CF6?style=for-the-badge\&logo=csharp\&logoColor=white)
+![C++](https://img.shields.io/badge/C++-8A5CF6?style=for-the-badge\&logo=cplusplus\&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-8A5CF6?style=for-the-badge\&logo=rust\&logoColor=white)
+![Python](https://img.shields.io/badge/Python-8A5CF6?style=for-the-badge\&logo=python\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-8A5CF6?style=for-the-badge\&logo=javascript\&logoColor=white)
 
-Right now, I'm improving my skills in software development, cybersecurity, UI design, and project planning.
-
-I'm especially interested in building tools that combine:
-
-care + safety + useful design + strong code
+</p>
 
 ---
 
-## 🕯️ Small Note
+## 💜 Values
 
-I'm still learning, still improving, and still building — but every project I make carries a piece of what I care about.
+<table>
+<tr>
+<td width="33%" align="center">
 
-Thanks for visiting my profile 💜
+### 🛡️ Safety
+
+Software should protect users.
+
+</td>
+
+<td width="33%" align="center">
+
+### 🌸 Care
+
+Technology should help people.
+
+</td>
+
+<td width="33%" align="center">
+
+### ✨ Quality
+
+Details matter.
+
+</td>
+</tr>
+</table>
+
+---
+
+<p align="center">
+  <img src="image8.png" width="300">
+</p>
+
+## 🌙 Current Focus
+
+I'm currently improving my skills in:
+
+* Software Development
+* Cybersecurity
+* User Experience Design
+* Browser Technologies
+* Windows Applications
+
+Every project I build teaches me something new, and every project is a step toward creating software that genuinely improves people's lives.
+
+---
+
+## 🌸 Connect
+
+<p align="center">
+  💜 Thanks for visiting my profile.
+</p>
+
