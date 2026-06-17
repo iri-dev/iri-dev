@@ -60,8 +60,3 @@
 
 <br>
 
-<p align="center">
-  <sub>
-    currently building tools for safer browsing, healthier habits, and calmer technology
-  </sub>
-</p>
