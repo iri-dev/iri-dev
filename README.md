@@ -12,9 +12,9 @@
 
 <br>
 
-*I build software with care, safety, privacy, and a little purple magic.*
+<em>I build software with care, safety, privacy, and a little purple magic.</em>
 
-<br>
+<br><br>
 
 [![Solo Developer](https://img.shields.io/badge/Solo%20Developer-8A5CF6?style=for-the-badge&logo=github&logoColor=white)](https://github.com/iri-dev)&nbsp;
 [![WebWarden](https://img.shields.io/badge/WebWarden-9B6BFF?style=for-the-badge&logo=googlechrome&logoColor=white)](#️-webwarden)&nbsp;
@@ -28,7 +28,7 @@
 
 ## 💜 About Me
 
-<img align="right" src="image4.png" width="150">
+<img align="right" src="image4.png" width="150" style="margin-left: 20px;">
 
 I'm a solo developer who believes technology should make life better, safer, and more human.
 
@@ -48,15 +48,19 @@ I build tools that solve real problems — the kind that make browsing feel less
 
 ## 🌙 How I Build
 
-<img align="right" src="image1.png" width="120">
+<img align="right" src="image1.png" width="120" style="margin-left: 20px;">
 
 Software shouldn't just work — it should feel thoughtful, trustworthy, and carefully made. I like projects that have both purpose and personality.
 
-- 🛡️ **Safety** — protection that feels clear, not scary
-- 💜 **Care** — software that respects the people using it
-- 🌙 **Calm** — simple, readable, and in control
-- 🌱 **Growth** — every project is a step forward
-- ✨ **Trust** — users deserve to understand what a tool does
+<br>
+
+🛡️ &nbsp;**Safety** — protection that feels clear, not scary &nbsp;&nbsp;&nbsp; 💜 &nbsp;**Care** — software that respects the people using it
+
+🌙 &nbsp;**Calm** — simple, readable, in control &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 🌱 &nbsp;**Growth** — every project is a step forward
+
+✨ &nbsp;**Trust** — users deserve to understand what a tool does
+
+<br>
 
 I'm still learning, still improving, still building — and I don't think I'll ever stop. Every line of code is a chance to make something a little better, for the person using it and for me as a developer.
 
@@ -72,7 +76,7 @@ I'm still learning, still improving, still building — and I don't think I'll e
 
 <br>
 
-<img align="right" src="image5.png" width="130">
+<img align="right" src="image5.png" width="130" style="margin-left: 20px;">
 
 WebWarden is my main project. It gives users real control over their browsing by focusing on safety, privacy, and trust — without feeling overwhelming or confusing. Protection shouldn't require a manual.
 
@@ -112,19 +116,13 @@ WebWarden is my main project. It gives users real control over their browsing by
 ![HTML](https://img.shields.io/badge/HTML-BB86FC?style=flat-square&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-8A5CF6?style=flat-square&logo=css3&logoColor=white)
 
-<br>
-
-| 💻 Building | 🌱 Learning | 💜 Goal |
-|:-:|:-:|:-:|
-| Browser tools, security features, helpful software | Better code, better design, better protection | Software people trust. Tools people enjoy. A safer web. |
-
 </div>
 
 ---
 
 ## 📫 Get in Touch
 
-<img align="right" src="image3.png" width="120">
+<img align="right" src="image3.png" width="120" style="margin-left: 20px;">
 
 If you have feedback, bug reports, project ideas, or just want to say hello — I'd love to hear from you.
 
