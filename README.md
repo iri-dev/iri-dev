@@ -18,25 +18,17 @@
   <img src="https://img.shields.io/badge/Always%20Learning-BB86FC?style=for-the-badge" alt="Always Learning">
 </p>
 
-<br>
-
-<p align="center">
-  <img src="image4.png" alt="Purple aesthetic hero image" width="390">
-</p>
-
 ---
+
+<table>
+<tr>
+<td width="58%" valign="top">
 
 ## 💜 About Me
 
 I'm a solo software developer who believes technology should make life better, safer, and more helpful for everyone.
 
 I enjoy building tools that solve real problems, protect users, and make everyday browsing feel safer and more controlled.
-
-<br>
-
-<table>
-<tr>
-<td width="62%" valign="top">
 
 ### ✨ What I Care About
 
@@ -47,9 +39,37 @@ I enjoy building tools that solve real problems, protect users, and make everyda
 * ⚡ Designing software with both function and personality
 
 </td>
-<td width="38%" align="center">
+<td width="42%" align="center">
 
-<img src="image1.png" alt="Iri aesthetic image" width="190">
+<img src="image4.png" alt="Purple aesthetic image" width="260">
+
+</td>
+</tr>
+</table>
+
+<br>
+
+<table>
+<tr>
+<td width="35%" align="center">
+
+<img src="image1.png" alt="Iri aesthetic image" width="180">
+
+</td>
+<td width="65%" valign="top">
+
+## 🌙 Developer Identity
+
+I like my projects to have both purpose and personality.
+
+For me, software should not only work well — it should feel thoughtful, useful, and trustworthy. I want the things I build to feel clean, safe, and enjoyable to use.
+
+```text
+protect users
+build with care
+keep learning
+make it beautiful
+```
 
 </td>
 </tr>
@@ -58,7 +78,7 @@ I enjoy building tools that solve real problems, protect users, and make everyda
 <br>
 
 <p align="center">
-  <img src="image2.png" alt="Purple electro divider" width="125">
+  <img src="image2.png" alt="Purple electro divider" width="110">
 </p>
 
 ---
@@ -71,7 +91,28 @@ I enjoy building tools that solve real problems, protect users, and make everyda
   <em>A privacy and security browser extension designed to help people stay safer online.</em>
 </p>
 
+<table>
+<tr>
+<td width="62%" valign="top">
+
 WebWarden is my main project. It is built to give users more control over their browsing experience by focusing on safety, privacy, protection, and trust.
+
+### WebWarden focuses on:
+
+* 🛡️ Browser protection
+* 🔒 Privacy control
+* ⚠️ Download safety
+* 🌙 Simple user control
+* 💜 Clear and friendly design
+
+</td>
+<td width="38%" align="center">
+
+<img src="image5.png" alt="Sakura aesthetic image" width="210">
+
+</td>
+</tr>
+</table>
 
 <br>
 
@@ -110,22 +151,18 @@ Keeps protection clear, simple, and easy to understand.
 
 <br>
 
-<!-- 
-When you have WebWarden screenshots, add them here:
+<!-- Add your real WebWarden screenshots here when ready.
 
 <p align="center">
-  <img src="webwarden-dashboard.png" alt="WebWarden Dashboard" width="720">
+  <img src="webwarden-dashboard.png" alt="WebWarden Dashboard" width="680">
 </p>
 
 <p align="center">
-  <img src="webwarden-settings.png" alt="WebWarden Settings" width="350">
-  <img src="webwarden-protection.png" alt="WebWarden Protection" width="350">
+  <img src="webwarden-settings.png" alt="WebWarden Settings" width="330">
+  <img src="webwarden-protection.png" alt="WebWarden Protection" width="330">
 </p>
+
 -->
-
-<p align="center">
-  <img src="image5.png" alt="Sakura aesthetic image" width="370">
-</p>
 
 ---
 
@@ -141,7 +178,7 @@ When you have WebWarden screenshots, add them here:
 
 <br>
 
-<table align="center">
+<table>
 <tr>
 <td align="center" width="33%">
 
@@ -175,21 +212,9 @@ A safer web
 
 ---
 
-## ⚡ Developer Energy
-
-I like building software with both purpose and identity.
-
-For me, code is not just about making something work.
-It is about making something useful, trusted, and enjoyable for the people who use it.
-
-```text
-protect users
-build with care
-keep learning
-make it beautiful
-```
-
----
+<table>
+<tr>
+<td width="65%" valign="top">
 
 ## 💭 Motto
 
@@ -197,11 +222,18 @@ make it beautiful
 >
 > It is about the people who use it.
 
-<br>
+I want my work to feel protective, useful, and carefully made. Every project is a chance to learn, improve, and build something that helps someone.
 
-<p align="center">
-  <img src="image3.png" alt="Smiling aesthetic footer image" width="250">
-</p>
+</td>
+<td width="35%" align="center">
+
+<img src="image3.png" alt="Smiling aesthetic footer image" width="180">
+
+</td>
+</tr>
+</table>
+
+<br>
 
 <h3 align="center">💜 Thanks for visiting my profile 💜</h3>
 
@@ -214,3 +246,4 @@ make it beautiful
     <img src="https://img.shields.io/badge/Support%20Me-Buy%20Me%20a%20Coffee-9B6BFF?style=for-the-badge&logo=buymeacoffee&logoColor=white" alt="Buy Me a Coffee">
   </a>
 </p>
+
