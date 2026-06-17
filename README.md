@@ -2,7 +2,7 @@
   <img src="banner3.png" alt="Iri Banner" width="100%">
 </p>
 
-<h1 align="center">Iri.dev 💜</h1>
+<h1 align="center">💜 Iri.dev 💜</h1>
 
 <p align="center">
   <strong>Iri</strong> is pronounced <em>eye-ree</em>
@@ -13,57 +13,57 @@
 </p>
 
 <p align="center">
-  <em>I build software with care, privacy, safety, and a soft purple touch.</em>
+  <em>Building software with care, privacy, safety, and a soft purple touch.</em>
 </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Solo%20Developer-8A5CF6?style=for-the-badge&logo=github&logoColor=white" alt="Solo Developer">
   <img src="https://img.shields.io/badge/WebWarden-9B6BFF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="WebWarden">
-  <img src="https://img.shields.io/badge/Discord-iri.dev-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord iri.dev">
+  <img src="https://img.shields.io/badge/Always%20Learning-BB86FC?style=for-the-badge" alt="Always Learning">
 </p>
 
 <p align="center">
-  <sub>💜 software • safety • privacy • care • calm design 💜</sub>
+  <sub>software • safety • privacy • care • calm design</sub>
+</p>
+
+<br>
+
+<p align="center">
+  <img src="image2.png" alt="Purple aesthetic divider" width="90%">
 </p>
 
 ---
 
 ## 🌙 Welcome
 
-> I want the things I build to feel protective, useful, and carefully made.
+I am a solo software developer who enjoys building tools that solve real problems and help people feel safer online.
 
-I'm a solo software developer who enjoys creating tools that solve real problems and help people feel safer online.
-My work is focused around browser safety, privacy, clean design, and making technology feel easier to understand.
+My work is focused on browser safety, privacy, clean design, and making technology easier to understand. I care about the person using the software. If something feels confusing, risky, overwhelming, or unclear, I want to make it better.
 
-I care about the person using the software. If something feels confusing, risky, overwhelming, or unclear, I want to make it better.
+<p align="center">
+  <img src="image4.png" alt="Purple aesthetic image" width="135">
+  &nbsp;&nbsp;&nbsp;
+  <img src="image1.png" alt="Iri aesthetic image" width="115">
+  &nbsp;&nbsp;&nbsp;
+  <img src="image5.png" alt="Sakura aesthetic image" width="130">
+  &nbsp;&nbsp;&nbsp;
+  <img src="image3.png" alt="Smiling aesthetic image" width="120">
+</p>
 
-<br>
+---
 
-<img align="right" src="image4.png" alt="Purple aesthetic image" width="145">
-
-## 💜 About Me
-
-I believe technology should make life better, safer, and more helpful for everyone.
-
-I enjoy building tools that protect users, improve everyday browsing, and give people more control over their digital space.
-
-### ✨ What I Care About
+## 💜 What I Care About
 
 * 🛡️ Protecting people online
 * 💻 Building clean and useful tools
 * 🌱 Learning more with every project
 * 💜 Making technology feel safer and easier to use
 * ⚡ Creating software with both function and personality
-
-<br clear="right"/>
+* 🌙 Keeping things calm, readable, and user-friendly
 
 ---
 
-<img align="left" src="image1.png" alt="Iri aesthetic image" width="105">
-
 ## 🕊️ How I Build
-
-I try to build with calmness, care, and patience.
 
 | Principle   | What it means to me                                      |
 | ----------- | -------------------------------------------------------- |
@@ -73,14 +73,6 @@ I try to build with calmness, care, and patience.
 | 🌱 Growth   | Every project is a chance to learn and improve.          |
 | ✨ Trust     | Users should understand what a tool is doing and why.    |
 
-<br clear="left"/>
-
----
-
-<p align="center">
-  <img src="image2.png" alt="Purple aesthetic divider" width="82%">
-</p>
-
 ---
 
 ## 🛡️ Current Project — WebWarden
@@ -88,8 +80,6 @@ I try to build with calmness, care, and patience.
 <p align="center">
   <em>A privacy and security browser extension designed to help people stay safer online.</em>
 </p>
-
-<img align="right" src="image5.png" alt="Sakura aesthetic image" width="120">
 
 WebWarden is my main project. It is built to give users more control over their browsing experience by focusing on safety, privacy, protection, and trust.
 
@@ -102,8 +92,6 @@ I want WebWarden to feel clear and friendly, so users can understand what is hap
 * ⚠️ Download safety
 * 🌙 Simple user control
 * 💜 Clear and friendly design
-
-<br clear="right"/>
 
 ### What I want WebWarden to feel like
 
@@ -141,7 +129,9 @@ When you have real WebWarden screenshots, add them here.
   C# • C++ • Rust • Python • JavaScript • HTML • CSS
 </p>
 
-<br>
+---
+
+## 🌱 What I’m Building Towards
 
 | 💻 Building       | 🌱 Learning       | 💜 Goal               |
 | ----------------- | ----------------- | --------------------- |
@@ -152,8 +142,6 @@ When you have real WebWarden screenshots, add them here.
 ---
 
 ## 📫 Contact Me
-
-<img align="right" src="image3.png" alt="Smiling aesthetic image" width="105">
 
 If you have feedback, questions, bug reports, project ideas, or simply want to say hello, you are welcome to reach out.
 
@@ -170,10 +158,7 @@ Whether something is broken, confusing, helpful, or you just have an idea, I gen
   <a href="mailto:iri.devsupport@gmail.com">
     <img src="https://img.shields.io/badge/Email-Iri%20Support-BB86FC?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Iri Support">
   </a>
-  <img src="https://img.shields.io/badge/Discord-iri.dev-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord iri.dev">
 </p>
-
-<br clear="right"/>
 
 ---
 
@@ -188,7 +173,7 @@ I want my work to feel protective, useful, and carefully made. Every project is 
 <br>
 
 <p align="center">
-  <img src="image6.png" alt="Purple sakura footer image" width="82%">
+  <img src="image6.png" alt="Purple sakura footer image" width="90%">
 </p>
 
 <h3 align="center">💜 Thanks for visiting my profile 💜</h3>
