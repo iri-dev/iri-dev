@@ -30,7 +30,7 @@
 
 ---
 
-## About Me
+<h2 align="center">About Me</h2>
 
 I’m a solo software developer who cares about building tools with purpose.
 
@@ -38,38 +38,42 @@ I like creating software that feels clear, useful, and respectful of the people 
 
 For me, good software should not just work. It should help people feel more in control, more protected, and more understood.
 
-**What I care about:**
-
-* Building tools that genuinely help people
-* Making privacy and safety easier to understand
-* Creating clean, calm, and readable designs
-* Learning through every project I make
-* Putting care into the small details
-
-<br>
+<p align="center">
+  <img src="image4.png" alt="Purple aesthetic image" width="150">
+</p>
 
 <p align="center">
-  <img src="image4.png" alt="Purple aesthetic image" width="155">
+  <strong>careful design</strong> • <strong>user trust</strong> • <strong>privacy</strong> • <strong>helpful software</strong>
 </p>
 
 ---
 
-## What Matters To Me
+<h2 align="center">What Matters To Me</h2>
 
-**Care**
-Software should respect the people using it.
+<p align="center">
+  <strong>Care</strong><br>
+  Software should respect the people using it.
+</p>
 
-**Safety**
-Protection should feel clear, honest, and understandable.
+<p align="center">
+  <strong>Safety</strong><br>
+  Protection should feel clear, honest, and understandable.
+</p>
 
-**Trust**
-Users should know what a tool is doing and why.
+<p align="center">
+  <strong>Trust</strong><br>
+  Users should know what a tool is doing and why.
+</p>
 
 I believe good tools should feel approachable without losing their purpose. They should help quietly, explain clearly, and give users control without making things feel scary or confusing.
 
 ---
 
-## Beyond The Code
+<h2 align="center">Beyond The Code</h2>
+
+<p align="center">
+  <img src="image1.png" alt="Iri aesthetic image" width="135">
+</p>
 
 I like my projects to have both function and personality.
 
@@ -77,36 +81,34 @@ I’m drawn to calm purple aesthetics, clean interfaces, privacy-focused tools, 
 
 Outside of coding, I like creative design, technology, games, anime, guitar, art, and small ideas that can turn into meaningful projects.
 
-<br>
+---
+
+<h2 align="center">Current Focus</h2>
 
 <p align="center">
-  <img src="image1.png" alt="Iri aesthetic image" width="135">
+  <strong>WebWarden</strong><br>
+  A privacy and browser safety extension focused on helping people browse with more confidence and control.
+</p>
+
+<p align="center">
+  <strong>Helpful Everyday Tools</strong><br>
+  I also want to create projects that support people in simple daily ways, such as wellbeing, hydration, organisation, and safer technology use.
 </p>
 
 ---
 
-## Current Focus
-
-Right now, I’m focused on building software that combines usefulness, safety, and care.
-
-**WebWarden**
-A privacy and browser safety extension focused on helping people browse with more confidence and control.
-
-**Helpful everyday tools**
-I also want to create projects that support people in simple daily ways, such as wellbeing, hydration, organisation, and safer technology use.
-
----
-
 <p align="center">
-  <img src="image2.png" alt="Purple aesthetic divider" width="82%">
+  <img src="image2.png" alt="Purple aesthetic divider" width="70%">
 </p>
 
----
-
-## WebWarden
+<h2 align="center">WebWarden</h2>
 
 <p align="center">
-  <strong>A privacy and security browser extension designed to make the web feel safer and easier to understand.</strong>
+  <em>A privacy and security browser extension designed to make the web feel safer and easier to understand.</em>
+</p>
+
+<p align="center">
+  <img src="image5.png" alt="Sakura aesthetic image" width="120">
 </p>
 
 WebWarden is my main project.
@@ -115,7 +117,7 @@ It is built around browser safety, privacy, control, and user trust. My goal is 
 
 I want WebWarden to feel friendly, useful, and serious at the same time. A tool that protects users should also respect them.
 
-**WebWarden focuses on:**
+### WebWarden focuses on
 
 * Browser protection
 * Privacy control
@@ -123,34 +125,17 @@ I want WebWarden to feel friendly, useful, and serious at the same time. A tool 
 * Suspicious website awareness
 * Clear and understandable user control
 
-<br>
+### What guides WebWarden
 
-<p align="center">
-  <img src="image5.png" alt="Sakura aesthetic image" width="135">
-</p>
-
----
-
-## What Guides WebWarden
-
-**User first**
-People matter most.
-
-**Privacy**
-Protection should be respectful.
-
-**Clarity**
-Security should be understandable.
-
-**Control**
-Users should stay in charge.
-
-**Care**
-Every feature should have a reason.
+> User safety comes first.
+> Privacy should be understandable.
+> Protection should be transparent.
+> Features should have a clear purpose.
+> Users should stay in control.
 
 ---
 
-## Languages
+<h2 align="center">Languages</h2>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=cs,cpp,rust,python,js,html,css" alt="Languages">
@@ -160,29 +145,28 @@ Every feature should have a reason.
   C# • C++ • Rust • Python • JavaScript • HTML • CSS
 </p>
 
----
-
-## Building Towards
-
-**Building**
-Browser tools, security-focused features, and helpful software.
-
-**Improving**
-Cleaner code, better design, and stronger protection.
-
-**Creating**
-Tools people trust, software people enjoy, and projects with purpose.
+<p align="center">
+  <strong>Building:</strong> browser tools, security-focused features, helpful software<br>
+  <strong>Improving:</strong> cleaner code, better design, stronger protection<br>
+  <strong>Creating:</strong> tools people trust, software people enjoy, projects with purpose
+</p>
 
 ---
 
-## Contact
+<h2 align="center">Contact</h2>
+
+<p align="center">
+  <img src="image3.png" alt="Smiling aesthetic image" width="115">
+</p>
 
 If you have feedback, questions, bug reports, project ideas, or simply want to say hello, you are welcome to reach out.
 
 I read my emails personally and appreciate thoughtful messages. Whether something is broken, confusing, helpful, or you just have an idea, I genuinely value hearing from people.
 
-**Email:** [iri.devsupport@gmail.com](mailto:iri.devsupport@gmail.com)
-**Discord:** iri.dev
+<p align="center">
+  <strong>Email:</strong> <a href="mailto:iri.devsupport@gmail.com">iri.devsupport@gmail.com</a><br>
+  <strong>Discord:</strong> iri.dev
+</p>
 
 <p align="center">
   <a href="mailto:iri.devsupport@gmail.com">
@@ -190,15 +174,9 @@ I read my emails personally and appreciate thoughtful messages. Whether somethin
   </a>
 </p>
 
-<br>
-
-<p align="center">
-  <img src="image3.png" alt="Smiling aesthetic image" width="125">
-</p>
-
 ---
 
-## A Small Promise
+<h2 align="center">A Small Promise</h2>
 
 If I build something, I want it to:
 
@@ -212,7 +190,7 @@ I want my work to feel protective, useful, and carefully made.
 
 ---
 
-## Motto
+<h2 align="center">Motto</h2>
 
 > Code is not just about technology.
 > It is about the people who use it.
