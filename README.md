@@ -4,9 +4,9 @@
 
 <h1 align="center">Hi, I'm Iri 💜</h1>
 
-<h3 align="center">
-  pronounced <em>eye-ree</em> • she/her • solo developer • creator of WebWarden
-</h3>
+<p align="center">
+  <strong>pronounced <em>eye-ree</em></strong> • she/her • solo developer • creator of WebWarden
+</p>
 
 <p align="center">
   <em>I build software with care, safety, privacy, and a little purple magic.</em>
@@ -15,7 +15,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Solo%20Developer-8A5CF6?style=for-the-badge&logo=github&logoColor=white" alt="Solo Developer">
   <img src="https://img.shields.io/badge/WebWarden-9B6BFF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="WebWarden">
-  <img src="https://img.shields.io/badge/Pronounced-Eye--Ree-BB86FC?style=for-the-badge" alt="Pronounced Eye Ree">
+  <img src="https://img.shields.io/badge/Pronounced-Eye--Ree-BB86FC?style=for-the-badge" alt="Pronounced Eye-Ree">
 </p>
 
 <p align="center">
@@ -24,13 +24,31 @@
 
 <br>
 
-<p align="center">
-  <img src="image6.png" alt="Purple sakura aesthetic scene" width="82%">
-</p>
+<table>
+<tr>
+<td align="center">
 
-<p align="center">
-  <em>A small corner of GitHub for the things I build, learn, and care about.</em>
-</p>
+### 🛡️ Protect
+
+I care about building tools that help people feel safer online.
+
+</td>
+<td align="center">
+
+### 🌙 Calm
+
+I like software that feels clear, readable, and easy to control.
+
+</td>
+<td align="center">
+
+### 💜 Care
+
+I want the things I build to be useful, thoughtful, and human.
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -42,7 +60,9 @@
 
 I'm a solo software developer who believes technology should make life better, safer, and more helpful for everyone.
 
-I care about building tools that feel useful, protective, and easy to understand. I want my work to help real people, not just look good in code.
+I enjoy building tools that solve real problems, protect users, and make everyday browsing feel safer and more controlled.
+
+I care about the person using the software. If something feels confusing, risky, overwhelming, or unclear, I want to make it better.
 
 ### ✨ What I Care About
 
@@ -67,18 +87,18 @@ I care about building tools that feel useful, protective, and easy to understand
 
 <table>
 <tr>
-<td width="20%" align="center">
+<td width="22%" align="center">
 
 <img src="image1.png" alt="Iri aesthetic image" width="105">
 
 </td>
-<td width="80%" valign="top">
+<td width="78%" valign="top">
 
 I like my projects to have both purpose and personality.
 
 For me, software should not only work well — it should feel thoughtful, useful, and trustworthy. I want the things I build to feel clean, safe, and carefully made.
 
-I care about the person using the software. If something is confusing, unsafe, overwhelming, or unclear, then I want to make it better.
+I am still learning, still improving, and still building. Every project is a step forward.
 
 </td>
 </tr>
@@ -97,6 +117,12 @@ I try to build with calmness, care, and patience.
 | 🌙 Calmness | Good tools should feel simple, readable, and controlled. |
 | 🌱 Growth   | Every project is a chance to learn and improve.          |
 | ✨ Trust     | Users should understand what a tool is doing and why.    |
+
+---
+
+<p align="center">
+  <img src="image2.png" alt="Purple aesthetic divider" width="82%">
+</p>
 
 ---
 
@@ -127,7 +153,7 @@ I want WebWarden to feel clear and friendly, so users can understand what is hap
 </td>
 <td width="24%" align="center">
 
-<img src="image5.png" alt="Sakura aesthetic image" width="120">
+<img src="image5.png" alt="Sakura aesthetic image" width="115">
 
 </td>
 </tr>
@@ -256,7 +282,7 @@ Whether something is broken, confusing, helpful, or you just have an idea, I gen
 </td>
 <td width="22%" align="center">
 
-<img src="image3.png" alt="Smiling aesthetic image" width="110">
+<img src="image3.png" alt="Smiling aesthetic image" width="105">
 
 </td>
 </tr>
@@ -275,7 +301,7 @@ I want my work to feel protective, useful, and carefully made. Every project is 
 <br>
 
 <p align="center">
-  <img src="image2.png" alt="Purple aesthetic footer divider" width="82%">
+  <img src="image6.png" alt="Purple sakura footer image" width="82%">
 </p>
 
 <h3 align="center">💜 Thanks for visiting my profile 💜</h3>
