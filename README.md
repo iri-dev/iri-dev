@@ -1,15 +1,15 @@
 <p align="center">
-  <img src="banner3.png" alt="Iri Banner" width="100%">
+  <img src="banner3.png" width="100%">
 </p>
 
 <h1 align="center">🌙 Iri</h1>
 
 <p align="center">
-  <strong>Solo Developer • Computing Student • Builder of Helpful Software</strong>
+  <strong>Solo Developer • Computing Student • Creator of Helpful Software</strong>
 </p>
 
 <p align="center">
-  <em>Creating thoughtful software with care, privacy, safety, and a little purple magic.</em>
+  <em>Building thoughtful software with care, privacy, safety, and a little purple magic.</em>
 </p>
 
 ---
@@ -18,41 +18,61 @@
   <img src="image2.png" width="180">
 </p>
 
-## 🌸 About Me
+# 🌸 About Me
+
+<table>
+<tr>
+<td width="65%">
 
 Hi, I'm **Iri**.
 
-I'm a solo developer  who enjoys creating software that genuinely helps people. I care about privacy, safety, wellbeing, and thoughtful design. My goal isn't simply to write code—it's to create technology that feels useful, trustworthy, and welcoming.
+I'm a solo developer who enjoys building software that protects, supports, and improves people's everyday lives.
 
-I enjoy building projects that protect users, improve everyday life, and solve real problems in simple ways.
+Whether it's privacy tools, wellbeing apps, or desktop software, I love creating projects that feel useful, trustworthy, and welcoming.
+
+</td>
+
+<td width="35%">
+
+<img src="image1.png" width="250">
+
+</td>
+</tr>
+</table>
 
 ---
 
-<p align="center">
-  <img src="image5.png" width="350">
-</p>
+# ✨ Current Projects
 
-## ✨ Current Projects
+<table>
+<tr>
+<td width="35%">
+
+<img src="image5.png" width="250">
+
+</td>
+
+<td width="65%">
 
 ### 🛡️ WebWarden
 
-A browser protection suite focused on privacy, safety, tracker blocking, download analysis, and online security.
+Browser privacy and security suite.
 
 ### 💧 Hydra Heart
 
-A hydration companion designed to help people build healthier daily habits through gentle reminders and thoughtful design.
+Hydration and wellbeing companion.
 
 ### 🌿 The Garden
 
-A collection of desktop tools built around a calm and peaceful digital garden aesthetic.
+A calm collection of desktop tools inspired by peaceful digital spaces.
+
+</td>
+</tr>
+</table>
 
 ---
 
-<p align="center">
-  <img src="image6.png" width="450">
-</p>
-
-## 💻 Languages & Technologies
+# 💻 Languages
 
 <p align="center">
 
@@ -64,61 +84,90 @@ A collection of desktop tools built around a calm and peaceful digital garden ae
 
 </p>
 
+<p align="center">
+  <img src="image6.png" width="500">
+</p>
+
 ---
 
-## 💜 Values
+# 💜 Developer Values
 
 <table>
 <tr>
-<td width="33%" align="center">
+<td align="center" width="33%">
 
-### 🛡️ Safety
-
-Software should protect users.
+🛡️ Safety
 
 </td>
 
-<td width="33%" align="center">
+<td align="center" width="33%">
 
-### 🌸 Care
-
-Technology should help people.
+🌸 Care
 
 </td>
 
-<td width="33%" align="center">
+<td align="center" width="33%">
 
-### ✨ Quality
-
-Details matter.
+✨ Quality
 
 </td>
 </tr>
 </table>
 
+<p align="center">
+  <img src="image4.png" width="350">
+</p>
+
+I believe software should be thoughtful, helpful, and respectful of the people using it.
+
 ---
+
+# 🌙 Current Journey
+
+<table>
+<tr>
+
+<td width="35%">
+
+<img src="image7.png" width="250">
+
+</td>
+
+<td width="65%">
+
+Currently learning and improving in:
+
+* Software Development
+* Cybersecurity
+* Browser Technologies
+* UI Design
+* Windows Applications
+
+Every project is a chance to learn something new.
+
+</td>
+
+</tr>
+</table>
+
+---
+
+# 🌸 Community
+
+<p align="center">
+  <img src="image3.png" width="250">
+</p>
+
+I enjoy building projects that make technology feel safer, friendlier, and more accessible.
+
+---
+
+# ✨ Thank You
 
 <p align="center">
   <img src="image8.png" width="300">
 </p>
 
-## 🌙 Current Focus
-
-I'm currently improving my skills in:
-
-* Software Development
-* Cybersecurity
-* User Experience Design
-* Browser Technologies
-* Windows Applications
-
-Every project I build teaches me something new, and every project is a step toward creating software that genuinely improves people's lives.
-
----
-
-## 🌸 Connect
-
 <p align="center">
-  💜 Thanks for visiting my profile.
+  Thanks for visiting my profile 💜
 </p>
-
