@@ -19,8 +19,9 @@ I enjoy building tools that solve real problems, protect users, and improve ever
 
 ## 🛠️ Languages
 
-C# • JavaScript • Python • HTML • CSS • C++ • Rust
-
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cs,cpp,rust,python,js,html,css" />
+</p>
 ## 🌸 Current Project
 
 ### WebWarden
