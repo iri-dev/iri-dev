@@ -15,9 +15,7 @@
 </p>
 
 <p align="center">
-  <em>
-    Welcome to my little corner of GitHub.
-  </em>
+  <em>Welcome to my little corner of GitHub.</em>
 </p>
 
 <br>
@@ -30,8 +28,13 @@
 <p align="center">
   Whether it's privacy tools, wellbeing apps,
   or future projects still taking shape,
-  I love building things that genuinely improve everyday life.
 </p>
+
+<p align="center">
+  I love building things that genuinely help people.
+</p>
+
+<br>
 
 <p align="center">
   <strong>
@@ -43,13 +46,15 @@
 
 <p align="center">
   <a href="#-webwarden">
-    <img src="https://img.shields.io/badge/WebWarden-9B6BFF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="WebWarden">
+    <img src="https://img.shields.io/badge/WebWarden-9B6BFF?style=for-the-badge&logo=googlechrome&logoColor=white">
   </a>
-  <a href="#-current-projects">
-    <img src="https://img.shields.io/badge/Hydra%20Heart-BB86FC?style=for-the-badge" alt="Hydra Heart">
+
+  <a href="#-projects">
+    <img src="https://img.shields.io/badge/Hydra%20Heart-BB86FC?style=for-the-badge">
   </a>
+
   <a href="#-contact">
-    <img src="https://img.shields.io/badge/Contact-8A5CF6?style=for-the-badge&logo=gmail&logoColor=white" alt="Contact">
+    <img src="https://img.shields.io/badge/Contact-8A5CF6?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
 </p>
 
@@ -58,13 +63,5 @@
 <p align="center">
   <sub>
     currently building tools for safer browsing, healthier habits, and calmer technology
-  </sub>
-</p>
-
-<br>
-
-<p align="center">
-  <sub>
-    privacy • safety • wellbeing • user trust • thoughtful design
   </sub>
 </p>
