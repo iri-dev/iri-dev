@@ -14,14 +14,14 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Solo%20Developer-8A5CF6?style=for-the-badge&logo=github&logoColor=white" alt="Solo Developer">
-  <img src="https://img.shields.io/badge/Creator%20of-WebWarden-9B6BFF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Creator of WebWarden">
-  <img src="https://img.shields.io/badge/Always-Learning-BB86FC?style=for-the-badge&logo=sparkles&logoColor=white" alt="Always Learning">
+  <img src="https://img.shields.io/badge/WebWarden-9B6BFF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="WebWarden">
+  <img src="https://img.shields.io/badge/Always%20Learning-BB86FC?style=for-the-badge" alt="Always Learning">
 </p>
 
 <br>
 
 <p align="center">
-  <img src="image4.png" alt="Purple aesthetic hero image" width="500">
+  <img src="image4.png" alt="Purple aesthetic hero image" width="390">
 </p>
 
 ---
@@ -36,7 +36,7 @@ I enjoy building tools that solve real problems, protect users, and make everyda
 
 <table>
 <tr>
-<td width="60%" valign="top">
+<td width="62%" valign="top">
 
 ### ✨ What I Care About
 
@@ -47,9 +47,9 @@ I enjoy building tools that solve real problems, protect users, and make everyda
 * ⚡ Designing software with both function and personality
 
 </td>
-<td width="40%" align="center">
+<td width="38%" align="center">
 
-<img src="image1.png" alt="Iri aesthetic image" width="260">
+<img src="image1.png" alt="Iri aesthetic image" width="190">
 
 </td>
 </tr>
@@ -58,7 +58,7 @@ I enjoy building tools that solve real problems, protect users, and make everyda
 <br>
 
 <p align="center">
-  <img src="image2.png" alt="Purple electro divider" width="180">
+  <img src="image2.png" alt="Purple electro divider" width="125">
 </p>
 
 ---
@@ -110,7 +110,8 @@ Keeps protection clear, simple, and easy to understand.
 
 <br>
 
-<!-- Replace these with your real WebWarden screenshots when ready -->
+<!-- 
+When you have WebWarden screenshots, add them here:
 
 <p align="center">
   <img src="webwarden-dashboard.png" alt="WebWarden Dashboard" width="720">
@@ -120,11 +121,10 @@ Keeps protection clear, simple, and easy to understand.
   <img src="webwarden-settings.png" alt="WebWarden Settings" width="350">
   <img src="webwarden-protection.png" alt="WebWarden Protection" width="350">
 </p>
-
-<br>
+-->
 
 <p align="center">
-  <img src="image5.png" alt="Sakura aesthetic image" width="500">
+  <img src="image5.png" alt="Sakura aesthetic image" width="370">
 </p>
 
 ---
@@ -138,6 +138,40 @@ Keeps protection clear, simple, and easy to understand.
 <p align="center">
   C# • C++ • Rust • Python • JavaScript • HTML • CSS
 </p>
+
+<br>
+
+<table align="center">
+<tr>
+<td align="center" width="33%">
+
+### 💻 Building
+
+Browser tools
+Security features
+Helpful software
+
+</td>
+<td align="center" width="33%">
+
+### 🌱 Learning
+
+Better code
+Better design
+Better protection
+
+</td>
+<td align="center" width="33%">
+
+### 💜 Goal
+
+Software people trust
+Tools people enjoy
+A safer web
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -157,18 +191,6 @@ make it beautiful
 
 ---
 
-## 📊 GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=iri-dev&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=BB86FC&icon_color=BB86FC&text_color=E6EDF3" alt="Iri GitHub Stats" width="430">
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iri-dev&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=BB86FC&text_color=E6EDF3" alt="Top Languages" width="430">
-</p>
-
----
-
 ## 💭 Motto
 
 > Code is not just about technology.
@@ -178,7 +200,7 @@ make it beautiful
 <br>
 
 <p align="center">
-  <img src="image3.png" alt="Smiling aesthetic footer image" width="330">
+  <img src="image3.png" alt="Smiling aesthetic footer image" width="250">
 </p>
 
 <h3 align="center">💜 Thanks for visiting my profile 💜</h3>
