@@ -26,7 +26,7 @@
 
 <table>
 <tr>
-<td width="63%" valign="top">
+<td width="66%" valign="top">
 
 ## 💜 About Me
 
@@ -43,9 +43,9 @@ I enjoy building tools that solve real problems, protect users, and make everyda
 * ⚡ Designing software with both function and personality
 
 </td>
-<td width="37%" align="center">
+<td width="34%" align="center">
 
-<img src="image4.png" alt="Purple aesthetic image" width="220">
+<img src="image4.png" alt="Purple aesthetic image" width="190">
 
 </td>
 </tr>
@@ -55,12 +55,12 @@ I enjoy building tools that solve real problems, protect users, and make everyda
 
 <table>
 <tr>
-<td width="32%" align="center">
+<td width="28%" align="center">
 
-<img src="image1.png" alt="Iri aesthetic image" width="150">
+<img src="image1.png" alt="Iri aesthetic image" width="130">
 
 </td>
-<td width="68%" valign="top">
+<td width="72%" valign="top">
 
 ## 🌙 Developer Identity
 
@@ -79,16 +79,6 @@ make it beautiful
 </tr>
 </table>
 
-<br>
-
-<p align="center">
-  <img src="image2.png" alt="Purple electro divider" width="85">
-</p>
-
-<p align="center">
-  <sub>━━━━━━━━━━━━━━━━━━━━━━ 💜 ━━━━━━━━━━━━━━━━━━━━━━</sub>
-</p>
-
 ---
 
 ## 🌸 Current Project
@@ -101,7 +91,7 @@ make it beautiful
 
 <table>
 <tr>
-<td width="65%" valign="top">
+<td width="68%" valign="top">
 
 WebWarden is my main project. It is built to give users more control over their browsing experience by focusing on safety, privacy, protection, and trust.
 
@@ -114,9 +104,9 @@ WebWarden is my main project. It is built to give users more control over their 
 * 💜 Clear and friendly design
 
 </td>
-<td width="35%" align="center">
+<td width="32%" align="center">
 
-<img src="image5.png" alt="Sakura aesthetic image" width="180">
+<img src="image5.png" alt="Sakura aesthetic image" width="160">
 
 </td>
 </tr>
@@ -224,7 +214,7 @@ A safer web
 
 <table>
 <tr>
-<td width="67%" valign="top">
+<td width="70%" valign="top">
 
 ## 📫 Contact Me
 
@@ -241,13 +231,19 @@ I read my emails personally and try my best to respond whenever I can. Friendly 
 </p>
 
 </td>
-<td width="33%" align="center">
+<td width="30%" align="center">
 
-<img src="image3.png" alt="Smiling aesthetic image" width="150">
+<img src="image3.png" alt="Smiling aesthetic image" width="135">
 
 </td>
 </tr>
 </table>
+
+---
+
+<p align="center">
+  <img src="image2.png" alt="Purple aesthetic footer divider" width="100%">
+</p>
 
 ---
 
@@ -268,6 +264,9 @@ I want my work to feel protective, useful, and carefully made. Every project is 
 </p>
 
 <p align="center">
+  <a href="mailto:iri.devsupport@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Iri%20Support-BB86FC?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Iri Support">
+  </a>
   <a href="https://buymeacoffee.com/iri.dev">
     <img src="https://img.shields.io/badge/Support%20Me-Buy%20Me%20a%20Coffee-9B6BFF?style=for-the-badge&logo=buymeacoffee&logoColor=white" alt="Buy Me a Coffee">
   </a>
