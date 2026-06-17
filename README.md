@@ -19,33 +19,33 @@
 </p>
 
 <p align="center">
-  <sub>💜 software • safety • privacy • design 💜</sub>
+  <sub>💜 software • safety • privacy • care • design 💜</sub>
 </p>
 
 ---
 
 <table>
 <tr>
-<td width="66%" valign="top">
+<td width="68%" valign="top">
 
 ## 💜 About Me
 
 I'm a solo software developer who believes technology should make life better, safer, and more helpful for everyone.
 
-I enjoy building tools that solve real problems, protect users, and make everyday browsing feel safer and more controlled.
+I care about building tools that feel useful, protective, and easy to understand. I want the things I make to help real people, not just look good in code.
 
 ### ✨ What I Care About
 
-* 🛡️ Creating software that protects people
+* 🛡️ Protecting people online
 * 💻 Building clean and useful tools
 * 🌱 Learning more with every project
 * 💜 Making technology feel safer and easier to use
-* ⚡ Designing software with both function and personality
+* ⚡ Creating software with both function and personality
 
 </td>
-<td width="34%" align="center">
+<td width="32%" align="center">
 
-<img src="image4.png" alt="Purple aesthetic image" width="190">
+<img src="image4.png" alt="Purple aesthetic image" width="170">
 
 </td>
 </tr>
@@ -55,18 +55,18 @@ I enjoy building tools that solve real problems, protect users, and make everyda
 
 <table>
 <tr>
-<td width="28%" align="center">
+<td width="24%" align="center">
 
-<img src="image1.png" alt="Iri aesthetic image" width="130">
+<img src="image1.png" alt="Iri aesthetic image" width="115">
 
 </td>
-<td width="72%" valign="top">
+<td width="76%" valign="top">
 
 ## 🌙 Developer Identity
 
 I like my projects to have both purpose and personality.
 
-For me, software should not only work well — it should feel thoughtful, useful, and trustworthy. I want the things I build to feel clean, safe, and enjoyable to use.
+For me, software should not only work well — it should feel thoughtful, useful, and trustworthy. I want my work to feel clean, safe, and carefully made.
 
 ```text
 protect users
@@ -78,6 +78,12 @@ make it beautiful
 </td>
 </tr>
 </table>
+
+<br>
+
+<p align="center">
+  <img src="image2.png" alt="Purple aesthetic divider" width="720">
+</p>
 
 ---
 
@@ -91,9 +97,11 @@ make it beautiful
 
 <table>
 <tr>
-<td width="68%" valign="top">
+<td width="72%" valign="top">
 
 WebWarden is my main project. It is built to give users more control over their browsing experience by focusing on safety, privacy, protection, and trust.
+
+I want WebWarden to feel clear and friendly, so users can understand what is happening instead of feeling confused or overwhelmed.
 
 ### WebWarden focuses on:
 
@@ -104,9 +112,9 @@ WebWarden is my main project. It is built to give users more control over their 
 * 💜 Clear and friendly design
 
 </td>
-<td width="32%" align="center">
+<td width="28%" align="center">
 
-<img src="image5.png" alt="Sakura aesthetic image" width="160">
+<img src="image5.png" alt="Sakura aesthetic image" width="135">
 
 </td>
 </tr>
@@ -120,7 +128,7 @@ WebWarden is my main project. It is built to give users more control over their 
 
 ### 🛡️ Protection
 
-Blocks unsafe, suspicious, or unwanted behaviour while browsing.
+Helps block unsafe, suspicious, or unwanted behaviour while browsing.
 
 </td>
 <td width="50%" valign="top">
@@ -143,7 +151,7 @@ Helps users understand suspicious downloads and risky websites.
 
 ### 🌙 Control
 
-Keeps protection clear, simple, and easy to understand.
+Keeps protection simple, readable, and easy to understand.
 
 </td>
 </tr>
@@ -214,13 +222,15 @@ A safer web
 
 <table>
 <tr>
-<td width="70%" valign="top">
+<td width="72%" valign="top">
 
 ## 📫 Contact Me
 
 If you have feedback, questions, bug reports, project ideas, or simply want to say hello, you are welcome to reach out.
 
 I read my emails personally and try my best to respond whenever I can. Friendly messages are always welcome. 💜
+
+Whether something is broken, confusing, helpful, or you just have an idea, I genuinely appreciate hearing from people.
 
 📧 **[iri.devsupport@gmail.com](mailto:iri.devsupport@gmail.com)**
 
@@ -231,9 +241,9 @@ I read my emails personally and try my best to respond whenever I can. Friendly 
 </p>
 
 </td>
-<td width="30%" align="center">
+<td width="28%" align="center">
 
-<img src="image3.png" alt="Smiling aesthetic image" width="135">
+<img src="image3.png" alt="Smiling aesthetic image" width="125">
 
 </td>
 </tr>
@@ -242,10 +252,8 @@ I read my emails personally and try my best to respond whenever I can. Friendly 
 ---
 
 <p align="center">
-  <img src="image2.png" alt="Purple aesthetic footer divider" width="100%">
+  <img src="image6.png" alt="Purple sakura footer image" width="720">
 </p>
-
----
 
 ## 💭 Motto
 
