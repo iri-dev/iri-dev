@@ -20,12 +20,23 @@
   </em>
 </p>
 
+<br>
+
 <p align="center">
-  I build thoughtful software for privacy, safety, wellbeing, and everyday life.
+  I enjoy creating software that helps people feel safer,
+  healthier, and more in control.
 </p>
 
 <p align="center">
-  <strong>Creating software with care, because technology should help people.</strong>
+  Whether it's privacy tools, wellbeing apps,
+  or future projects still taking shape,
+  I love building things that genuinely improve everyday life.
+</p>
+
+<p align="center">
+  <strong>
+    Creating software with care, because technology should help people.
+  </strong>
 </p>
 
 <br>
@@ -34,7 +45,7 @@
   <a href="#-webwarden">
     <img src="https://img.shields.io/badge/WebWarden-9B6BFF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="WebWarden">
   </a>
-  <a href="#-projects">
+  <a href="#-current-projects">
     <img src="https://img.shields.io/badge/Hydra%20Heart-BB86FC?style=for-the-badge" alt="Hydra Heart">
   </a>
   <a href="#-contact">
@@ -42,6 +53,18 @@
   </a>
 </p>
 
+<br>
+
 <p align="center">
-  <sub>privacy • safety • wellbeing • thoughtful design • purple</sub>
+  <sub>
+    currently building tools for safer browsing, healthier habits, and calmer technology
+  </sub>
+</p>
+
+<br>
+
+<p align="center">
+  <sub>
+    privacy • safety • wellbeing • user trust • thoughtful design
+  </sub>
 </p>
