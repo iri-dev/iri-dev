@@ -14,24 +14,19 @@
   Software Developer • Creator of WebWarden • Building Hydra Heart
 </p>
 
-<p align="center">
-  <em>Welcome to my little corner of GitHub.</em>
-</p>
-
 <br>
 
 <p align="center">
-  I enjoy creating software that helps people feel safer,
-  healthier, and more in control.
+  Welcome to my little corner of GitHub.
 </p>
 
 <p align="center">
-  Whether it's privacy tools, wellbeing apps,
-  or future projects still taking shape,
+  I enjoy creating software that helps people feel safer, healthier, and more in control.
 </p>
 
 <p align="center">
-  I love building things that genuinely help people.
+  Whether it's privacy tools, wellbeing apps, or future projects still taking shape,
+  I love building things that genuinely improve everyday life.
 </p>
 
 <br>
@@ -50,7 +45,7 @@
   </a>
 
   <a href="#-projects">
-    <img src="https://img.shields.io/badge/Hydra%20Heart-BB86FC?style=for-the-badge">
+    <img src="https://img.shields.io/badge/Projects-BB86FC?style=for-the-badge">
   </a>
 
   <a href="#-contact">
@@ -62,6 +57,6 @@
 
 <p align="center">
   <sub>
-    currently building tools for safer browsing, healthier habits, and calmer technology
+    Purple aesthetics • Privacy • Wellbeing • Thoughtful Design
   </sub>
 </p>
