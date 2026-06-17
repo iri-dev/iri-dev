@@ -1,20 +1,42 @@
+<p align="center">
+  <img src="banner3.png" alt="Iri Banner" width="100%">
+</p>
+
 <h1 align="center">Iri 💜</h1>
 
 <p align="center">
-  pronounced <em>eye-ree</em>
+  <strong>pronounced <em>eye-ree</em></strong>
 </p>
 
 <p align="center">
-  Software Developer • Privacy • Safety • Wellbeing
+  Software Developer • Creator of WebWarden
 </p>
 
 <p align="center">
   <em>
-    I build software that helps people feel safer,
-    healthier, and more in control of their lives.
+    Building software that helps people feel safer,
+    healthier, and more in control.
   </em>
 </p>
 
 <p align="center">
-  Creator of WebWarden • Creator of Hydra Heart
+  <a href="https://github.com/iri-dev/WebWarden">
+    <img src="https://img.shields.io/badge/WebWarden-9B6BFF?style=for-the-badge&logo=googlechrome&logoColor=white">
+  </a>
+
+  <img src="https://img.shields.io/badge/Hydra%20Heart-BB86FC?style=for-the-badge">
+
+  <a href="mailto:iri.devsupport@gmail.com">
+    <img src="https://img.shields.io/badge/Contact-8A5CF6?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+</p>
+
+<p align="center">
+  Privacy • Safety • Wellbeing • Thoughtful Design
+</p>
+
+<p align="center">
+  <sub>
+    Creating software with care, because technology should help people.
+  </sub>
 </p>
