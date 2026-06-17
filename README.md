@@ -5,34 +5,44 @@
 <h1 align="center">Hi, I'm Iri 💜</h1>
 
 <h3 align="center">
-  She/Her • Solo Developer • Creator of WebWarden
+  pronounced <em>eye-ree</em> • she/her • solo developer • creator of WebWarden
 </h3>
 
 <p align="center">
-  <em>Building software that helps, protects, and improves everyday life.</em>
+  <em>I build software with care, safety, privacy, and a little purple magic.</em>
 </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Solo%20Developer-8A5CF6?style=for-the-badge&logo=github&logoColor=white" alt="Solo Developer">
   <img src="https://img.shields.io/badge/WebWarden-9B6BFF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="WebWarden">
-  <img src="https://img.shields.io/badge/Always%20Learning-BB86FC?style=for-the-badge" alt="Always Learning">
+  <img src="https://img.shields.io/badge/Pronounced-Eye--Ree-BB86FC?style=for-the-badge" alt="Pronounced Eye Ree">
 </p>
 
 <p align="center">
-  <sub>💜 software • safety • privacy • care • design 💜</sub>
+  <sub>💜 software • safety • privacy • calm design • user care 💜</sub>
+</p>
+
+<br>
+
+<p align="center">
+  <img src="image6.png" alt="Purple sakura aesthetic scene" width="82%">
+</p>
+
+<p align="center">
+  <em>A small corner of GitHub for the things I build, learn, and care about.</em>
 </p>
 
 ---
 
+## 💜 About Me
+
 <table>
 <tr>
-<td width="68%" valign="top">
-
-## 💜 About Me
+<td width="72%" valign="top">
 
 I'm a solo software developer who believes technology should make life better, safer, and more helpful for everyone.
 
-I care about building tools that feel useful, protective, and easy to understand. I want the things I make to help real people, not just look good in code.
+I care about building tools that feel useful, protective, and easy to understand. I want my work to help real people, not just look good in code.
 
 ### ✨ What I Care About
 
@@ -43,47 +53,50 @@ I care about building tools that feel useful, protective, and easy to understand
 * ⚡ Creating software with both function and personality
 
 </td>
-<td width="32%" align="center">
+<td width="28%" align="center">
 
-<img src="image4.png" alt="Purple aesthetic image" width="170">
+<img src="image4.png" alt="Purple aesthetic image" width="145">
 
 </td>
 </tr>
 </table>
 
-<br>
-
-<table>
-<tr>
-<td width="24%" align="center">
-
-<img src="image1.png" alt="Iri aesthetic image" width="115">
-
-</td>
-<td width="76%" valign="top">
+---
 
 ## 🌙 Developer Identity
 
+<table>
+<tr>
+<td width="20%" align="center">
+
+<img src="image1.png" alt="Iri aesthetic image" width="105">
+
+</td>
+<td width="80%" valign="top">
+
 I like my projects to have both purpose and personality.
 
-For me, software should not only work well — it should feel thoughtful, useful, and trustworthy. I want my work to feel clean, safe, and carefully made.
+For me, software should not only work well — it should feel thoughtful, useful, and trustworthy. I want the things I build to feel clean, safe, and carefully made.
 
-```text
-protect users
-build with care
-keep learning
-make it beautiful
-```
+I care about the person using the software. If something is confusing, unsafe, overwhelming, or unclear, then I want to make it better.
 
 </td>
 </tr>
 </table>
 
-<br>
+---
 
-<p align="center">
-  <img src="image2.png" alt="Purple aesthetic divider" width="720">
-</p>
+## 🕊️ How I Build
+
+I try to build with calmness, care, and patience.
+
+| Principle   | What it means to me                                      |
+| ----------- | -------------------------------------------------------- |
+| 💜 Care     | Software should respect the people using it.             |
+| 🛡️ Safety  | Protection should be clear, not scary or confusing.      |
+| 🌙 Calmness | Good tools should feel simple, readable, and controlled. |
+| 🌱 Growth   | Every project is a chance to learn and improve.          |
+| ✨ Trust     | Users should understand what a tool is doing and why.    |
 
 ---
 
@@ -97,7 +110,7 @@ make it beautiful
 
 <table>
 <tr>
-<td width="72%" valign="top">
+<td width="76%" valign="top">
 
 WebWarden is my main project. It is built to give users more control over their browsing experience by focusing on safety, privacy, protection, and trust.
 
@@ -112,9 +125,9 @@ I want WebWarden to feel clear and friendly, so users can understand what is hap
 * 💜 Clear and friendly design
 
 </td>
-<td width="28%" align="center">
+<td width="24%" align="center">
 
-<img src="image5.png" alt="Sakura aesthetic image" width="135">
+<img src="image5.png" alt="Sakura aesthetic image" width="120">
 
 </td>
 </tr>
@@ -220,11 +233,11 @@ A safer web
 
 ---
 
+## 📫 Contact Me
+
 <table>
 <tr>
-<td width="72%" valign="top">
-
-## 📫 Contact Me
+<td width="78%" valign="top">
 
 If you have feedback, questions, bug reports, project ideas, or simply want to say hello, you are welcome to reach out.
 
@@ -241,19 +254,15 @@ Whether something is broken, confusing, helpful, or you just have an idea, I gen
 </p>
 
 </td>
-<td width="28%" align="center">
+<td width="22%" align="center">
 
-<img src="image3.png" alt="Smiling aesthetic image" width="125">
+<img src="image3.png" alt="Smiling aesthetic image" width="110">
 
 </td>
 </tr>
 </table>
 
 ---
-
-<p align="center">
-  <img src="image6.png" alt="Purple sakura footer image" width="720">
-</p>
 
 ## 💭 Motto
 
@@ -264,6 +273,10 @@ Whether something is broken, confusing, helpful, or you just have an idea, I gen
 I want my work to feel protective, useful, and carefully made. Every project is a chance to learn, improve, and build something that helps someone.
 
 <br>
+
+<p align="center">
+  <img src="image2.png" alt="Purple aesthetic footer divider" width="82%">
+</p>
 
 <h3 align="center">💜 Thanks for visiting my profile 💜</h3>
 
