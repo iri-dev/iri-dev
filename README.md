@@ -18,11 +18,15 @@
   <img src="https://img.shields.io/badge/Always%20Learning-BB86FC?style=for-the-badge" alt="Always Learning">
 </p>
 
+<p align="center">
+  <sub>💜 software • safety • privacy • design 💜</sub>
+</p>
+
 ---
 
 <table>
 <tr>
-<td width="58%" valign="top">
+<td width="63%" valign="top">
 
 ## 💜 About Me
 
@@ -39,9 +43,9 @@ I enjoy building tools that solve real problems, protect users, and make everyda
 * ⚡ Designing software with both function and personality
 
 </td>
-<td width="42%" align="center">
+<td width="37%" align="center">
 
-<img src="image4.png" alt="Purple aesthetic image" width="260">
+<img src="image4.png" alt="Purple aesthetic image" width="220">
 
 </td>
 </tr>
@@ -51,12 +55,12 @@ I enjoy building tools that solve real problems, protect users, and make everyda
 
 <table>
 <tr>
-<td width="35%" align="center">
+<td width="32%" align="center">
 
-<img src="image1.png" alt="Iri aesthetic image" width="180">
+<img src="image1.png" alt="Iri aesthetic image" width="150">
 
 </td>
-<td width="65%" valign="top">
+<td width="68%" valign="top">
 
 ## 🌙 Developer Identity
 
@@ -78,7 +82,11 @@ make it beautiful
 <br>
 
 <p align="center">
-  <img src="image2.png" alt="Purple electro divider" width="110">
+  <img src="image2.png" alt="Purple electro divider" width="85">
+</p>
+
+<p align="center">
+  <sub>━━━━━━━━━━━━━━━━━━━━━━ 💜 ━━━━━━━━━━━━━━━━━━━━━━</sub>
 </p>
 
 ---
@@ -93,7 +101,7 @@ make it beautiful
 
 <table>
 <tr>
-<td width="62%" valign="top">
+<td width="65%" valign="top">
 
 WebWarden is my main project. It is built to give users more control over their browsing experience by focusing on safety, privacy, protection, and trust.
 
@@ -106,9 +114,9 @@ WebWarden is my main project. It is built to give users more control over their 
 * 💜 Clear and friendly design
 
 </td>
-<td width="38%" align="center">
+<td width="35%" align="center">
 
-<img src="image5.png" alt="Sakura aesthetic image" width="210">
+<img src="image5.png" alt="Sakura aesthetic image" width="180">
 
 </td>
 </tr>
@@ -118,28 +126,30 @@ WebWarden is my main project. It is built to give users more control over their 
 
 <table>
 <tr>
-<td align="center" width="25%">
+<td width="50%" valign="top">
 
 ### 🛡️ Protection
 
 Blocks unsafe, suspicious, or unwanted behaviour while browsing.
 
 </td>
-<td align="center" width="25%">
+<td width="50%" valign="top">
 
 ### 🔒 Privacy
 
-Helps users control trackers, cookies, permissions, and risky behaviour.
+Helps users control trackers, cookies, permissions, and risky browsing behaviour.
 
 </td>
-<td align="center" width="25%">
+</tr>
+<tr>
+<td width="50%" valign="top">
 
 ### ⚠️ Safety
 
 Helps users understand suspicious downloads and risky websites.
 
 </td>
-<td align="center" width="25%">
+<td width="50%" valign="top">
 
 ### 🌙 Control
 
@@ -151,17 +161,17 @@ Keeps protection clear, simple, and easy to understand.
 
 <br>
 
-<!-- Add your real WebWarden screenshots here when ready.
+<!-- 
+When you have real WebWarden screenshots, add them here.
 
 <p align="center">
-  <img src="webwarden-dashboard.png" alt="WebWarden Dashboard" width="680">
+  <img src="webwarden-dashboard.png" alt="WebWarden Dashboard" width="650">
 </p>
 
 <p align="center">
-  <img src="webwarden-settings.png" alt="WebWarden Settings" width="330">
-  <img src="webwarden-protection.png" alt="WebWarden Protection" width="330">
+  <img src="webwarden-settings.png" alt="WebWarden Settings" width="310">
+  <img src="webwarden-protection.png" alt="WebWarden Protection" width="310">
 </p>
-
 -->
 
 ---
@@ -214,7 +224,32 @@ A safer web
 
 <table>
 <tr>
-<td width="65%" valign="top">
+<td width="67%" valign="top">
+
+## 📫 Contact Me
+
+If you have feedback, questions, bug reports, project ideas, or simply want to say hello, you are welcome to reach out.
+
+I read my emails personally and try my best to respond whenever I can. Friendly messages are always welcome. 💜
+
+📧 **[iri.devsupport@gmail.com](mailto:iri.devsupport@gmail.com)**
+
+<p>
+  <a href="mailto:iri.devsupport@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Iri%20Support-BB86FC?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Iri Support">
+  </a>
+</p>
+
+</td>
+<td width="33%" align="center">
+
+<img src="image3.png" alt="Smiling aesthetic image" width="150">
+
+</td>
+</tr>
+</table>
+
+---
 
 ## 💭 Motto
 
@@ -223,15 +258,6 @@ A safer web
 > It is about the people who use it.
 
 I want my work to feel protective, useful, and carefully made. Every project is a chance to learn, improve, and build something that helps someone.
-
-</td>
-<td width="35%" align="center">
-
-<img src="image3.png" alt="Smiling aesthetic footer image" width="180">
-
-</td>
-</tr>
-</table>
 
 <br>
 
@@ -246,4 +272,3 @@ I want my work to feel protective, useful, and carefully made. Every project is 
     <img src="https://img.shields.io/badge/Support%20Me-Buy%20Me%20a%20Coffee-9B6BFF?style=for-the-badge&logo=buymeacoffee&logoColor=white" alt="Buy Me a Coffee">
   </a>
 </p>
-
