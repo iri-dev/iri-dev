@@ -2,175 +2,92 @@
   <img src="banner3.png" alt="Iri Banner" width="100%">
 </p>
 
-<h1 align="center">Iri.dev 💜</h1>
+<h1 align="center">Hi, I'm Iri 💜</h1>
 
 <p align="center">
-  <strong>Iri</strong> is pronounced <em>eye-ree</em>
+  <strong>pronounced <em>eye-ree</em></strong> &nbsp;•&nbsp; she/her &nbsp;•&nbsp; solo developer &nbsp;•&nbsp; creator of WebWarden
 </p>
 
 <p align="center">
-  She/Her • Solo Developer • Creator of WebWarden
-</p>
-
-<p align="center">
-  <em>Building thoughtful software with privacy, safety, trust, and a calm purple identity.</em>
+  <em>Building software that helps, protects, and improves everyday life.</em>
 </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Solo%20Developer-8A5CF6?style=for-the-badge&logo=github&logoColor=white" alt="Solo Developer">
-  <img src="https://img.shields.io/badge/Creator%20of-WebWarden-9B6BFF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Creator of WebWarden">
-  <img src="https://img.shields.io/badge/Privacy%20%26%20Safety-Focused-BB86FC?style=for-the-badge" alt="Privacy and Safety Focused">
-</p>
-
-<p align="center">
-  <sub>software • privacy • safety • trust • purple</sub>
-</p>
-
-<br>
-
-<p align="center">
-  <img src="image2.png" alt="Purple aesthetic divider" width="82%">
+  <img src="https://img.shields.io/badge/WebWarden-9B6BFF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="WebWarden">
+  <img src="https://img.shields.io/badge/Pronounced-Eye--Ree-BB86FC?style=for-the-badge" alt="Pronounced Eye-Ree">
 </p>
 
 ---
-
-<table>
-<tr>
-<td width="68%" valign="top">
 
 ## 💜 About Me
 
-I'm a solo software developer who enjoys building tools that solve real problems and help people feel more in control of their digital space.
+I'm a solo software developer who believes technology should make life better, safer, and more helpful for everyone.
 
-I care about software that is clear, useful, and respectful of the people using it. If something feels confusing, risky, overwhelming, or unclear, I want to make it better.
+I enjoy building tools that solve real problems, protect users, and make everyday browsing feel safer and more controlled.
 
-My main project is **WebWarden**, a privacy and browser safety extension focused on helping users browse with more confidence, control, and understanding.
-
-### What Matters To Me
-
-* Privacy should be clear, not hidden behind confusing language.
-* Security tools should help people make informed choices.
-* Users should stay in control of their own browsing experience.
-* Features should exist for a reason, not just to look impressive.
-* Trust is built through clarity, consistency, and care.
-
-> Good software should help people, not confuse them.
-
-</td>
-<td width="32%" align="center" valign="top">
-
-<br>
-
-<img src="image4.png" alt="Purple aesthetic image" width="145">
-
-<br><br>
-
-<strong>Iri.dev</strong>
-
-<br><br>
-
-<strong>Name:</strong> Iri <strong>Pronounced:</strong> eye-ree <strong>Role:</strong> Solo Developer <strong>Main Project:</strong> WebWarden <strong>Focus:</strong> Privacy, safety, trust <strong>Colour:</strong> Purple
-
-</td>
-</tr>
-</table>
+I care about the person using the software. If something feels confusing, risky, or unclear, I want to make it better.
 
 ---
 
-<table>
-<tr>
-<td width="30%" align="center" valign="top">
+## 💜 What Matters To Me
 
-<br>
+I believe software should be:
 
-<img src="image1.png" alt="Iri aesthetic image" width="115">
+| | |
+|---|---|
+| 🛡️ **Safe** | Protection should be clear, not scary or overwhelming. |
+| 🔒 **Private** | Users deserve control over their own data and experience. |
+| ✨ **Trustworthy** | Software should be honest about what it does and why. |
+| 🌙 **Understandable** | Good tools shouldn't require users to be experts. |
+| 💜 **Human** | The person using the software always comes first. |
 
-</td>
-<td width="70%" valign="top">
+---
 
 ## 💜 Beyond The Code
 
-Outside of software development, I enjoy things that mix creativity, technology, and atmosphere.
+When I'm not coding, I enjoy:
 
-| Favourite        | Details                                 |
-| ---------------- | --------------------------------------- |
-| Colour           | Purple                                  |
-| Games            | Genshin Impact and Wuthering Waves      |
-| Anime            | Steins;Gate                             |
-| Creative hobbies | Guitar, art, and drawing                |
-| Interests        | Computers, technology, and clean design |
+- 💜 Purple aesthetics and calm design
+- 🎮 Genshin Impact and Wuthering Waves
+- 📺 Anime — especially Steins;Gate
+- 🎸 Playing guitar
+- 🎨 Art and drawing
+- 💻 Exploring new technology
 
-Purple is definitely part of the brand.
+---
 
-</td>
-</tr>
-</table>
+<p align="center">
+  <img src="image2.png" alt="Purple divider" width="82%">
+</p>
 
 ---
 
 ## 💜 WebWarden
 
 <p align="center">
-  <em>A privacy and browser safety extension designed to make the web feel safer and easier to understand.</em>
+  <em>A privacy and security browser extension designed to help people browse more safely.</em>
 </p>
 
-<table>
-<tr>
-<td width="70%" valign="top">
+WebWarden is my main project. It gives users more control over their browsing experience by focusing on safety, privacy, and trust.
 
-**WebWarden** is my main project. It is built around user safety, privacy, browser control, and clear communication.
+I want WebWarden to feel clear and approachable — so users understand what is happening, instead of feeling confused or overwhelmed.
 
-I created WebWarden because I wanted browser protection to feel more approachable. A lot of privacy and security tools can feel overwhelming, technical, or unclear. My goal is to build protection that users can trust and actually understand.
+### 💜 What Guides WebWarden
 
-### WebWarden is focused on
+WebWarden is built around a few core principles:
 
-| Area               | Purpose                                                                            |
-| ------------------ | ---------------------------------------------------------------------------------- |
-| Browser protection | Helping block unsafe, suspicious, or unwanted browsing behaviour.                  |
-| Privacy control    | Giving users more control over trackers, cookies, permissions, and risky activity. |
-| Download safety    | Helping users understand whether a download may be safe, suspicious, or dangerous. |
-| Clear design       | Making protection readable instead of overwhelming.                                |
-| User control       | Helping users stay informed and in charge of their browsing experience.            |
+- User safety comes first
+- Privacy should be understandable, not intimidating
+- Protection should be transparent and honest
+- Features should have a clear and meaningful purpose
+- Users should always stay in control
 
-</td>
-<td width="30%" align="center" valign="top">
+### 💜 Built With Care
 
-<br>
+Every feature in WebWarden exists for a reason.
 
-<img src="image5.png" alt="Sakura aesthetic image" width="125">
-
-<br><br>
-
-<strong>Project Card</strong>
-
-<br><br>
-
-<strong>Status:</strong> Active <strong>Type:</strong> Browser Extension <strong>Theme:</strong> Privacy & Safety <strong>Goal:</strong> User Trust
-
-</td>
-</tr>
-</table>
-
-### What Guides WebWarden
-
-* User safety comes first.
-* Privacy should be understandable.
-* Protection should be transparent.
-* Features should have a clear purpose.
-* Users should stay in control.
-
-<!-- 
-When you have real WebWarden screenshots, add them here.
-
-<p align="center">
-  <img src="webwarden-dashboard.png" alt="WebWarden Dashboard" width="650">
-</p>
-
-<p align="center">
-  <img src="webwarden-settings.png" alt="WebWarden Settings" width="310">
-  <img src="webwarden-protection.png" alt="WebWarden Protection" width="310">
-</p>
--->
+I believe security tools should be effective, understandable, and respectful of the people using them. My goal is to build protection that users can trust and genuinely rely on.
 
 ---
 
@@ -181,76 +98,37 @@ When you have real WebWarden screenshots, add them here.
 </p>
 
 <p align="center">
-  C# • C++ • Rust • Python • JavaScript • HTML • CSS
+  C# &nbsp;•&nbsp; C++ &nbsp;•&nbsp; Rust &nbsp;•&nbsp; Python &nbsp;•&nbsp; JavaScript &nbsp;•&nbsp; HTML &nbsp;•&nbsp; CSS
 </p>
-
-<table>
-<tr>
-<td width="33%" align="center" valign="top">
-
-<strong>Building</strong>
-
-Browser tools
-Security-focused features
-Helpful software
-
-</td>
-<td width="33%" align="center" valign="top">
-
-<strong>Focus</strong>
-
-Privacy
-User safety
-Clean design
-
-</td>
-<td width="33%" align="center" valign="top">
-
-<strong>Goal</strong>
-
-Software people trust
-Tools people enjoy
-A safer, calmer web
-
-</td>
-</tr>
-</table>
 
 ---
 
-<table>
-<tr>
-<td width="72%" valign="top">
+## 💜 Current Focus
+
+Right now I'm focused on:
+
+- Building and improving WebWarden
+- Expanding my C# and Rust skills
+- Learning more about browser security and privacy design
+- Creating software people genuinely trust
+
+---
 
 ## 💜 Contact
 
-If you have feedback, questions, bug reports, project ideas, or simply want to say hello, you are welcome to reach out.
+If you have feedback, questions, bug reports, ideas, or simply want to say hello, you're welcome to reach out.
 
-I read my messages personally and try my best to respond whenever I can. Friendly messages are always welcome.
+I read my emails personally and try my best to respond whenever I can. Friendly messages are always welcome. 💜
 
-Whether something is broken, confusing, helpful, or you just have an idea, I genuinely appreciate hearing from people.
+Whether something is broken, confusing, helpful, or you just have an idea — I genuinely appreciate hearing from people.
 
-| Contact | Details                                                     |
-| ------- | ----------------------------------------------------------- |
-| Email   | [iri.devsupport@gmail.com](mailto:iri.devsupport@gmail.com) |
-| Discord | `iri.dev`                                                   |
-
-<p>
+<p align="center">
   <a href="mailto:iri.devsupport@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Iri%20Support-BB86FC?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Iri Support">
+    <img src="https://img.shields.io/badge/Email-iri.devsupport%40gmail.com-BB86FC?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Iri">
   </a>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Discord-iri.dev-9B6BFF?style=for-the-badge&logo=discord&logoColor=white" alt="Discord iri.dev">
 </p>
-
-</td>
-<td width="28%" align="center" valign="top">
-
-<br>
-
-<img src="image3.png" alt="Smiling aesthetic image" width="105">
-
-</td>
-</tr>
-</table>
 
 ---
 
@@ -258,33 +136,28 @@ Whether something is broken, confusing, helpful, or you just have an idea, I gen
 
 If I build something, I want it to:
 
-| Promise                      | Meaning                                                              |
-| ---------------------------- | -------------------------------------------------------------------- |
-| Respect your privacy         | The user should never feel like the product is working against them. |
-| Be honest about what it does | Clear behaviour matters, especially in privacy and safety tools.     |
-| Put users first              | Features should help people, not confuse them.                       |
-| Stay understandable          | Good protection should be readable and approachable.                 |
-| Keep improving               | Every project can become cleaner, safer, and better over time.       |
-
-> Code is not just about technology.
-> It is about the people who use it.
+- Respect your privacy
+- Be honest about what it does
+- Put users first
+- Continue improving over time
 
 ---
 
 <p align="center">
-  <img src="image6.png" alt="Purple sakura footer image" width="82%">
+  <img src="image6.png" alt="Purple footer" width="82%">
 </p>
 
-<h3 align="center">Thanks for visiting 💜</h3>
+<h3 align="center">💜 Thanks for visiting 💜</h3>
 
 <p align="center">
-  Creator of WebWarden • Software Developer • Always Building
+  Creator of WebWarden &nbsp;•&nbsp; Software Developer &nbsp;•&nbsp; Always Learning
 </p>
 
 <p align="center">
   <a href="mailto:iri.devsupport@gmail.com">
     <img src="https://img.shields.io/badge/Email-Iri%20Support-BB86FC?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Iri Support">
   </a>
+  &nbsp;
   <a href="https://buymeacoffee.com/iri.dev">
     <img src="https://img.shields.io/badge/Support%20Me-Buy%20Me%20a%20Coffee-9B6BFF?style=for-the-badge&logo=buymeacoffee&logoColor=white" alt="Buy Me a Coffee">
   </a>
