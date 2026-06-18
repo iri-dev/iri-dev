@@ -448,22 +448,36 @@ I'd love to learn another language one day — and for once, I don't mean a prog
 
 <h1>💜 Langs & Tools</h1>
 
+<td width="32%" align="center" valign="top">
+
+<img src="image7.png" width="280">
+
+<br><br>
+
+<h3>💜 My Toolkit</h3>
+
 <p>
-  The tools I use to turn ideas into something real.
+  <em>tools, languages, and little experiments</em>
 </p>
 
 <br>
 
 <p>
-  Every project starts with something small: an idea, a problem to solve,
-  or something I wish existed.
+  I like learning tools that help me<br>
+  build cleaner, safer, and more useful<br>
+  software.
 </p>
 
+<br>
+
 <p>
-  I don't care about chasing every trend. I care about learning the tools
-  that help me build things properly, improve over time, and create software
-  that feels useful.
+  Some are for big projects.<br>
+  Some are for quick ideas.<br>
+  Some are just because<br>
+  I wanted to understand them.
 </p>
+
+</td>
 
 <br>
 
