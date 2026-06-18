@@ -609,64 +609,58 @@ I'd love to learn another language one day — and for once, I don't mean a prog
 
 <br>
 
-<h2 align="center">💜 Reach Out</h2>
-
-<p align="center">
-  <em>friendly messages are always welcome</em>
-</p>
-
-<br>
-
 <table>
 <tr>
 
 <td width="38%" align="center" valign="top">
 
-<img src="image3.png" width="270">
+<img src="image3.png" width="300">
 
 <br><br>
 
-<h3>💜 A Little Hello</h3>
+<h3>💜 A Friendly Little Door</h3>
 
 <p>
-  <em>
-    I'm one person behind these projects,<br>
-    and I genuinely like hearing from people.
-  </em>
+  <em>no support-ticket energy here</em>
 </p>
 
 <br>
 
 <p>
-  Whether it's feedback,<br>
-  a question, an idea,<br>
-  or just a simple hello —
+  You don't need a perfect reason<br>
+  to send a message.
 </p>
 
 <p>
-  you're welcome here.
+  A question, an idea,<br>
+  a bug report, feedback,<br>
+  or even just a hello is enough.
 </p>
 
 </td>
 
 <td width="62%" valign="top">
 
-<h3>💜 Don't Be Afraid To Message</h3>
+<h2>💜 Reach Out</h2>
 
 <p>
-  If you've made it this far through my profile, thank you for taking the time to read about me, my projects, and the things I care about.
+  If you've made it this far, thank you for spending a little time in my corner of GitHub.
 </p>
 
 <p>
-  If you use <strong>WebWarden</strong>, are interested in <strong>Hydra Heart</strong>, have feedback, found a bug, or have an idea that could make something better, I'd genuinely love to hear from you.
+  I genuinely like hearing from people. Whether you're here because of <strong>WebWarden</strong>,
+  <strong>Hydra Heart</strong>, privacy, development, technology, or something completely random,
+  you're welcome to message me.
 </p>
 
 <p>
-  I read my emails myself and try my best to respond with care. You can also find me on Discord if that feels easier or more natural.
+  I check my emails myself and try my best to respond properly. If something I made helped you,
+  confused you, broke, or gave you an idea, I'd honestly love to know.
 </p>
 
 <p>
-  You don't need a perfect reason to reach out. A question, a suggestion, a kind message, or even a random hello is enough.
+  Some of my favourite improvements start from simple conversations, so please don't be scared
+  to reach out.
 </p>
 
 <br>
