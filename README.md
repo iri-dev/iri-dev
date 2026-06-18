@@ -625,54 +625,49 @@ I'd love to learn another language one day — and for once, I don't mean a prog
 
 <br>
 
-<h2 align="center">💜 A Few Side Notes</h2>
+<h2 align="center">💜 Side Notes</h2>
 
 <p align="center">
-  <em>little thoughts from behind the projects</em>
+  <em>little thoughts from behind the screen</em>
 </p>
 
 <br>
 
 <p align="center">
-  💜 <strong>My sleep schedule and programming are not always on speaking terms.</strong>
+  💜 Some projects have been fuelled by questionable amounts of caffeine.
+</p>
+
+<br>
+
+<p align="center">
+  💜 My sleep schedule and programming are not always on speaking terms.
   <br>
   <em>"One more feature" rarely means one more feature.</em>
 </p>
 
-<p align="center">
-  💜 <strong>Purple wins far more design decisions than it probably should.</strong>
-  <br>
-  <em>But honestly, it usually looks better.</em>
-</p>
+<br>
 
 <p align="center">
-  💜 <strong>Most projects begin as a random idea I can't stop thinking about.</strong>
+  💜 I have a talent for breaking things that were working perfectly five minutes ago.
   <br>
-  <em>Some ideas are quiet. Some refuse to leave me alone.</em>
-</p>
-
-<p align="center">
-  💜 <strong>I care a lot about the little details.</strong>
-  <br>
-  <em>Even the ones most people may never notice.</em>
-</p>
-
-<p align="center">
-  💜 <strong>Flowers, music, gemstones, and stars make life feel softer.</strong>
-  <br>
-  <em>The little things matter more than people think.</em>
+  <em>I'm still not sure how.</em>
 </p>
 
 <br>
 
 <p align="center">
-  <em>
-    The things we love quietly shape the things we create.
-  </em>
+  💜 Most projects begin as a random idea I can't stop thinking about.
+  <br>
+  <em>Some ideas are quiet. Some refuse to leave me alone.</em>
+</p>
+
+<br>
+
+<p align="center">
+  ✨
 </p>
 
 <br><br>
-
 
 
 
