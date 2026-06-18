@@ -441,75 +441,36 @@ I'd love to learn another language one day — and for once, I don't mean a prog
 
 
 
-
-<br>
-
-<h2 align="center">💜 Langs & Tools</h2>
-
-<p align="center">
-  The tools I use to turn ideas into something real.
-</p>
-
 <br>
 
 <table>
 <tr>
 
-<td width="35%" align="center" valign="top">
+<td width="68%" valign="top">
 
-<img src="image7.png" width="220">
-
-<br><br>
-
-<h3>💜 My Toolkit</h3>
+<h1>💜 Langs & Tools</h1>
 
 <p>
-<em>always learning, always building</em>
+  The tools I use to turn ideas into something real.
 </p>
 
 <br>
 
 <p>
-I don't really care about<br>
-chasing the latest trend.
+  Every project starts the same way: an idea, a problem to solve,
+  or something I wish existed.
+</p>
+
+<p>
+  I don't really care about chasing the latest trend.
+  I care about finding the right tool for the job and using it to build something useful.
 </p>
 
 <br>
 
-<p>
-I care about finding<br>
-the right tool for the job<br>
-and using it to build<br>
-something useful.
-</p>
-
-<br>
+<h3>💜 Languages</h3>
 
 <p>
-The languages will change.<br>
-The tools will change.<br>
-The goal stays the same:
-</p>
-
-<p>
-<strong>
-build things that genuinely<br>
-help people.
-</strong>
-</p>
-
-</td>
-
-<td width="65%" valign="top">
-
-<h3>💜 What I Build With</h3>
-
-<p>
-Every project starts the same way: an idea, a problem to solve, or something I wish existed.
-These are the tools I use to turn those ideas into something real.
-</p>
-
-<p align="center">
   <a href="https://dotnet.microsoft.com/en-us/languages/csharp">
     <img src="https://skillicons.dev/icons?i=cs" width="48">
   </a>
@@ -525,9 +486,7 @@ These are the tools I use to turn those ideas into something real.
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
     <img src="https://skillicons.dev/icons?i=js" width="48">
   </a>
-</p>
-
-<p align="center">
+  &nbsp;
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
     <img src="https://skillicons.dev/icons?i=html" width="48">
   </a>
@@ -543,29 +502,9 @@ These are the tools I use to turn those ideas into something real.
 
 <br>
 
-<h3>💜 Languages</h3>
-
-<p>
-<strong>C#</strong> is where many of my bigger ideas and desktop projects begin.
-</p>
-
-<p>
-<strong>JavaScript</strong>, HTML, and CSS help me build for the browser, including projects like WebWarden.
-</p>
-
-<p>
-<strong>Rust</strong> and <strong>C++</strong> challenge me to think more carefully about performance, structure, and how software really works.
-</p>
-
-<p>
-<strong>Python</strong> is perfect for experiments, quick tools, and turning little ideas into working prototypes.
-</p>
-
-<br>
-
 <h3>💜 Daily Tools</h3>
 
-<p align="center">
+<p>
   <a href="https://code.visualstudio.com">
     <img src="https://skillicons.dev/icons?i=vscode" width="48">
   </a>
@@ -583,9 +522,25 @@ These are the tools I use to turn those ideas into something real.
   </a>
 </p>
 
+<br>
+
 <p>
-These are the tools I spend most of my time in while building, testing, fixing, and slowly turning ideas into real projects.
+  <strong>
+    The languages will change. The tools will change.
+    The goal stays the same: build things that genuinely help people.
+  </strong>
 </p>
+
+</td>
+
+<td width="32%" align="center" valign="top">
+
+<img src="image7.png" width="220">
+
+<br><br>
+
+<strong>My Toolkit 💜</strong><br>
+<em>always learning, always building</em>
 
 </td>
 
