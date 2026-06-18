@@ -471,81 +471,109 @@ I'd love to learn another language one day — and for once, I don't mean a prog
 <br>
 
 <p>
-Languages are just tools.<br>
-What matters most is<br>
-what you create with them.
-</p>
-
-</td>
-
-<td width="65%" align="center" valign="top">
-
-<h3>💜 Languages</h3>
-
-<p>
-  <a href="https://dotnet.microsoft.com/en-us/languages/csharp">
-    <img src="https://skillicons.dev/icons?i=cs" width="48">
-  </a>
-  &nbsp;
-  <a href="https://www.rust-lang.org">
-    <img src="https://skillicons.dev/icons?i=rust" width="48">
-  </a>
-  &nbsp;
-  <a href="https://www.python.org">
-    <img src="https://skillicons.dev/icons?i=python" width="48">
-  </a>
-  &nbsp;
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
-    <img src="https://skillicons.dev/icons?i=js" width="48">
-  </a>
-</p>
-
-<p>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
-    <img src="https://skillicons.dev/icons?i=html" width="48">
-  </a>
-  &nbsp;
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
-    <img src="https://skillicons.dev/icons?i=css" width="48">
-  </a>
-  &nbsp;
-  <a href="https://isocpp.org">
-    <img src="https://skillicons.dev/icons?i=cpp" width="48">
-  </a>
-</p>
-
-<br>
-
-<h3>💜 Tools</h3>
-
-<p>
-  <a href="https://code.visualstudio.com">
-    <img src="https://skillicons.dev/icons?i=vscode" width="48">
-  </a>
-  &nbsp;
-  <a href="https://visualstudio.microsoft.com">
-    <img src="https://skillicons.dev/icons?i=visualstudio" width="48">
-  </a>
-  &nbsp;
-  <a href="https://git-scm.com">
-    <img src="https://skillicons.dev/icons?i=git" width="48">
-  </a>
-  &nbsp;
-  <a href="https://github.com">
-    <img src="https://skillicons.dev/icons?i=github" width="48">
-  </a>
+The languages change.<br>
+The tools change.
 </p>
 
 <br>
 
 <p>
-  <em>
-    I like learning new tools, but the goal is always the same:
-    build things that are useful, thoughtful, and real.
-  </em>
+The goal stays the same:<br>
+build things that help people.
 </p>
 
 </td>
+
+<td width="65%" valign="top">
+
+<h3>💜 What I Build With</h3>
+
+<p align="center">
+
+<a href="https://dotnet.microsoft.com/en-us/languages/csharp">
+<img src="https://skillicons.dev/icons?i=cs" width="48">
+</a>
+
+<a href="https://www.rust-lang.org">
+<img src="https://skillicons.dev/icons?i=rust" width="48">
+</a>
+
+<a href="https://www.python.org">
+<img src="https://skillicons.dev/icons?i=python" width="48">
+</a>
+
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
+<img src="https://skillicons.dev/icons?i=js" width="48">
+</a>
+
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
+<img src="https://skillicons.dev/icons?i=html" width="48">
+</a>
+
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
+<img src="https://skillicons.dev/icons?i=css" width="48">
+</a>
+
+<a href="https://isocpp.org">
+<img src="https://skillicons.dev/icons?i=cpp" width="48">
+</a>
+
+</p>
+
+<br>
+
+<p>
+💜 <strong>C#</strong> is where most of my desktop applications and larger projects live.
+</p>
+
+<p>
+💜 <strong>JavaScript</strong>, HTML, and CSS power projects like WebWarden and bring ideas to the browser.
+</p>
+
+<p>
+💜 <strong>Rust</strong> and <strong>C++</strong> are languages I enjoy exploring because they challenge me to think differently.
+</p>
+
+<p>
+💜 <strong>Python</strong> is my go-to language for experiments, tools, and quick ideas.
+</p>
+
+<br>
+
+<h3>💜 Daily Tools</h3>
+
+<p align="center">
+
+<a href="https://code.visualstudio.com">
+<img src="https://skillicons.dev/icons?i=vscode" width="48">
+</a>
+
+<a href="https://visualstudio.microsoft.com">
+<img src="https://skillicons.dev/icons?i=visualstudio" width="48">
+</a>
+
+<a href="https://git-scm.com">
+<img src="https://skillicons.dev/icons?i=git" width="48">
+</a>
+
+<a href="https://github.com">
+<img src="https://skillicons.dev/icons?i=github" width="48">
+</a>
+
+</p>
+
+<p align="center">
+<em>
+These are the tools I spend most of my time in while bringing projects to life.
+</em>
+</p>
+
+</td>
+
+</tr>
+</table>
+
+<br>
 
 </tr>
 </table>
