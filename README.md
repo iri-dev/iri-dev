@@ -220,7 +220,7 @@ then I've achieved what I set out to do.
 <br>
 
 <p align="center">
-  <img src="image5.png" width="300">
+  <img src="image5.png" width="340">
 </p>
 
 <h2 align="center">🌸 Current Creations</h2>
