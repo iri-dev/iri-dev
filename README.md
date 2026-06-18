@@ -301,8 +301,6 @@ I believe healthy habits should be accessible to everyone. Looking after yoursel
 
 <br>
 
-<br>
-
 <p align="center">
   💜 <strong>Currently</strong>
 </p>
@@ -312,9 +310,12 @@ I believe healthy habits should be accessible to everyone. Looking after yoursel
   Learning more <strong>C#</strong> • Drinking slightly too much caffeine ☕
 </p>
 
-<br>
-
-
+<p align="center">
+  <sub>
+    and probably telling myself
+    "just one more feature" again...
+  </sub>
+</p>
 
 
 
