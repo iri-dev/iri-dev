@@ -847,6 +847,14 @@ I'd love to learn another language one day — and for once, I don't mean a prog
 
 
 
+<br>
+
+<p align="center">
+  <img src="image6.png" width="82%">
+</p>
+
+<br><br>
+
 <h2 align="center">💜 Thank You For Visiting</h2>
 
 <p align="center">
@@ -858,8 +866,7 @@ I'd love to learn another language one day — and for once, I don't mean a prog
 <br>
 
 <p align="center">
-  If you've made it all the way down here,
-  thank you.
+  If you've made it all the way down here, thank you.
 </p>
 
 <p align="center">
@@ -907,5 +914,7 @@ I'd love to learn another language one day — and for once, I don't mean a prog
 <br>
 
 <p align="center">
-  ───────── 💜 ─────────
+───────── 💜 ─────────
 </p>
+
+<br>
