@@ -316,6 +316,8 @@ I believe healthy habits should be accessible to everyone. Looking after yoursel
 
 
 
+<br>
+
 <h2 align="center">💜 Beyond The Code</h2>
 
 <p align="center">
@@ -333,17 +335,27 @@ I believe healthy habits should be accessible to everyone. Looking after yoursel
 
 <br><br>
 
-<strong>A Few Things I Love</strong>
+<h3>💜 A Few Things I Love</h3>
+
+<p>
+<em>life outside the code</em>
+</p>
 
 <br>
 
-<em>life outside the code</em>
+<p>
+Flowers, soft colours,<br>
+quiet moments, and little<br>
+things that make life feel pretty.
+</p>
 
-<br><br>
+<br>
 
+<p>
 I think the things we love<br>
 quietly shape the things<br>
 we create.
+</p>
 
 </td>
 
@@ -359,6 +371,12 @@ Purple. I don't think anybody is surprised by that one.
 
 <p>
 Genshin Impact, Wuthering Waves, and Steins;Gate. I love beautiful worlds, strong characters, and stories that stay with you.
+</p>
+
+<h3>💜 Flowers & Nature</h3>
+
+<p>
+I love flowers, nature, soft scenery, and anything that feels calm, pretty, and peaceful.
 </p>
 
 <h3>💜 Music</h3>
@@ -382,7 +400,13 @@ I've always loved space, stars, gemstones, and things that feel a little magical
 <h3>💜 Self Care</h3>
 
 <p>
-Cooking, skincare, haircare, and taking care of yourself properly.
+Cooking, skincare, haircare, and taking care of yourself properly. Small routines make life feel softer and more grounded.
+</p>
+
+<h3>💜 Something I Want To Learn</h3>
+
+<p>
+I'd love to learn another language one day — not a programming language this time.
 </p>
 
 </td>
