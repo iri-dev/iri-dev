@@ -331,120 +331,63 @@ I believe healthy habits should be accessible to everyone. Looking after yoursel
 
 <br>
 
-<table>
-<tr>
+<p align="center">
 
-<td width="33%" align="center" valign="top">
+💜 <strong>Purple</strong> (obviously)
 
-<h3>💜 Purple</h3>
+<br><br>
 
-<p>
-Obviously.
+🌌 Space & stars
+
+<br>
+
+💎 Gemstones & shiny things
+
+<br>
+
+🎮 Genshin Impact & Wuthering Waves
+
+<br>
+
+📺 Steins;Gate
+
+<br>
+
+🎸 Guitar
+
+<br>
+
+🎨 Art & design
+
+<br>
+
+🍳 Cooking
+
+<br>
+
+🧴 Skincare & haircare
+
+<br>
+
+🎵 Almost every genre of music
+<br>
+<em>(except screamo 😭)</em>
+
 </p>
-
-<p>
-Soft colours, purple aesthetics,
-and anything that feels calm,
-pretty, and a little magical.
-</p>
-
-</td>
-
-<td width="33%" align="center" valign="top">
-
-<h3>💜 Creativity</h3>
-
-<p>
-Art, design, guitar,
-and making things feel personal.
-</p>
-
-<p>
-I like creating things in more ways
-than just writing code.
-</p>
-
-</td>
-
-<td width="33%" align="center" valign="top">
-
-<h3>💜 Space & Gemstones</h3>
-
-<p>
-Stars, planets, crystals,
-gemstones, and little pretty details.
-</p>
-
-<p>
-I love things that feel dreamy,
-shiny, and full of wonder.
-</p>
-
-</td>
-
-</tr>
-<tr>
-
-<td width="33%" align="center" valign="top">
-
-<h3>💜 Games & Stories</h3>
-
-<p>
-Genshin Impact,
-Wuthering Waves,
-and Steins;Gate.
-</p>
-
-<p>
-I love worlds that feel emotional,
-beautiful, and memorable.
-</p>
-
-</td>
-
-<td width="33%" align="center" valign="top">
-
-<h3>💜 Self Care</h3>
-
-<p>
-Cooking, skincare,
-haircare, and taking care
-of yourself properly.
-</p>
-
-<p>
-Small routines can make life
-feel softer and more grounded.
-</p>
-
-</td>
-
-<td width="33%" align="center" valign="top">
-
-<h3>💜 Music</h3>
-
-<p>
-Almost everything...
-except screamo.
-</p>
-
-<p>
-Music helps set the mood,
-especially when building,
-designing, or thinking.
-</p>
-
-</td>
-
-</tr>
-</table>
 
 <br>
 
 <p align="center">
-  <em>
-    I think the things we love outside of code quietly shape the things we create with it.
-  </em>
+  While software is a huge part of my life, it isn't the only thing I enjoy.
+</p>
+
+<p align="center">
+  Some of my favourite ideas arrive while playing games, listening to music,
+  learning something new, or simply enjoying the little things that make life interesting.
+</p>
+
+<p align="center">
+  I think the things we love outside of code quietly shape the things we create with it.
 </p>
 
 <br>
