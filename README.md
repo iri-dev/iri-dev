@@ -64,8 +64,7 @@
 <br><br>
 
 <strong>Iri 💜</strong><br>
-<em>Iri 💜
-one person, many ideas </em>
+<em> one person, many ideas </em>
 
 </td>
 
