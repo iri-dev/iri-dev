@@ -220,7 +220,7 @@ then I've achieved what I set out to do.
 <br>
 
 <p align="center">
-  <img src="image5.png" width="260">
+  <img src="image5.png" width="300">
 </p>
 
 <h2 align="center">🌸 Current Creations</h2>
@@ -248,8 +248,8 @@ Built around privacy, protection, and user control, WebWarden is my attempt to m
 </p>
 
 <p>
-From tracker blocking and download protection to safer browsing tools and privacy features, every part of WebWarden was created with one goal in mind:
-<strong>helping people stay safe, informed, and in control online.</strong>
+From tracker blocking and download protection to safer browsing tools and privacy features, every part of WebWarden exists for one reason:
+<strong>helping people stay safer and more in control online.</strong>
 </p>
 
 <br>
@@ -275,6 +275,10 @@ Focused on hydration, wellbeing, and healthy habits, Hydra Heart encourages peop
 
 <p>
 I believe healthy habits should be accessible to everyone. Looking after yourself shouldn't require a subscription, which is why Hydra Heart is built around keeping things simple, helpful, and free.
+</p>
+
+<p>
+Sometimes the smallest habits can make the biggest difference, and Hydra Heart exists to help people build those habits one step at a time.
 </p>
 
 <br>
