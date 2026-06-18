@@ -615,12 +615,12 @@ I'd love to learn another language one day — and for once, I don't mean a prog
 
 <br>
 
+<br>
+
 <h2 align="center">💜 Reach Out</h2>
 
 <p align="center">
-  <em>
-    Feedback, ideas, questions, or just saying hello.
-  </em>
+  <em>the door is always open</em>
 </p>
 
 <br>
@@ -628,54 +628,104 @@ I'd love to learn another language one day — and for once, I don't mean a prog
 <table>
 <tr>
 
-<td align="center">
+<td width="35%" align="center" valign="top">
 
-😊
+<img src="image3.png" width="240">
 
-<h3>Don't be afraid to send a message.</h3>
+<br><br>
 
-<p>
-I'm always happy to hear from people who use my projects,
-have suggestions, found a bug, or simply want to chat.
-</p>
+<h3>💜 Hi, I'm Iri</h3>
 
 <p>
-Constructive feedback helps me improve,
-and some of my favourite ideas have started from a simple conversation.
-</p>
-
-<p>
-Whether it's WebWarden, Hydra Heart,
-development, privacy, technology,
-or something completely random —
-my inbox is always open.
+  <em>one person behind the projects</em>
 </p>
 
 <br>
 
 <p>
-💌 <strong>Email</strong><br>
-<a href="mailto:iri.dev.support@gmail.com">
-iri.dev.support@gmail.com
-</a>
+  I genuinely enjoy hearing from people.
 </p>
 
 <p>
-💜 <strong>Discord</strong><br>
-iri.dev
+  Feedback, questions,<br>
+  feature ideas, bug reports,<br>
+  or even just a random hello.
 </p>
 
 <br>
 
+<p>
+  Every project starts with people.<br>
+  Every improvement starts with listening.
+</p>
+
+</td>
+
+<td width="65%" valign="top">
+
+<h3>💜 Don't Be A Stranger</h3>
+
+<p>
+  If you've made it this far through my profile,
+  thank you.
+</p>
+
+<p>
+  Whether you're here because of WebWarden,
+  Hydra Heart, programming, privacy,
+  technology, or simple curiosity,
+  I'm genuinely glad you stopped by.
+</p>
+
+<p>
+  Some of the best improvements I've made have started from a conversation.
+  A suggestion. A question. A fresh perspective I hadn't considered.
+</p>
+
+<p>
+  If you have an idea, feedback, a feature request,
+  or something you think could be better,
+  I'd love to hear it.
+</p>
+
+<p>
+  And if you don't have feedback?
+  That's completely okay too.
+</p>
+
+<p>
+  You're still welcome to say hello. 💜
+</p>
+
+<br>
+
+<p>
+  💌 <strong>Email</strong><br>
+  <a href="mailto:iri.dev.support@gmail.com">
+    iri.dev.support@gmail.com
+  </a>
+</p>
+
+<p>
+  💜 <strong>Discord</strong><br>
+  iri.dev
+</p>
+
+<br>
+
+<p>
+
 <a href="mailto:iri.dev.support@gmail.com">
-<img src="https://img.shields.io/badge/Send%20an%20Email-9B6BFF?style=for-the-badge&logo=gmail&logoColor=white">
+  <img src="https://img.shields.io/badge/Send%20an%20Email-9B6BFF?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
 
 &nbsp;
 
 <a href="https://github.com/iri-dev">
-<img src="https://img.shields.io/badge/GitHub-9B6BFF?style=for-the-badge&logo=github&logoColor=white">
+  <img src="https://img.shields.io/badge/GitHub-9B6BFF?style=for-the-badge&logo=github&logoColor=white">
 </a>
+
+</p>
 
 </td>
 
@@ -683,5 +733,3 @@ iri.dev
 </table>
 
 <br>
-
-
