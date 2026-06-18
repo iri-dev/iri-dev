@@ -613,50 +613,75 @@ I'd love to learn another language one day — and for once, I don't mean a prog
   <img src="image2.png" width="100%">
 </p>
 
+<br>
+
 <h2 align="center">💜 Reach Out</h2>
 
 <p align="center">
   <em>
-    Questions, feedback, ideas, or simply saying hello.
+    Feedback, ideas, questions, or just saying hello.
   </em>
 </p>
 
 <br>
 
-<p align="center">
-  If you've used one of my projects and have suggestions,
-  I'd genuinely love to hear them.
+<table>
+<tr>
+
+<td align="center">
+
+😊
+
+<h3>Don't be afraid to send a message.</h3>
+
+<p>
+I'm always happy to hear from people who use my projects,
+have suggestions, found a bug, or simply want to chat.
 </p>
 
-<p align="center">
-  Constructive feedback helps me improve,
-  and improvement matters more to me than praise.
+<p>
+Constructive feedback helps me improve,
+and some of my favourite ideas have started from a simple conversation.
+</p>
+
+<p>
+Whether it's WebWarden, Hydra Heart,
+development, privacy, technology,
+or something completely random —
+my inbox is always open.
 </p>
 
 <br>
 
-<p align="center">
-
-<a href="mailto:iridev.support@gmail.com">
-  <img src="https://img.shields.io/badge/Email-9B6BFF?style=for-the-badge&logo=gmail&logoColor=white">
+<p>
+💌 <strong>Email</strong><br>
+<a href="mailto:iri.dev.support@gmail.com">
+iri.dev.support@gmail.com
 </a>
-
-<a href="https://github.com/iri-dev">
-  <img src="https://img.shields.io/badge/GitHub-9B6BFF?style=for-the-badge&logo=github&logoColor=white">
-</a>
-
 </p>
 
-<br><br>
+<p>
+💜 <strong>Discord</strong><br>
+iri.dev
+</p>
 
+<br>
 
+<a href="mailto:iri.dev.support@gmail.com">
+<img src="https://img.shields.io/badge/Send%20an%20Email-9B6BFF?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
 
+&nbsp;
 
+<a href="https://github.com/iri-dev">
+<img src="https://img.shields.io/badge/GitHub-9B6BFF?style=for-the-badge&logo=github&logoColor=white">
+</a>
 
+</td>
 
+</tr>
+</table>
 
-
-
-
+<br>
 
 
