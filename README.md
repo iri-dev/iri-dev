@@ -705,72 +705,85 @@ I'd love to learn another language one day — and for once, I don't mean a prog
 
 <br><br>
 
-<h3>💜 A Friendly Little Door</h3>
+<h3>💜 Hi, I'm Iri</h3>
 
 <p>
-  <em>no support-ticket energy here</em>
+  <em>one person behind the projects</em>
 </p>
 
 <br>
 
 <p>
-  You don't need a perfect reason<br>
-  to send a message.
+  I read my own messages,<br>
+  reply myself,<br>
+  and genuinely enjoy<br>
+  hearing from people.
 </p>
 
+<br>
+
 <p>
-  A question, an idea,<br>
-  a bug report, feedback,<br>
-  or even just a hello is enough.
+  Feedback.<br>
+  Questions.<br>
+  Ideas.<br>
+  Or just saying hello.
 </p>
 
 </td>
 
 <td width="62%" valign="top">
 
-<h2>💜 Reach Out</h2>
+<h2>💜 You're Always Welcome Here</h2>
 
 <p>
   If you've made it this far, thank you for spending a little time in my corner of GitHub.
 </p>
 
 <p>
-  I genuinely like hearing from people. Whether you're here because of <strong>WebWarden</strong>,
-  <strong>Hydra Heart</strong>, privacy, development, technology, or something completely random,
-  you're welcome to message me.
+  Whether you found me through <strong>WebWarden</strong>, <strong>Hydra Heart</strong>, development,
+  privacy, technology, or pure curiosity, I'm happy you're here.
 </p>
 
 <p>
-  I check my emails myself and try my best to respond properly. If something I made helped you,
-  confused you, broke, or gave you an idea, I'd honestly love to know.
+  I genuinely like hearing from people who use my projects or have ideas that could make them better.
+  A bug report, a feature request, a question, a suggestion, or simply a friendly hello are all welcome.
 </p>
 
 <p>
-  Some of my favourite improvements start from simple conversations, so please don't be scared
-  to reach out.
+  I check my emails personally and do my best to reply with care.
+  You can also find me on Discord if that feels easier.
 </p>
 
 <br>
 
-<h3>💜 Where To Find Me</h3>
+<h3>💜 Send Me A Message</h3>
 
 <p>
-  💌 <strong>Email</strong><br>
-  <a href="mailto:iri.support@gmail.com">
-    iri.support@gmail.com
+  📧 <strong>Email</strong><br>
+  <a href="mailto:iri.devsupport@gmail.com">
+    iri.devsupport@gmail.com
   </a>
 </p>
 
 <p>
-  💜 <strong>Discord</strong><br>
+  💬 <strong>Discord</strong><br>
   <code>iri.dev</code>
 </p>
 
 <br>
 
-<a href="mailto:iri.support@gmail.com">
+<a href="mailto:iri.devsupport@gmail.com">
   <img src="https://img.shields.io/badge/Send%20an%20Email-9B6BFF?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
+
+<br><br>
+
+<p align="center">
+  <em>
+    Don't be nervous about sending a message.
+    The worst thing that happens is I say hello back.
+  </em>
+</p>
 
 </td>
 
