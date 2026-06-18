@@ -607,35 +607,53 @@ I'd love to learn another language one day — and for once, I don't mean a prog
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-<br><br>
+<br>
 
 <p align="center">
   <img src="image2.png" width="100%">
 </p>
 
-<br>
+<h2 align="center">💜 Reach Out</h2>
 
 <p align="center">
   <em>
-    Every project starts as an idea.
-    Every improvement starts with feedback.
+    Questions, feedback, ideas, or simply saying hello.
   </em>
 </p>
 
+<br>
+
+<p align="center">
+  If you've used one of my projects and have suggestions,
+  I'd genuinely love to hear them.
+</p>
+
+<p align="center">
+  Constructive feedback helps me improve,
+  and improvement matters more to me than praise.
+</p>
+
+<br>
+
+<p align="center">
+
+<a href="mailto:iridev.support@gmail.com">
+  <img src="https://img.shields.io/badge/Email-9B6BFF?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
+
+<a href="https://github.com/iri-dev">
+  <img src="https://img.shields.io/badge/GitHub-9B6BFF?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
+</p>
+
 <br><br>
+
+
+
+
+
+
 
 
 
