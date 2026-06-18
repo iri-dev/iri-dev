@@ -753,8 +753,8 @@ I'd love to learn another language one day — and for once, I don't mean a prog
 
 <p>
   Some of my favourite improvements,
-  conversations, and ideas have started
-  because somebody decided to send a message.
+  conversations,
+  and ideas have started because somebody decided to send a message.
 </p>
 
 <p>
@@ -764,19 +764,16 @@ I'd love to learn another language one day — and for once, I don't mean a prog
 </p>
 
 <p>
-  You can contact me by email or Discord —
-  whichever feels more comfortable for you.
-</p>
-
-<p>
-  Questions, suggestions, bug reports,
-  feedback, project ideas,
+  Questions,
+  suggestions,
+  bug reports,
+  feedback,
+  project ideas,
   or even a random hello are all welcome.
 </p>
 
 <p>
-  This isn't a support desk.
-  It's just me.
+  Behind every project is a real person.
 </p>
 
 <p>
@@ -785,7 +782,7 @@ I'd love to learn another language one day — and for once, I don't mean a prog
 
 <br>
 
-<h3>💜 Where To Find Me</h3>
+<h3>💜 If You'd Like To Say Hello</h3>
 
 <p>
   💌 <strong>Email</strong><br>
@@ -801,19 +798,31 @@ I'd love to learn another language one day — and for once, I don't mean a prog
 
 <br>
 
+<p>
+  I check both personally,
+  and I'd genuinely love to hear from you.
+</p>
+
+<p>
+  Choose whichever feels most comfortable and natural to you —
+  both are perfectly welcome.
+</p>
+
+<p>
+  A thoughtful email,
+  a quick Discord message,
+  or even just a simple hello.
+</p>
+
+<p>
+  They're all welcome here. 💜
+</p>
+
+<br>
+
 <a href="mailto:iri.devsupport@gmail.com">
   <img src="https://img.shields.io/badge/Send%20an%20Email-9B6BFF?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
-
-<br><br>
-
-<p align="center">
-  <em>
-    Email or Discord —
-    whichever feels easiest.
-    I'll be happy to hear from you. 💜
-  </em>
-</p>
 
 </td>
 
