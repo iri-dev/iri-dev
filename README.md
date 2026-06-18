@@ -319,7 +319,7 @@ I believe healthy habits should be accessible to everyone. Looking after yoursel
 <br>
 
 <p align="center">
-  <img src="image7.png" width="300">
+  <img src="image8.png" width="300">
 </p>
 
 <h2 align="center">💜 Beyond The Code</h2>
