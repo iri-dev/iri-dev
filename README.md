@@ -344,18 +344,17 @@ I believe healthy habits should be accessible to everyone. Looking after yoursel
 <br>
 
 <p>
-Flowers 🌸<br>
-Nature 🍃<br>
-Space 🌌<br>
-Gemstones 💎
+I think the things we love<br>
+quietly shape the things<br>
+we create.
 </p>
 
 <br>
 
 <p>
-Always learning.<br>
-Always creating.<br>
-Always curious.
+There is more to life than code,<br>
+and I think that's what makes<br>
+creating things meaningful.
 </p>
 
 </td>
