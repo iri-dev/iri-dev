@@ -619,49 +619,61 @@ I'd love to learn another language one day — and for once, I don't mean a prog
 
 <br><br>
 
-<h2 align="center">💜 Side Notes</h2>
-
-<p align="center">
-  <em>small thoughts from behind the screen</em>
-</p>
-
-<br>
-
 <p align="center">
   <img src="image9.png" width="100%">
 </p>
 
 <br>
 
+<h2 align="center">💜 A Few Side Notes</h2>
+
 <p align="center">
-  Why do all the best ideas appear when I'm supposed to be sleeping?
+  <em>little thoughts from behind the projects</em>
+</p>
+
+<br>
+
+<p align="center">
+  ☕ My sleep schedule and programming are not always on speaking terms.
 </p>
 
 <p align="center">
-  Purple wins far more design decisions than it probably should.
+  💜 Purple wins far more design decisions than it probably should.
 </p>
 
 <p align="center">
-  Flowers, music, stars, gemstones, and quiet moments make life feel softer.
+  🌸 I think flowers make almost everything feel a little prettier.
 </p>
 
 <p align="center">
-  Sometimes I spend longer choosing the perfect shade of purple than writing the code.
+  🎵 There is usually music playing somewhere in the background.
 </p>
+
+<p align="center">
+  ✨ Most projects begin as a random idea that refuses to leave me alone.
+</p>
+
+<p align="center">
+  🌙 Some of my best ideas arrive at completely unreasonable hours.
+</p>
+
+<p align="center">
+  💎 I care a lot about the little details.
+</p>
+
+<p align="center">
+  🌌 Looking at the stars never gets old.
+</p>
+
+<br>
 
 <p align="center">
   <em>
-    "One more feature and then I'll sleep."
+    The little things often inspire the things we create.
   </em>
 </p>
 
-<p align="center">
-  A sentence responsible for many poor decisions.
-</p>
-
 <br><br>
-
-
 
 
 
