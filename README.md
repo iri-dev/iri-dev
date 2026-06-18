@@ -849,9 +849,11 @@ I'd love to learn another language one day — and for once, I don't mean a prog
 
 <br>
 
-<img src="image6.png" width="100%">
+<p align="center">
+  <img src="image6.png" width="82%">
+</p>
 
-<br><br>
+<br>
 
 <h2 align="center">💜 Thank You For Visiting</h2>
 
@@ -864,31 +866,30 @@ I'd love to learn another language one day — and for once, I don't mean a prog
 <br>
 
 <p align="center">
-  If you've made it all the way down here,
-  thank you.
+  If you've made it all the way down here, thank you.
 </p>
+
+<br>
 
 <p align="center">
   This profile, these projects, and everything you've seen on this page
-  were built by one person spending late nights,
-  chasing ideas,
-  learning from mistakes,
-  fixing bugs,
-  and trying to create things that genuinely help people.
+  were built by one person spending late nights, chasing ideas,
+  learning from mistakes, fixing bugs, and trying to create things
+  that genuinely help people.
 </p>
 
-<p align="center">
-  Whether you came for WebWarden,
-  found a project interesting,
-  read a few sections,
-  or somehow ended up here completely by accident,
-  I'm grateful you stopped by.
-</p>
+<br>
 
 <p align="center">
-  Every view,
-  every message,
-  every piece of feedback,
+  Whether you came for WebWarden, found a project interesting,
+  read through a few sections, or somehow ended up here completely
+  by accident, I'm genuinely glad you stopped by.
+</p>
+
+<br>
+
+<p align="center">
+  Every view, every message, every piece of feedback,
   and every person who uses something I've built
   means more to me than you might realise.
 </p>
@@ -901,11 +902,11 @@ I'd love to learn another language one day — and for once, I don't mean a prog
 </p>
 
 <p align="center">
-  As a solo developer,
-  every bit of support helps me spend more time learning,
-  improving,
-  and building new things.
+  As a solo developer, every bit of support helps me spend more time
+  learning, improving, and building new things.
 </p>
+
+<br>
 
 <p align="center">
   <a href="YOUR_BUYMEACOFFEE_LINK">
@@ -931,11 +932,6 @@ I'd love to learn another language one day — and for once, I don't mean a prog
   💜 Iri
 </p>
 
-<p align="center">
-  <em>
-    one person, many ideas
-  </em>
-</p>
 
 <br>
 
