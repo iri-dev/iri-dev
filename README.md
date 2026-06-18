@@ -607,6 +607,112 @@ I'd love to learn another language one day — and for once, I don't mean a prog
 
 
 
+
+
+
+
+
+
+
+
+
+
+<br><br>
+
+<p align="center">
+  <img src="image9.png" width="340">
+</p>
+
+<br>
+
+<h2 align="center">💜 Side Notes</h2>
+
+<p align="center">
+  <em>small thoughts from behind the screen</em>
+</p>
+
+<br>
+
+<p align="center">
+  ☕ Why do all the best ideas appear when I'm supposed to be sleeping?
+</p>
+
+<p align="center">
+  💜 Purple wins far more design decisions than it probably should.
+</p>
+
+<p align="center">
+  🌸 Flowers make almost everything feel a little happier.
+</p>
+
+<p align="center">
+  🎵 There's usually music playing somewhere in the background.
+</p>
+
+<p align="center">
+  🌌 Looking at the stars never really gets old.
+</p>
+
+<p align="center">
+  💎 Gemstones are beautiful and I refuse to debate this.
+</p>
+
+<p align="center">
+  ✨ Sometimes I spend longer choosing the perfect shade of purple
+  than actually writing the code.
+</p>
+
+<p align="center">
+  🌙 "One more feature and then I'll sleep."
+</p>
+
+<p align="center">
+  <em>
+    A sentence responsible for many poor decisions.
+  </em>
+</p>
+
+<br><br>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 <br>
 
 <table>
