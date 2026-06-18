@@ -448,36 +448,22 @@ I'd love to learn another language one day — and for once, I don't mean a prog
 
 <h1>💜 Langs & Tools</h1>
 
-<td width="32%" align="center" valign="top">
-
-<img src="image7.png" width="280">
-
-<br><br>
-
-<h3>💜 My Toolkit</h3>
-
 <p>
-  <em>tools, languages, and little experiments</em>
+  The tools I use to turn ideas into something real.
 </p>
 
 <br>
 
 <p>
-  I like learning tools that help me<br>
-  build cleaner, safer, and more useful<br>
-  software.
+  Every project starts with something small: an idea, a problem to solve,
+  or something I wish existed.
 </p>
-
-<br>
 
 <p>
-  Some are for big projects.<br>
-  Some are for quick ideas.<br>
-  Some are just because<br>
-  I wanted to understand them.
+  I don't care about chasing every trend. I care about learning the tools
+  that help me build things properly, improve over time, and create software
+  that feels useful.
 </p>
-
-</td>
 
 <br>
 
@@ -584,38 +570,24 @@ I'd love to learn another language one day — and for once, I don't mean a prog
 <h3>💜 My Toolkit</h3>
 
 <p>
-  <em>always learning, always building</em>
+  <em>tools, languages, and little experiments</em>
 </p>
 
 <br>
 
 <p>
-  Some people collect things.
-</p>
-
-<p>
-  I collect ideas,<br>
-  future projects,<br>
-  and problems<br>
-  I want to solve.
+  I like learning tools that help me<br>
+  build cleaner, safer, and more useful<br>
+  software.
 </p>
 
 <br>
 
 <p>
-  Every new language<br>
-  is another way<br>
-  to bring those ideas<br>
-  to life.
-</p>
-
-<br>
-
-<p>
-  Learn.<br>
-  Build.<br>
-  Improve.<br>
-  Repeat.
+  Some are for big projects.<br>
+  Some are for quick ideas.<br>
+  Some are just because<br>
+  I wanted to understand them.
 </p>
 
 </td>
