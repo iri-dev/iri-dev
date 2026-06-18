@@ -830,3 +830,117 @@ I'd love to learn another language one day — and for once, I don't mean a prog
 </table>
 
 <br>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<br>
+
+<img src="image6.png" width="100%">
+
+<br><br>
+
+<h2 align="center">💜 Thank You For Visiting</h2>
+
+<p align="center">
+  <em>
+    the end of the README, but hopefully not the end of the journey
+  </em>
+</p>
+
+<br>
+
+<p align="center">
+  If you've made it all the way down here,
+  thank you.
+</p>
+
+<p align="center">
+  This profile, these projects, and everything you've seen on this page
+  were built by one person spending late nights,
+  chasing ideas,
+  learning from mistakes,
+  fixing bugs,
+  and trying to create things that genuinely help people.
+</p>
+
+<p align="center">
+  Whether you came for WebWarden,
+  found a project interesting,
+  read a few sections,
+  or somehow ended up here completely by accident,
+  I'm grateful you stopped by.
+</p>
+
+<p align="center">
+  Every view,
+  every message,
+  every piece of feedback,
+  and every person who uses something I've built
+  means more to me than you might realise.
+</p>
+
+<br>
+
+<p align="center">
+  ☕ If you'd like to support my work,
+  you can buy me a coffee.
+</p>
+
+<p align="center">
+  As a solo developer,
+  every bit of support helps me spend more time learning,
+  improving,
+  and building new things.
+</p>
+
+<p align="center">
+  <a href="YOUR_BUYMEACOFFEE_LINK">
+    <img src="https://img.shields.io/badge/Support%20My%20Work-9B6BFF?style=for-the-badge&logo=buymeacoffee&logoColor=white">
+  </a>
+</p>
+
+<br>
+
+<p align="center">
+  Thank you for being here.
+</p>
+
+<p align="center">
+  Take care of yourself,
+  keep creating,
+  and don't stop believing in your ideas.
+</p>
+
+<br>
+
+<p align="center">
+  💜 Iri
+</p>
+
+<p align="center">
+  <em>
+    one person, many ideas
+  </em>
+</p>
+
+<br>
+
+<p align="center">
+  ───────────── 💜 ─────────────
+</p>
+
+<br>
