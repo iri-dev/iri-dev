@@ -704,28 +704,36 @@ I'd love to learn another language one day — and for once, I don't mean a prog
 <img src="image3.png" width="300">
 
 <br><br>
-
-<h3>💜 Let's Talk</h3>
+<h3>💜 A Small Invitation</h3>
 
 <p>
   <em>
-    feedback, questions, ideas,<br>
-    bug reports, or just a hello
+    my inbox is always open
   </em>
 </p>
 
 <br>
 
 <p>
-  You don't need to write<br>
-  anything perfect.
+  If you've made it this far,
+  thank you for stopping by.
 </p>
+
+<br>
 
 <p>
-  A small message is enough.
+  If you ever want to say hello,
+  ask a question,
+  share an idea,
+  or leave feedback,
+  you're always welcome.
 </p>
 
-</td>
+<br>
+
+<p>
+  I'll do my best to reply. 💜
+</p>
 
 <td width="62%" valign="top">
 
