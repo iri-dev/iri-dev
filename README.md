@@ -236,7 +236,7 @@ then I've achieved what I set out to do.
 
 <td width="50%" align="center" valign="top">
 
-<h3>🌐 WebWarden</h3>
+<h3>💜 WebWarden</h3>
 
 <p>
 WebWarden began from a simple belief:
@@ -248,7 +248,12 @@ Built around privacy, protection, and user control, WebWarden is my attempt to m
 </p>
 
 <p>
-From tracker blocking to download protection, every feature exists for one reason:
+The web can be dangerous, confusing, and full of things designed to track, trick, or take advantage of users.
+WebWarden brings together the protections I wish browsers had by default.
+</p>
+
+<p>
+From tracker blocking and redirect protection to download safety and privacy-focused tools, every feature exists for one reason:
 <strong>helping people stay safer and more in control online.</strong>
 </p>
 
@@ -262,7 +267,7 @@ From tracker blocking to download protection, every feature exists for one reaso
 
 <td width="50%" align="center" valign="top">
 
-<h3>💧 Hydra Heart</h3>
+<h3>💜 Hydra Heart</h3>
 
 <p>
 Hydra Heart began from a simple belief:
@@ -274,13 +279,19 @@ Focused on hydration, wellbeing, and healthy habits, Hydra Heart encourages peop
 </p>
 
 <p>
-I believe healthy habits should be accessible to everyone. Hydra Heart is built to keep hydration simple, helpful, free, and easy to maintain every day.
+A lot of people forget to drink enough water, even though it is one of the simplest ways to take better care of yourself.
+Hydra Heart is built to make that habit feel easier, softer, and more consistent.
+</p>
+
+<p>
+I believe healthy habits should be accessible to everyone. Looking after yourself should not require a subscription, which is why Hydra Heart is built to stay
+<strong>simple, helpful, and free.</strong>
 </p>
 
 <br>
 
 <a href="#-hydra-heart">
-  <img src="https://img.shields.io/badge/Hydra%20Heart-BB86FC?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Hydra%20Heart-9B6BFF?style=for-the-badge">
 </a>
 
 </td>
