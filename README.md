@@ -148,7 +148,7 @@ I also love learning. I never want to stop growing, improving, and discovering b
 To me, software is a form of art: taking an idea from your head and turning it into something real that people can actually use.
 </p>
 
-<h3>🛡️ What I stand against</h3>
+<h3>💜 What I stand against</h3>
 
 <p>
 A lot of modern software frustrates me. Too much of it feels soulless, corporate, and built around profit instead of people.
@@ -160,7 +160,7 @@ I never want to become the kind of developer who fills everything with ads, micr
 Software should help users, not use them.
 </p>
 
-<h3>🌐 What I want to build</h3>
+<h3>💜 What I want to build</h3>
 
 <p>
 I want my software to be easy enough for almost anyone to understand, but still genuinely effective.
@@ -179,7 +179,7 @@ Part of me also enjoys sticking it to the companies that treat people like produ
 Building software that puts users first feels like pushing back in my own small way.
 </p>
 
-<h3>🌱 How I want to grow</h3>
+<h3>💜 How I want to grow</h3>
 
 <p>
 I don't expect everyone to love everything I build. If someone stops using one of my projects, I'd rather understand why than be blindly praised.
