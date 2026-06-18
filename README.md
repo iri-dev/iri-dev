@@ -236,10 +236,6 @@ then I've achieved what I set out to do.
 
 <td width="50%" align="center" valign="top">
 
-<table>
-<tr>
-<td height="300" align="center" valign="top">
-
 <h3>💜 WebWarden</h3>
 
 <p>
@@ -256,26 +252,15 @@ From tracker blocking and download protection to safer browsing tools, every fea
 <strong>helping people stay safer and more in control online.</strong>
 </p>
 
-</td>
-</tr>
-<tr>
-<td align="center">
+<br>
 
 <a href="#-webwarden">
   <img src="https://img.shields.io/badge/WebWarden-9B6BFF?style=for-the-badge&logo=googlechrome&logoColor=white">
 </a>
 
 </td>
-</tr>
-</table>
-
-</td>
 
 <td width="50%" align="center" valign="top">
-
-<table>
-<tr>
-<td height="300" align="center" valign="top">
 
 <h3>💜 Hydra Heart</h3>
 
@@ -289,21 +274,14 @@ Focused on hydration, wellbeing, and healthy habits, Hydra Heart encourages peop
 </p>
 
 <p>
-I believe healthy habits should be accessible to everyone. Looking after yourself shouldn't require a subscription, which is why Hydra Heart is built around being simple, helpful, and free.
+I believe healthy habits should be accessible to everyone. Hydra Heart is built to keep hydration simple, helpful, and free.
 </p>
 
-</td>
-</tr>
-<tr>
-<td align="center">
+<br>
 
 <a href="#-hydra-heart">
   <img src="https://img.shields.io/badge/Hydra%20Heart-BB86FC?style=for-the-badge">
 </a>
-
-</td>
-</tr>
-</table>
 
 </td>
 
