@@ -205,3 +205,79 @@ then I've achieved what I set out to do.
 </table>
 
 <br>
+
+
+
+
+
+
+
+
+
+
+
+
+<br>
+
+<p align="center">
+  <img src="image5.png" width="260">
+</p>
+
+<h2 align="center">🌸 Current Creations</h2>
+
+<p align="center">
+  The projects currently occupying my mind.
+</p>
+
+<br>
+
+<table>
+<tr>
+
+<td width="50%" align="center">
+
+<h3>🌐 WebWarden</h3>
+
+<p>
+Privacy & browser protection.
+</p>
+
+<p>
+Built around a simple idea:
+people deserve a safer web.
+</p>
+
+<p>
+WebWarden focuses on protection,
+privacy, transparency, and helping
+people stay in control online.
+</p>
+
+</td>
+
+<td width="50%" align="center">
+
+<h3>💧 Hydra Heart</h3>
+
+<p>
+Health & wellbeing.
+</p>
+
+<p>
+A project focused on healthier habits,
+hydration, and taking better care
+of yourself.
+</p>
+
+<p>
+Small improvements.
+Gentle encouragement.
+Real progress.
+</p>
+
+</td>
+
+</tr>
+</table>
+
+<br>
