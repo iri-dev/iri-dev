@@ -446,7 +446,7 @@ I'd love to learn another language one day — and for once, I don't mean a prog
 
 <td width="68%" valign="top">
 
-<h1>💜 Langs & Tools</h1>
+<h1>💜 Languages & Tools</h1>
 
 <p>
   The tools I use to turn ideas into something real.
