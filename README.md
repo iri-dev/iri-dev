@@ -7,7 +7,7 @@
 <table>
 <tr>
 
-<td width="65%" valign="top">
+<td width="68%" valign="top">
 
 <h1>Hey, I'm Iri 💜</h1>
 
@@ -27,8 +27,7 @@
 </p>
 
 <p>
-  Whether it's privacy tools, wellbeing apps,
-  or future projects still taking shape,
+  Whether it's privacy tools, wellbeing apps, or future projects still taking shape,
   I love building things that genuinely help people.
 </p>
 
@@ -58,27 +57,32 @@
 
 </td>
 
-<td width="35%" align="center" valign="top">
+<td width="32%" align="center" valign="top">
 
-<img src="image1.png" width="220">
+<img src="image1.png" width="190">
 
 <br><br>
 
-### 💜 A Little About Me
-
-I love building software that helps people.
-
-Whether it's improving privacy, creating healthier habits, or exploring new ideas, I enjoy turning thoughtful concepts into real projects.
-
-Right now you'll usually find me working on **WebWarden**, building **Hydra Heart**, or dreaming up whatever comes next.
-
-🌸 Privacy  
-💧 Wellbeing  
-💜 Thoughtful Design
+<strong>Iri 💜</strong><br>
+<em>soft little dev corner</em>
 
 </td>
 
 </tr>
 </table>
+
+<br>
+
+## 💜 A Little About Me
+
+I’m not a company or a large development team — just one person who enjoys creating software that helps people.
+
+Technology is a huge part of everyday life, and I believe it should make people feel safer, healthier, and more in control, not overwhelmed or taken advantage of.
+
+That idea is what inspires many of the projects I build, from privacy-focused tools like **WebWarden** to wellbeing projects such as **Hydra Heart**.
+
+I care a lot about thoughtful design, honest communication, and building things that genuinely provide value. If you ever have feedback, ideas, questions, or simply want to say hello, you're always welcome to reach out.
+
+After all, behind every project is a real person — and this little corner of GitHub is mine. 💜
 
 <br>
