@@ -449,7 +449,7 @@ I'd love to learn another language one day — and for once, I don't mean a prog
 
 <br>
 
-<h2 align="center">💜 Languages & Technologies</h2>
+<h2 align="center">💜 Langs & Tools</h2>
 
 <p align="center">
   The tools I use to bring ideas to life.
@@ -457,60 +457,102 @@ I'd love to learn another language one day — and for once, I don't mean a prog
 
 <br>
 
-<p align="center">
-  <img src="image7.png" width="260">
+<table>
+<tr>
+
+<td width="35%" align="center" valign="top">
+
+<img src="image7.png" width="220">
+
+<br><br>
+
+<h3>💜 My Toolkit</h3>
+
+<p>
+<em>always learning, always building</em>
 </p>
 
 <br>
 
-<p align="center">
+<p>
+Languages are just tools.<br>
+What matters most is<br>
+what you create with them.
+</p>
+
+</td>
+
+<td width="65%" valign="top">
+
+<h3>💜 Languages</h3>
+
+<p>
 
 <a href="https://dotnet.microsoft.com/en-us/languages/csharp">
-  <img src="https://img.shields.io/badge/C%23-9B6BFF?style=for-the-badge&logo=csharp&logoColor=white">
+<img src="https://img.shields.io/badge/C%23-9B6BFF?style=for-the-badge&logo=csharp&logoColor=white">
 </a>
 
 <a href="https://www.rust-lang.org">
-  <img src="https://img.shields.io/badge/Rust-9B6BFF?style=for-the-badge&logo=rust&logoColor=white">
+<img src="https://img.shields.io/badge/Rust-9B6BFF?style=for-the-badge&logo=rust&logoColor=white">
 </a>
 
 <a href="https://www.python.org">
-  <img src="https://img.shields.io/badge/Python-9B6BFF?style=for-the-badge&logo=python&logoColor=white">
+<img src="https://img.shields.io/badge/Python-9B6BFF?style=for-the-badge&logo=python&logoColor=white">
 </a>
 
 </p>
 
-<p align="center">
+<p>
 
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
-  <img src="https://img.shields.io/badge/JavaScript-9B6BFF?style=for-the-badge&logo=javascript&logoColor=white">
+<img src="https://img.shields.io/badge/JavaScript-9B6BFF?style=for-the-badge&logo=javascript&logoColor=white">
 </a>
 
 <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
-  <img src="https://img.shields.io/badge/HTML5-9B6BFF?style=for-the-badge&logo=html5&logoColor=white">
+<img src="https://img.shields.io/badge/HTML5-9B6BFF?style=for-the-badge&logo=html5&logoColor=white">
 </a>
 
 <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
-  <img src="https://img.shields.io/badge/CSS3-9B6BFF?style=for-the-badge&logo=css3&logoColor=white">
+<img src="https://img.shields.io/badge/CSS3-9B6BFF?style=for-the-badge&logo=css3&logoColor=white">
 </a>
 
 </p>
 
-<p align="center">
+<p>
 
 <a href="https://isocpp.org">
-  <img src="https://img.shields.io/badge/C%2B%2B-9B6BFF?style=for-the-badge&logo=cplusplus&logoColor=white">
+<img src="https://img.shields.io/badge/C%2B%2B-9B6BFF?style=for-the-badge&logo=cplusplus&logoColor=white">
 </a>
 
 </p>
 
 <br>
 
-<p align="center">
-  I don't believe great software comes from a specific language.
+<h3>💜 Tools</h3>
+
+<p>
+
+<a href="https://code.visualstudio.com">
+<img src="https://img.shields.io/badge/VS_Code-9B6BFF?style=for-the-badge&logo=visualstudiocode&logoColor=white">
+</a>
+
+<a href="https://visualstudio.microsoft.com">
+<img src="https://img.shields.io/badge/Visual_Studio-9B6BFF?style=for-the-badge&logo=visualstudio&logoColor=white">
+</a>
+
+<a href="https://git-scm.com">
+<img src="https://img.shields.io/badge/Git-9B6BFF?style=for-the-badge&logo=git&logoColor=white">
+</a>
+
+<a href="https://github.com">
+<img src="https://img.shields.io/badge/GitHub-9B6BFF?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
 </p>
 
-<p align="center">
-  Languages are simply tools. What matters most is what you create with them.
-</p>
+</td>
+
+</tr>
+</table>
 
 <br>
