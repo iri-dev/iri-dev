@@ -236,7 +236,7 @@ then I've achieved what I set out to do.
 
 <td width="50%" align="center" valign="top">
 
-<h3>💜 WebWarden</h3>
+<h3>🌐 WebWarden</h3>
 
 <p>
 WebWarden began from a simple belief:
@@ -262,7 +262,7 @@ From tracker blocking to download protection, every feature exists for one reaso
 
 <td width="50%" align="center" valign="top">
 
-<h3>💜 Hydra Heart</h3>
+<h3>💧 Hydra Heart</h3>
 
 <p>
 Hydra Heart began from a simple belief:
@@ -274,7 +274,7 @@ Focused on hydration, wellbeing, and healthy habits, Hydra Heart encourages peop
 </p>
 
 <p>
-I believe healthy habits should be accessible to everyone. Hydra Heart is built to keep hydration simple, helpful, and free.
+I believe healthy habits should be accessible to everyone. Hydra Heart is built to keep hydration simple, helpful, free, and easy to maintain every day.
 </p>
 
 <br>
