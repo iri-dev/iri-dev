@@ -236,7 +236,11 @@ then I've achieved what I set out to do.
 
 <td width="50%" align="center" valign="top">
 
-<h3>🌐 WebWarden</h3>
+<table>
+<tr>
+<td height="300" align="center" valign="top">
+
+<h3>💜 WebWarden</h3>
 
 <p>
 WebWarden began from a simple belief:
@@ -244,25 +248,36 @@ WebWarden began from a simple belief:
 </p>
 
 <p>
-Built around privacy, protection, and user control, WebWarden is my attempt to make the internet feel a little safer and a little less overwhelming.
+Built around privacy, protection, and user control, WebWarden is my attempt to make the internet feel safer without overwhelming people.
 </p>
 
 <p>
-From tracker blocking and download protection to safer browsing tools and privacy features, every part of WebWarden exists for one reason:
+From tracker blocking and download protection to safer browsing tools, every feature exists for one reason:
 <strong>helping people stay safer and more in control online.</strong>
 </p>
 
-<br>
+</td>
+</tr>
+<tr>
+<td align="center">
 
 <a href="#-webwarden">
   <img src="https://img.shields.io/badge/WebWarden-9B6BFF?style=for-the-badge&logo=googlechrome&logoColor=white">
 </a>
 
 </td>
+</tr>
+</table>
+
+</td>
 
 <td width="50%" align="center" valign="top">
 
-<h3>💧 Hydra Heart</h3>
+<table>
+<tr>
+<td height="300" align="center" valign="top">
+
+<h3>💜 Hydra Heart</h3>
 
 <p>
 Hydra Heart began from a simple belief:
@@ -270,22 +285,25 @@ Hydra Heart began from a simple belief:
 </p>
 
 <p>
-Focused on hydration, wellbeing, and healthy habits, Hydra Heart encourages people to take better care of themselves through gentle reminders and positive habits rather than guilt or pressure.
+Focused on hydration, wellbeing, and healthy habits, Hydra Heart encourages people through gentle reminders instead of guilt or pressure.
 </p>
 
 <p>
-I believe healthy habits should be accessible to everyone. Looking after yourself shouldn't require a subscription, which is why Hydra Heart is built around keeping things simple, helpful, and free.
+I believe healthy habits should be accessible to everyone. Looking after yourself shouldn't require a subscription, which is why Hydra Heart is built around being simple, helpful, and free.
 </p>
 
-<p>
-Sometimes the smallest habits can make the biggest difference, and Hydra Heart exists to help people build those habits one step at a time.
-</p>
-
-<br>
+</td>
+</tr>
+<tr>
+<td align="center">
 
 <a href="#-hydra-heart">
   <img src="https://img.shields.io/badge/Hydra%20Heart-BB86FC?style=for-the-badge">
 </a>
+
+</td>
+</tr>
+</table>
 
 </td>
 
