@@ -301,6 +301,19 @@ I believe healthy habits should be accessible to everyone. Looking after yoursel
 
 <br>
 
+<br>
+
+<p align="center">
+  💜 <strong>Currently</strong>
+</p>
+
+<p align="center">
+  Building <strong>WebWarden</strong> • Working on <strong>Hydra Heart</strong><br>
+  Learning more <strong>C#</strong> • Drinking slightly too much caffeine ☕
+</p>
+
+<br>
+
 
 
 
