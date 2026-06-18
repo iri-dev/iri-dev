@@ -634,53 +634,44 @@ I'd love to learn another language one day — and for once, I don't mean a prog
 <br>
 
 <p align="center">
-  ☕ My sleep schedule and programming are not always on speaking terms.
+  💜 <strong>My sleep schedule and programming are not always on speaking terms.</strong>
+  <br>
+  <em>"One more feature" rarely means one more feature.</em>
 </p>
 
 <p align="center">
-  💜 Purple wins far more design decisions than it probably should.
+  💜 <strong>Purple wins far more design decisions than it probably should.</strong>
+  <br>
+  <em>But honestly, it usually looks better.</em>
 </p>
 
 <p align="center">
-  🌸 I think flowers make almost everything feel a little prettier.
+  💜 <strong>Most projects begin as a random idea I can't stop thinking about.</strong>
+  <br>
+  <em>Some ideas are quiet. Some refuse to leave me alone.</em>
 </p>
 
 <p align="center">
-  🎵 There is usually music playing somewhere in the background.
+  💜 <strong>I care a lot about the little details.</strong>
+  <br>
+  <em>Even the ones most people may never notice.</em>
 </p>
 
 <p align="center">
-  ✨ Most projects begin as a random idea that refuses to leave me alone.
-</p>
-
-<p align="center">
-  🌙 Some of my best ideas arrive at completely unreasonable hours.
-</p>
-
-<p align="center">
-  💎 I care a lot about the little details.
-</p>
-
-<p align="center">
-  🌌 Looking at the stars never gets old.
+  💜 <strong>Flowers, music, gemstones, and stars make life feel softer.</strong>
+  <br>
+  <em>The little things matter more than people think.</em>
 </p>
 
 <br>
 
 <p align="center">
   <em>
-    The little things often inspire the things we create.
+    The things we love quietly shape the things we create.
   </em>
 </p>
 
 <br><br>
-
-
-
-
-
-
-
 
 
 
