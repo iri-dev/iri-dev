@@ -612,7 +612,7 @@ I'd love to learn another language one day — and for once, I don't mean a prog
 <h2 align="center">💜 Reach Out</h2>
 
 <p align="center">
-  <em>friendly messages, ideas, questions, and little hellos are always welcome</em>
+  <em>friendly messages are always welcome</em>
 </p>
 
 <br>
@@ -622,51 +622,67 @@ I'd love to learn another language one day — and for once, I don't mean a prog
 
 <td width="38%" align="center" valign="top">
 
-<img src="image3.png" width="260">
+<img src="image3.png" width="270">
 
 <br><br>
 
-<h3>💜 Say Hello</h3>
+<h3>💜 A Little Hello</h3>
 
 <p>
-<em>
-I read my messages myself,<br>
-and I always try my best<br>
-to respond with care.
-</em>
+  <em>
+    I'm one person behind these projects,<br>
+    and I genuinely like hearing from people.
+  </em>
+</p>
+
+<br>
+
+<p>
+  Whether it's feedback,<br>
+  a question, an idea,<br>
+  or just a simple hello —
+</p>
+
+<p>
+  you're welcome here.
 </p>
 
 </td>
 
 <td width="62%" valign="top">
 
-<h3>💜 You’re Welcome Here</h3>
+<h3>💜 Don't Be Afraid To Message</h3>
 
 <p>
-If you have feedback, found a bug, have an idea, or just want to say hello,
-please don’t be scared to send a message.
+  If you've made it this far through my profile, thank you for taking the time to read about me, my projects, and the things I care about.
 </p>
 
 <p>
-I genuinely like hearing from people, especially when it helps me make my projects better.
-Some of the best improvements start from one small conversation.
+  If you use <strong>WebWarden</strong>, are interested in <strong>Hydra Heart</strong>, have feedback, found a bug, or have an idea that could make something better, I'd genuinely love to hear from you.
 </p>
 
 <p>
-Whether it’s about <strong>WebWarden</strong>, <strong>Hydra Heart</strong>, privacy, development,
-technology, or something completely random, you’re welcome to reach out.
+  I read my emails myself and try my best to respond with care. You can also find me on Discord if that feels easier or more natural.
+</p>
+
+<p>
+  You don't need a perfect reason to reach out. A question, a suggestion, a kind message, or even a random hello is enough.
 </p>
 
 <br>
 
+<h3>💜 Where To Find Me</h3>
+
 <p>
-💌 <strong>Email</strong><br>
-<a href="mailto:iri.support@gmail.com">iri.support@gmail.com</a>
+  💌 <strong>Email</strong><br>
+  <a href="mailto:iri.support@gmail.com">
+    iri.support@gmail.com
+  </a>
 </p>
 
 <p>
-💜 <strong>Discord</strong><br>
-iri.dev
+  💜 <strong>Discord</strong><br>
+  <code>iri.dev</code>
 </p>
 
 <br>
