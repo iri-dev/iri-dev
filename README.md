@@ -619,12 +619,6 @@ I'd love to learn another language one day — and for once, I don't mean a prog
 
 <br><br>
 
-<p align="center">
-  <img src="image9.png" width="340">
-</p>
-
-<br>
-
 <h2 align="center">💜 Side Notes</h2>
 
 <p align="center">
@@ -634,48 +628,38 @@ I'd love to learn another language one day — and for once, I don't mean a prog
 <br>
 
 <p align="center">
-  ☕ Why do all the best ideas appear when I'm supposed to be sleeping?
+  <img src="image9.png" width="100%">
+</p>
+
+<br>
+
+<p align="center">
+  Why do all the best ideas appear when I'm supposed to be sleeping?
 </p>
 
 <p align="center">
-  💜 Purple wins far more design decisions than it probably should.
+  Purple wins far more design decisions than it probably should.
 </p>
 
 <p align="center">
-  🌸 Flowers make almost everything feel a little happier.
+  Flowers, music, stars, gemstones, and quiet moments make life feel softer.
 </p>
 
 <p align="center">
-  🎵 There's usually music playing somewhere in the background.
-</p>
-
-<p align="center">
-  🌌 Looking at the stars never really gets old.
-</p>
-
-<p align="center">
-  💎 Gemstones are beautiful and I refuse to debate this.
-</p>
-
-<p align="center">
-  ✨ Sometimes I spend longer choosing the perfect shade of purple
-  than actually writing the code.
-</p>
-
-<p align="center">
-  🌙 "One more feature and then I'll sleep."
+  Sometimes I spend longer choosing the perfect shade of purple than writing the code.
 </p>
 
 <p align="center">
   <em>
-    A sentence responsible for many poor decisions.
+    "One more feature and then I'll sleep."
   </em>
 </p>
 
+<p align="center">
+  A sentence responsible for many poor decisions.
+</p>
+
 <br><br>
-
-
-
 
 
 
