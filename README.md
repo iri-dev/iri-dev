@@ -316,12 +316,6 @@ I believe healthy habits should be accessible to everyone. Looking after yoursel
 
 
 
-<br>
-
-<p align="center">
-  <img src="image8.png" width="300">
-</p>
-
 <h2 align="center">💜 Beyond The Code</h2>
 
 <p align="center">
@@ -335,19 +329,21 @@ I believe healthy habits should be accessible to everyone. Looking after yoursel
 
 <td width="35%" align="center" valign="top">
 
-<h3>💜 A Few Things I Love</h3>
+<img src="image8.png" width="220">
 
-<p>
-<em>life outside the code</em>
-</p>
+<br><br>
+
+<strong>A Few Things I Love</strong>
 
 <br>
 
-<p>
+<em>life outside the code</em>
+
+<br><br>
+
 I think the things we love<br>
 quietly shape the things<br>
 we create.
-</p>
 
 </td>
 
@@ -380,13 +376,13 @@ Art, design, guitar, and making things feel personal. I like creating things in 
 <h3>💜 Space & Gemstones</h3>
 
 <p>
-I've always loved space, stars, gemstones, and things that feel a little magical. There's something inspiring about how huge, strange, and beautiful the universe can be.
+I've always loved space, stars, gemstones, and things that feel a little magical.
 </p>
 
 <h3>💜 Self Care</h3>
 
 <p>
-Cooking, skincare, haircare, and taking care of yourself properly. Small routines can make life feel softer, calmer, and more grounded.
+Cooking, skincare, haircare, and taking care of yourself properly.
 </p>
 
 </td>
