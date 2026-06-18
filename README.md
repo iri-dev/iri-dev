@@ -620,7 +620,7 @@ I'd love to learn another language one day — and for once, I don't mean a prog
 <br><br>
 
 <p align="center">
-  <img src="image9.png" width="100%">
+  <img src="image10.png" width="100%">
 </p>
 
 <br>
