@@ -847,66 +847,42 @@ I'd love to learn another language one day — and for once, I don't mean a prog
 
 
 
-<br>
-
-<p align="center">
-  <img src="image6.png" width="82%">
-</p>
-
-<br>
-
 <h2 align="center">💜 Thank You For Visiting</h2>
 
 <p align="center">
   <em>
-    the end of the README, but hopefully not the end of the journey
+    thank you for spending a little time in my corner of GitHub
   </em>
 </p>
 
 <br>
 
 <p align="center">
-  If you've made it all the way down here, thank you.
+  If you've made it all the way down here,
+  thank you.
 </p>
 
-<br>
-
 <p align="center">
-  This profile, these projects, and everything you've seen on this page
-  were built by one person spending late nights, chasing ideas,
-  learning from mistakes, fixing bugs, and trying to create things
-  that genuinely help people.
+  Whether you came for a project,
+  found something useful,
+  or simply stopped by out of curiosity,
+  I'm genuinely glad you were here.
 </p>
 
-<br>
-
 <p align="center">
-  Whether you came for WebWarden, found a project interesting,
-  read through a few sections, or somehow ended up here completely
-  by accident, I'm genuinely glad you stopped by.
-</p>
-
-<br>
-
-<p align="center">
-  Every view, every message, every piece of feedback,
-  and every person who uses something I've built
+  Every person who uses something I've built,
+  leaves feedback,
+  sends a message,
+  or supports my work
   means more to me than you might realise.
 </p>
 
 <br>
 
 <p align="center">
-  ☕ If you'd like to support my work,
+  ☕ If you'd like to support future projects,
   you can buy me a coffee.
 </p>
-
-<p align="center">
-  As a solo developer, every bit of support helps me spend more time
-  learning, improving, and building new things.
-</p>
-
-<br>
 
 <p align="center">
   <a href="YOUR_BUYMEACOFFEE_LINK">
@@ -917,13 +893,9 @@ I'd love to learn another language one day — and for once, I don't mean a prog
 <br>
 
 <p align="center">
-  Thank you for being here.
-</p>
-
-<p align="center">
-  Take care of yourself,
+  Take care,
   keep creating,
-  and don't stop believing in your ideas.
+  and thank you for being here. 💜
 </p>
 
 <br>
@@ -932,11 +904,8 @@ I'd love to learn another language one day — and for once, I don't mean a prog
   💜 Iri
 </p>
 
-
 <br>
 
 <p align="center">
-  ───────────── 💜 ─────────────
+  ───────── 💜 ─────────
 </p>
-
-<br>
