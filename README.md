@@ -231,53 +231,54 @@ then I've achieved what I set out to do.
 
 <br>
 
-<table>
-<tr>
-
-<td width="50%" align="center">
-
-<h3>🌐 WebWarden</h3>
+## 🌐 WebWarden
 
 <p>
-Privacy & browser protection.
+WebWarden began from a simple belief:
+<strong>people deserve a safer web.</strong>
 </p>
 
 <p>
-Built around a simple idea:
-people deserve a safer web.
+Built around privacy, protection, and user control,
+WebWarden is my attempt to make online safety feel
+approachable without sacrificing effectiveness.
 </p>
 
 <p>
-WebWarden focuses on protection,
-privacy, transparency, and helping
-people stay in control online.
+From blocking trackers and malicious websites to helping
+users understand online risks, the goal has always been
+the same:
+help people browse with greater confidence.
 </p>
 
-</td>
+<br>
 
-<td width="50%" align="center">
-
-<h3>💧 Hydra Heart</h3>
+## 💧 Hydra Heart
 
 <p>
-Health & wellbeing.
-</p>
-
-<p>
-A project focused on healthier habits,
-hydration, and taking better care
-of yourself.
+Hydra Heart comes from a much more personal place.
 </p>
 
 <p>
-Small improvements.
-Gentle encouragement.
-Real progress.
+It's a project focused on wellbeing, healthy habits,
+and taking better care of ourselves in a world that
+often moves too fast.
 </p>
 
-</td>
+<p>
+Rather than overwhelming people with pressure,
+Hydra Heart is built around small improvements,
+gentle encouragement, and consistency over perfection.
+</p>
 
-</tr>
-</table>
+<br>
+
+<p align="center">
+  <em>
+    Some projects protect people.
+    Some help people.
+    The best ones do both.
+  </em>
+</p>
 
 <br>
