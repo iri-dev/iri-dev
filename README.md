@@ -415,3 +415,113 @@ I'd love to learn another language one day — and for once, I don't mean a prog
 </table>
 
 <br>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<br>
+
+<h2 align="center">💜 Languages & Technologies</h2>
+
+<p align="center">
+  The tools I currently use to bring ideas to life.
+</p>
+
+<br>
+
+<table>
+<tr>
+
+<td width="35%" align="center" valign="top">
+
+<img src="image7.png" width="220">
+
+<br><br>
+
+<h3>💜 Current Focus</h3>
+
+<p>
+Building WebWarden.
+</p>
+
+<p>
+Expanding my C# and Rust skills.
+</p>
+
+<p>
+Creating software people trust.
+</p>
+
+<p>
+Designing safer browsing experiences.
+</p>
+
+</td>
+
+<td width="65%" valign="top">
+
+<h3>💜 Languages</h3>
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=cs" height="48">
+<img src="https://skillicons.dev/icons?i=rust" height="48">
+<img src="https://skillicons.dev/icons?i=python" height="48">
+<img src="https://skillicons.dev/icons?i=javascript" height="48">
+
+<br><br>
+
+<img src="https://skillicons.dev/icons?i=html" height="48">
+<img src="https://skillicons.dev/icons?i=css" height="48">
+<img src="https://skillicons.dev/icons?i=java" height="48">
+<img src="https://skillicons.dev/icons?i=cpp" height="48">
+
+</p>
+
+<br>
+
+<h3>💜 Tools & Platforms</h3>
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=visualstudio" height="48">
+<img src="https://skillicons.dev/icons?i=vscode" height="48">
+<img src="https://skillicons.dev/icons?i=git" height="48">
+<img src="https://skillicons.dev/icons?i=github" height="48">
+
+</p>
+
+</td>
+
+</tr>
+</table>
+
+<br>
