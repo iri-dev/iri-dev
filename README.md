@@ -447,7 +447,7 @@ I'd love to learn another language one day — and for once, I don't mean a prog
 <h2 align="center">💜 Langs & Tools</h2>
 
 <p align="center">
-  The tools I use to turn ideas into reality.
+  The tools I use to turn ideas into something real.
 </p>
 
 <br>
@@ -470,70 +470,95 @@ I'd love to learn another language one day — and for once, I don't mean a prog
 <br>
 
 <p>
-Every project starts<br>
-as an idea.
+I don't really care about<br>
+chasing the latest trend.
 </p>
 
 <br>
 
 <p>
-These are the tools I use<br>
-to turn those ideas into<br>
-something real.
+I care about finding<br>
+the right tool for the job<br>
+and using it to build<br>
+something useful.
+</p>
+
+<br>
+
+<p>
+The languages will change.<br>
+The tools will change.<br>
+The goal stays the same:
+</p>
+
+<p>
+<strong>
+build things that genuinely<br>
+help people.
+</strong>
 </p>
 
 </td>
 
 <td width="65%" valign="top">
 
-<h3>💜 Currently Using</h3>
+<h3>💜 What I Build With</h3>
 
-<p align="center">
-
-<a href="https://dotnet.microsoft.com/en-us/languages/csharp">
-<img src="https://skillicons.dev/icons?i=cs" width="48">
-</a>
-
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
-<img src="https://skillicons.dev/icons?i=js" width="48">
-</a>
-
-<a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
-<img src="https://skillicons.dev/icons?i=html" width="48">
-</a>
-
-<a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
-<img src="https://skillicons.dev/icons?i=css" width="48">
-</a>
-
+<p>
+Every project starts the same way: an idea, a problem to solve, or something I wish existed.
+These are the tools I use to turn those ideas into something real.
 </p>
 
 <p align="center">
-Most of my current projects live here.
+  <a href="https://dotnet.microsoft.com/en-us/languages/csharp">
+    <img src="https://skillicons.dev/icons?i=cs" width="48">
+  </a>
+  &nbsp;
+  <a href="https://www.rust-lang.org">
+    <img src="https://skillicons.dev/icons?i=rust" width="48">
+  </a>
+  &nbsp;
+  <a href="https://www.python.org">
+    <img src="https://skillicons.dev/icons?i=python" width="48">
+  </a>
+  &nbsp;
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
+    <img src="https://skillicons.dev/icons?i=js" width="48">
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
+    <img src="https://skillicons.dev/icons?i=html" width="48">
+  </a>
+  &nbsp;
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
+    <img src="https://skillicons.dev/icons?i=css" width="48">
+  </a>
+  &nbsp;
+  <a href="https://isocpp.org">
+    <img src="https://skillicons.dev/icons?i=cpp" width="48">
+  </a>
 </p>
 
 <br>
 
-<h3>💜 Exploring</h3>
+<h3>💜 Languages</h3>
 
-<p align="center">
-
-<a href="https://www.rust-lang.org">
-<img src="https://skillicons.dev/icons?i=rust" width="48">
-</a>
-
-<a href="https://isocpp.org">
-<img src="https://skillicons.dev/icons?i=cpp" width="48">
-</a>
-
-<a href="https://www.python.org">
-<img src="https://skillicons.dev/icons?i=python" width="48">
-</a>
-
+<p>
+<strong>C#</strong> is where many of my bigger ideas and desktop projects begin.
 </p>
 
-<p align="center">
-Languages I'm continually learning and improving with.
+<p>
+<strong>JavaScript</strong>, HTML, and CSS help me build for the browser, including projects like WebWarden.
+</p>
+
+<p>
+<strong>Rust</strong> and <strong>C++</strong> challenge me to think more carefully about performance, structure, and how software really works.
+</p>
+
+<p>
+<strong>Python</strong> is perfect for experiments, quick tools, and turning little ideas into working prototypes.
 </p>
 
 <br>
@@ -541,27 +566,25 @@ Languages I'm continually learning and improving with.
 <h3>💜 Daily Tools</h3>
 
 <p align="center">
-
-<a href="https://code.visualstudio.com">
-<img src="https://skillicons.dev/icons?i=vscode" width="48">
-</a>
-
-<a href="https://visualstudio.microsoft.com">
-<img src="https://skillicons.dev/icons?i=visualstudio" width="48">
-</a>
-
-<a href="https://git-scm.com">
-<img src="https://skillicons.dev/icons?i=git" width="48">
-</a>
-
-<a href="https://github.com">
-<img src="https://skillicons.dev/icons?i=github" width="48">
-</a>
-
+  <a href="https://code.visualstudio.com">
+    <img src="https://skillicons.dev/icons?i=vscode" width="48">
+  </a>
+  &nbsp;
+  <a href="https://visualstudio.microsoft.com">
+    <img src="https://skillicons.dev/icons?i=visualstudio" width="48">
+  </a>
+  &nbsp;
+  <a href="https://git-scm.com">
+    <img src="https://skillicons.dev/icons?i=git" width="48">
+  </a>
+  &nbsp;
+  <a href="https://github.com">
+    <img src="https://skillicons.dev/icons?i=github" width="48">
+  </a>
 </p>
 
-<p align="center">
-The software I spend most of my time in.
+<p>
+These are the tools I spend most of my time in while building, testing, fixing, and slowly turning ideas into real projects.
 </p>
 
 </td>
