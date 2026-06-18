@@ -694,8 +694,6 @@ I'd love to learn another language one day — and for once, I don't mean a prog
 
 
 
-<br>
-
 <table>
 <tr>
 
@@ -704,12 +702,11 @@ I'd love to learn another language one day — and for once, I don't mean a prog
 <img src="image3.png" width="300">
 
 <br><br>
+
 <h3>💜 A Small Invitation</h3>
 
 <p>
-  <em>
-    my inbox is always open
-  </em>
+  <em>my inbox is always open</em>
 </p>
 
 <br>
@@ -722,40 +719,73 @@ I'd love to learn another language one day — and for once, I don't mean a prog
 <br>
 
 <p>
-  If you ever want to say hello,
-  ask a question,
-  share an idea,
-  or leave feedback,
-  you're always welcome.
+  Whether you have feedback,
+  a question,
+  an idea,
+  or simply want to say hello,
+  you're always welcome here.
 </p>
 
 <br>
 
 <p>
-  I'll do my best to reply. 💜
+  I'll do my best to reply.
 </p>
+
+<p>
+  <em>Don't be a stranger. 💜</em>
+</p>
+
+</td>
 
 <td width="62%" valign="top">
 
 <h2>💜 Send Me A Message</h2>
 
 <p>
-  If you have feedback, questions, suggestions, bug reports, feature ideas,
-  or thoughts about one of my projects, I’d genuinely love to hear from you.
+  If one of my projects helped you,
+  confused you,
+  broke on your computer,
+  inspired an idea,
+  or simply made you curious,
+  I'd genuinely love to hear from you.
 </p>
 
 <p>
-  I care a lot about improving what I build, and real messages from real people
-  help me understand what works, what feels confusing, and what could be better.
+  Some of my favourite improvements,
+  conversations, and ideas have started
+  because somebody decided to send a message.
 </p>
 
 <p>
-  You can email me, or message me on Discord if you prefer. Either is completely okay.
+  I read my emails personally,
+  check my messages myself,
+  and always try to respond when I can.
+</p>
+
+<p>
+  You can contact me by email or Discord —
+  whichever feels more comfortable for you.
+</p>
+
+<p>
+  Questions, suggestions, bug reports,
+  feedback, project ideas,
+  or even a random hello are all welcome.
+</p>
+
+<p>
+  This isn't a support desk.
+  It's just me.
+</p>
+
+<p>
+  And I'd be happy to hear from you. 💜
 </p>
 
 <br>
 
-<h3>💜 Contact Options</h3>
+<h3>💜 Where To Find Me</h3>
 
 <p>
   💌 <strong>Email</strong><br>
@@ -777,10 +807,11 @@ I'd love to learn another language one day — and for once, I don't mean a prog
 
 <br><br>
 
-<p>
+<p align="center">
   <em>
-    Please don’t be scared to message me — I’m friendly, I read my messages myself,
-    and I’ll always try to respond with care.
+    Email or Discord —
+    whichever feels easiest.
+    I'll be happy to hear from you. 💜
   </em>
 </p>
 
