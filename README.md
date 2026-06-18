@@ -439,66 +439,30 @@ I'd love to learn another language one day — and for once, I don't mean a prog
 
 
 
-
 <br>
 
 <table>
 <tr>
 
-<td width="35%" align="center" valign="top">
+<td width="68%" valign="top">
 
-<img src="image7.png" width="260">
-
-<br><br>
-
-<h3>💜 My Toolkit</h3>
+<h1>💜 Langs & Tools</h1>
 
 <p>
-<em>always learning, always building</em>
+  The tools I use to turn ideas into something real.
 </p>
 
 <br>
 
 <p>
-I don't use languages<br>
-to show off.
+  Every project starts with something small: an idea, a problem to solve,
+  or something I wish existed.
 </p>
 
 <p>
-I use them to solve problems,<br>
-build ideas, and make things<br>
-that feel useful.
-</p>
-
-<br>
-
-<p>
-The tools may change,<br>
-but the reason stays the same:
-</p>
-
-<p>
-<strong>
-build things that genuinely<br>
-help people.
-</strong>
-</p>
-
-</td>
-
-<td width="65%" valign="top">
-
-<h2>💜 Langs & Tools</h2>
-
-<p>
-The tools I use to turn ideas into something real.
-</p>
-
-<br>
-
-<p>
-Every project starts with an idea, a problem, or something I wish existed.
-The language is just the way I bring it to life.
+  I don't care about chasing every trend. I care about learning the tools
+  that help me build things properly, improve over time, and create software
+  that feels useful.
 </p>
 
 <br>
@@ -507,31 +471,31 @@ The language is just the way I bring it to life.
 
 <p align="center">
   <a href="https://dotnet.microsoft.com/en-us/languages/csharp">
-    <img src="https://skillicons.dev/icons?i=cs" width="50">
+    <img src="https://skillicons.dev/icons?i=cs" width="52">
   </a>
   &nbsp;
   <a href="https://www.rust-lang.org">
-    <img src="https://skillicons.dev/icons?i=rust" width="50">
+    <img src="https://skillicons.dev/icons?i=rust" width="52">
   </a>
   &nbsp;
   <a href="https://www.python.org">
-    <img src="https://skillicons.dev/icons?i=python" width="50">
+    <img src="https://skillicons.dev/icons?i=python" width="52">
   </a>
   &nbsp;
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
-    <img src="https://skillicons.dev/icons?i=js" width="50">
+    <img src="https://skillicons.dev/icons?i=js" width="52">
   </a>
   &nbsp;
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
-    <img src="https://skillicons.dev/icons?i=html" width="50">
+    <img src="https://skillicons.dev/icons?i=html" width="52">
   </a>
   &nbsp;
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
-    <img src="https://skillicons.dev/icons?i=css" width="50">
+    <img src="https://skillicons.dev/icons?i=css" width="52">
   </a>
   &nbsp;
   <a href="https://isocpp.org">
-    <img src="https://skillicons.dev/icons?i=cpp" width="50">
+    <img src="https://skillicons.dev/icons?i=cpp" width="52">
   </a>
 </p>
 
@@ -540,23 +504,23 @@ The language is just the way I bring it to life.
 <h3>💜 How I Think About Them</h3>
 
 <p>
-<strong>C#</strong> is where a lot of my bigger ideas begin, especially when I want to build something that feels like a real application.
+  <strong>C#</strong> is where a lot of my bigger ideas begin, especially when I want to build something that feels like a real application.
 </p>
 
 <p>
-<strong>JavaScript</strong>, HTML, and CSS help me build for the browser, which makes them especially important for projects like WebWarden.
+  <strong>JavaScript</strong>, HTML, and CSS help me build for the browser, which makes them especially important for projects like <strong>WebWarden</strong>.
 </p>
 
 <p>
-<strong>Python</strong> is perfect for experiments, quick tools, testing ideas, and getting something working fast.
+  <strong>Python</strong> is perfect for experiments, quick tools, testing ideas, and getting something working fast.
 </p>
 
 <p>
-<strong>Rust</strong> pushes me to think more carefully about safety, structure, and performance.
+  <strong>Rust</strong> pushes me to think more carefully about safety, structure, and performance.
 </p>
 
 <p>
-<strong>C++</strong> is powerful, interesting, and sometimes deeply annoying — but I respect it.
+  <strong>C++</strong> is powerful, interesting, and sometimes extremely annoying — but I respect it.
 </p>
 
 <br>
@@ -565,25 +529,79 @@ The language is just the way I bring it to life.
 
 <p align="center">
   <a href="https://code.visualstudio.com">
-    <img src="https://skillicons.dev/icons?i=vscode" width="50">
+    <img src="https://skillicons.dev/icons?i=vscode" width="52">
   </a>
   &nbsp;
   <a href="https://visualstudio.microsoft.com">
-    <img src="https://skillicons.dev/icons?i=visualstudio" width="50">
+    <img src="https://skillicons.dev/icons?i=visualstudio" width="52">
   </a>
   &nbsp;
   <a href="https://git-scm.com">
-    <img src="https://skillicons.dev/icons?i=git" width="50">
+    <img src="https://skillicons.dev/icons?i=git" width="52">
   </a>
   &nbsp;
   <a href="https://github.com">
-    <img src="https://skillicons.dev/icons?i=github" width="50">
+    <img src="https://skillicons.dev/icons?i=github" width="52">
   </a>
 </p>
 
 <p>
-Most of my time is spent building, testing, breaking things by accident,
-fixing them again, and slowly turning ideas into real projects.
+  Most of my time is spent building, testing, breaking things by accident,
+  fixing them again, and slowly turning ideas into real projects.
+</p>
+
+<br>
+
+<p>
+  <strong>
+    The languages will change. The tools will change.
+    The goal stays the same: build things that genuinely help people.
+  </strong>
+</p>
+
+</td>
+
+<td width="32%" align="center" valign="top">
+
+<img src="image7.png" width="280">
+
+<br><br>
+
+<h3>💜 My Toolkit</h3>
+
+<p>
+  <em>always learning, always building</em>
+</p>
+
+<br>
+
+<p>
+  Some people collect things.
+</p>
+
+<p>
+  I collect ideas,<br>
+  future projects,<br>
+  and problems<br>
+  I want to solve.
+</p>
+
+<br>
+
+<p>
+  Every new language<br>
+  is another way<br>
+  to bring those ideas<br>
+  to life.
+</p>
+
+<br>
+
+<p>
+  Learn.<br>
+  Build.<br>
+  Improve.<br>
+  Repeat.
 </p>
 
 </td>
