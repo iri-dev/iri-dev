@@ -248,8 +248,8 @@ Built around privacy, protection, and user control, WebWarden is my attempt to m
 </p>
 
 <p>
-From tracker blocking and download protection to safer browsing tools, every feature exists for one reason:
-<strong>helping people stay safer and more in control online.</strong>
+From tracker blocking to download protection, every feature exists for one reason:
+<strong>helping people stay safer, informed, and in control online.</strong>
 </p>
 
 <br>
@@ -275,6 +275,10 @@ Focused on hydration, wellbeing, and healthy habits, Hydra Heart encourages peop
 
 <p>
 I believe healthy habits should be accessible to everyone. Hydra Heart is built to keep hydration simple, helpful, and free.
+</p>
+
+<p>
+Small habits matter, and sometimes a gentle reminder is all someone needs.
 </p>
 
 <br>
