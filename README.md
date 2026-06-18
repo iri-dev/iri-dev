@@ -609,20 +609,10 @@ I'd love to learn another language one day — and for once, I don't mean a prog
 
 <br>
 
-<p align="center">
-  <img src="image2.png" width="100%">
-</p>
-
-<br>
-
-<br>
-
-<br>
-
 <h2 align="center">💜 Reach Out</h2>
 
 <p align="center">
-  <em>friendly messages are always welcome</em>
+  <em>friendly messages, ideas, questions, and little hellos are always welcome</em>
 </p>
 
 <br>
@@ -630,56 +620,48 @@ I'd love to learn another language one day — and for once, I don't mean a prog
 <table>
 <tr>
 
-<td width="35%" align="center" valign="top">
+<td width="38%" align="center" valign="top">
 
-<img src="image3.png" width="240">
+<img src="image3.png" width="260">
 
 <br><br>
 
 <h3>💜 Say Hello</h3>
 
 <p>
-<em>feedback, ideas, questions,<br>
-or just a friendly message</em>
-</p>
-
-<br>
-
-<p>
-I read my emails personally<br>
-and try my best to respond.
-</p>
-
-<p>
-You can also find me on Discord<br>
-if that's easier.
+<em>
+I read my messages myself,<br>
+and I always try my best<br>
+to respond with care.
+</em>
 </p>
 
 </td>
 
-<td width="65%" valign="top">
+<td width="62%" valign="top">
 
-<h3>💜 You're Always Welcome</h3>
+<h3>💜 You’re Welcome Here</h3>
 
 <p>
-If you've used one of my projects, found a bug, have an idea, or think something could be better, I'd genuinely love to hear from you.
+If you have feedback, found a bug, have an idea, or just want to say hello,
+please don’t be scared to send a message.
 </p>
 
 <p>
-Constructive feedback helps me improve, and some of my favourite ideas have started from a simple conversation.
+I genuinely like hearing from people, especially when it helps me make my projects better.
+Some of the best improvements start from one small conversation.
 </p>
 
 <p>
-You don't need a perfect reason to reach out either. If you just want to say hello, ask a question, or talk about WebWarden, Hydra Heart, privacy, development, or technology, you're welcome to message me.
+Whether it’s about <strong>WebWarden</strong>, <strong>Hydra Heart</strong>, privacy, development,
+technology, or something completely random, you’re welcome to reach out.
 </p>
 
 <br>
 
 <p>
 💌 <strong>Email</strong><br>
-<a href="mailto:iri.support@gmail.com">
-iri.support@gmail.com
-</a>
+<a href="mailto:iri.support@gmail.com">iri.support@gmail.com</a>
 </p>
 
 <p>
@@ -696,9 +678,6 @@ iri.dev
 </td>
 
 </tr>
-</table>
-
-<br>
 </table>
 
 <br>
