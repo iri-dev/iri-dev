@@ -234,46 +234,54 @@ then I've achieved what I set out to do.
 <table>
 <tr>
 
-<td width="50%" align="center">
+<td width="50%" align="center" valign="top">
 
 <h3>🌐 WebWarden</h3>
 
 <p>
-Privacy & browser protection.
+WebWarden began from a simple belief:
+<strong>people deserve to feel safer on the internet.</strong>
 </p>
 
 <p>
-Built around a simple idea:
-people deserve a safer web.
+Built around privacy, protection, and user control, WebWarden is my attempt to make the internet feel a little safer and a little less overwhelming.
 </p>
 
 <p>
-WebWarden focuses on protection,
-privacy, transparency, and helping
-people stay in control online.
+From tracker blocking and download protection to safer browsing tools and privacy features, every part of WebWarden was created with one goal in mind:
+<strong>helping people stay safe, informed, and in control online.</strong>
 </p>
+
+<br>
+
+<a href="#-webwarden">
+  <img src="https://img.shields.io/badge/WebWarden-9B6BFF?style=for-the-badge&logo=googlechrome&logoColor=white">
+</a>
 
 </td>
 
-<td width="50%" align="center">
+<td width="50%" align="center" valign="top">
 
 <h3>💧 Hydra Heart</h3>
 
 <p>
-Health & wellbeing.
+Hydra Heart began from a simple belief:
+<strong>taking care of yourself should be easier.</strong>
 </p>
 
 <p>
-A project focused on healthier habits,
-hydration, and taking better care
-of yourself.
+Focused on hydration, wellbeing, and healthy habits, Hydra Heart encourages people to take better care of themselves through gentle reminders and positive habits rather than guilt or pressure.
 </p>
 
 <p>
-Small improvements.
-Gentle encouragement.
-Real progress.
+I believe healthy habits should be accessible to everyone. Looking after yourself shouldn't require a subscription, which is why Hydra Heart is built around keeping things simple, helpful, and free.
 </p>
+
+<br>
+
+<a href="#-hydra-heart">
+  <img src="https://img.shields.io/badge/Hydra%20Heart-BB86FC?style=for-the-badge">
+</a>
 
 </td>
 
