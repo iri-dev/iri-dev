@@ -442,13 +442,12 @@ I'd love to learn another language one day — and for once, I don't mean a prog
 
 
 
-
 <br>
 
 <h2 align="center">💜 Langs & Tools</h2>
 
 <p align="center">
-  The tools I use to bring ideas to life.
+  The tools I use to turn ideas into reality.
 </p>
 
 <br>
@@ -471,35 +470,28 @@ I'd love to learn another language one day — and for once, I don't mean a prog
 <br>
 
 <p>
-The languages change.<br>
-The tools change.
+Every project starts<br>
+as an idea.
 </p>
 
 <br>
 
 <p>
-The goal stays the same:<br>
-build things that help people.
+These are the tools I use<br>
+to turn those ideas into<br>
+something real.
 </p>
 
 </td>
 
 <td width="65%" valign="top">
 
-<h3>💜 What I Build With</h3>
+<h3>💜 Currently Using</h3>
 
 <p align="center">
 
 <a href="https://dotnet.microsoft.com/en-us/languages/csharp">
 <img src="https://skillicons.dev/icons?i=cs" width="48">
-</a>
-
-<a href="https://www.rust-lang.org">
-<img src="https://skillicons.dev/icons?i=rust" width="48">
-</a>
-
-<a href="https://www.python.org">
-<img src="https://skillicons.dev/icons?i=python" width="48">
 </a>
 
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
@@ -514,28 +506,34 @@ build things that help people.
 <img src="https://skillicons.dev/icons?i=css" width="48">
 </a>
 
-<a href="https://isocpp.org">
-<img src="https://skillicons.dev/icons?i=cpp" width="48">
-</a>
+</p>
 
+<p align="center">
+Most of my current projects live here.
 </p>
 
 <br>
 
-<p>
-💜 <strong>C#</strong> is where most of my desktop applications and larger projects live.
+<h3>💜 Exploring</h3>
+
+<p align="center">
+
+<a href="https://www.rust-lang.org">
+<img src="https://skillicons.dev/icons?i=rust" width="48">
+</a>
+
+<a href="https://isocpp.org">
+<img src="https://skillicons.dev/icons?i=cpp" width="48">
+</a>
+
+<a href="https://www.python.org">
+<img src="https://skillicons.dev/icons?i=python" width="48">
+</a>
+
 </p>
 
-<p>
-💜 <strong>JavaScript</strong>, HTML, and CSS power projects like WebWarden and bring ideas to the browser.
-</p>
-
-<p>
-💜 <strong>Rust</strong> and <strong>C++</strong> are languages I enjoy exploring because they challenge me to think differently.
-</p>
-
-<p>
-💜 <strong>Python</strong> is my go-to language for experiments, tools, and quick ideas.
+<p align="center">
+Languages I'm continually learning and improving with.
 </p>
 
 <br>
@@ -563,17 +561,10 @@ build things that help people.
 </p>
 
 <p align="center">
-<em>
-These are the tools I spend most of my time in while bringing projects to life.
-</em>
+The software I spend most of my time in.
 </p>
 
 </td>
-
-</tr>
-</table>
-
-<br>
 
 </tr>
 </table>
