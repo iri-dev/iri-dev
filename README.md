@@ -64,7 +64,8 @@
 <br><br>
 
 <strong>Iri 💜</strong><br>
-<em>soft little dev corner</em>
+<em>Iri 💜
+one person, many ideas </em>
 
 </td>
 
