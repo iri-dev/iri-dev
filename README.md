@@ -320,60 +320,80 @@ I believe healthy habits should be accessible to everyone. Looking after yoursel
 <br>
 
 <p align="center">
-  <img src="image7.png" width="280">
+  <img src="image7.png" width="300">
 </p>
 
 <h2 align="center">💜 Beyond The Code</h2>
 
 <p align="center">
-  The little things that inspire me away from the keyboard.
+  The little things that make me, me.
 </p>
 
 <br>
 
-<p align="center">
+<table>
+<tr>
 
-💜 <strong>Purple</strong> (obviously)
+<td width="35%" align="center" valign="top">
+
+<img src="image8.png" width="220">
 
 <br><br>
 
-🌌 Space & stars
+<strong>Iri's Interests</strong><br>
+<em>the human side of the developer</em>
 
-<br>
+</td>
 
-💎 Gemstones & shiny things
+<td width="65%" valign="top">
 
-<br>
+<h3>💜 Favourite Colour</h3>
 
-🎮 Genshin Impact & Wuthering Waves
-
-<br>
-
-📺 Steins;Gate
-
-<br>
-
-🎸 Guitar
-
-<br>
-
-🎨 Art & design
-
-<br>
-
-🍳 Cooking
-
-<br>
-
-🧴 Skincare & haircare
-
-<br>
-
-🎵 Almost every genre of music
-<br>
-<em>(except screamo 😭)</em>
-
+<p>
+Purple (obviously 💜)
 </p>
+
+<h3>💜 Favourite Games</h3>
+
+<p>
+Genshin Impact • Wuthering Waves
+</p>
+
+<h3>💜 Favourite Anime</h3>
+
+<p>
+Steins;Gate
+</p>
+
+<h3>💜 Music</h3>
+
+<p>
+Almost every genre imaginable...
+except screamo 😭
+</p>
+
+<h3>💜 Creative Interests</h3>
+
+<p>
+Art • Design • Guitar
+</p>
+
+<h3>💜 Things I Find Fascinating</h3>
+
+<p>
+Space • Stars • Gemstones • Technology
+</p>
+
+<h3>💜 Self Care</h3>
+
+<p>
+Cooking • Skincare • Haircare
+</p>
+
+</td>
+
+</tr>
+</table>
 
 <br>
 
@@ -382,7 +402,7 @@ I believe healthy habits should be accessible to everyone. Looking after yoursel
 </p>
 
 <p align="center">
-  Some of my favourite ideas arrive while playing games, listening to music,
+  Some of my favourite ideas arrive while listening to music, exploring new games,
   learning something new, or simply enjoying the little things that make life interesting.
 </p>
 
