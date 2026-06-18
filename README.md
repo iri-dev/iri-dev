@@ -86,3 +86,122 @@ I care a lot about thoughtful design, honest communication, and building things 
 After all, behind every project is a real person — and this little corner of GitHub is mine. 💜
 
 <br>
+
+
+
+
+
+
+
+<br>
+
+<p align="center">
+  <img src="image2.png" alt="Iri Divider" width="100%">
+</p>
+
+<br>
+
+<h2 align="center">💜 Why I Became a Developer & My Ideals</h2>
+
+<p align="center">
+  <em>Software, to me, is more than code. It's creation, protection, and care.</em>
+</p>
+
+<br>
+
+<table>
+<tr>
+
+<td width="35%" align="center" valign="top">
+
+<img src="image4.png" width="260">
+
+<br><br>
+
+<strong>Iri's Ideals</strong><br>
+<em>useful • honest • protective • human</em>
+
+<br><br>
+
+I build because I care.<br>
+I improve because I listen.<br>
+I create because software can be art.
+
+</td>
+
+<td width="65%" valign="top">
+
+<h3>💜 Why I build</h3>
+
+<p>
+I didn't become a developer just to make money, chase trends, or build things for the sake of building them.
+I became a developer because I like being useful.
+</p>
+
+<p>
+I enjoy solving problems, whether that means fixing a bug, helping someone with an issue, or finding a better way to do something.
+There is something incredibly rewarding about taking a problem that feels stuck and finally making it work.
+</p>
+
+<p>
+I also love learning. I never want to stop growing, improving, and discovering better ways to create things.
+To me, software is a form of art: taking an idea from your head and turning it into something real that people can actually use.
+</p>
+
+<h3>🛡️ What I stand against</h3>
+
+<p>
+A lot of modern software frustrates me. Too much of it feels soulless, corporate, and built around profit instead of people.
+Apps are designed to keep users scrolling, tracking is everywhere, adverts follow people around, and trust is often treated like something to exploit.
+</p>
+
+<p>
+I never want to become the kind of developer who fills everything with ads, microtransactions, subscriptions, and manipulative design just to squeeze money out of people.
+Software should help users, not use them.
+</p>
+
+<h3>🌐 What I want to build</h3>
+
+<p>
+I want my software to be easy enough for almost anyone to understand, but still genuinely effective.
+If something claims to protect people, it should actually protect them.
+All the trust in the world is useless if the software doesn't do its job.
+</p>
+
+<p>
+That's why privacy, safety, and protection matter so much to me.
+I hate scammers, malware, tracking, and anything that takes advantage of people online.
+If I could magically make hacking, scams, phishing, and malware stop working forever, I would.
+</p>
+
+<p>
+Part of me also enjoys sticking it to the companies that treat people like products.
+Building software that puts users first feels like pushing back in my own small way.
+</p>
+
+<h3>🌱 How I want to grow</h3>
+
+<p>
+I don't expect everyone to love everything I build. If someone stops using one of my projects, I'd rather understand why than be blindly praised.
+Constructive feedback helps me improve, and improvement matters more to me than ego.
+</p>
+
+<p>
+One day, I hope to become the kind of developer people can learn from, respect, and trust.
+Not because I'm perfect, but because I care about doing things properly.
+</p>
+
+<p>
+<strong>
+At the end of the day, if someone visits my profile, uses one of my projects, and thinks:
+<em>"She really cares about people."</em>
+then I've achieved what I set out to do.
+</strong>
+</p>
+
+</td>
+
+</tr>
+</table>
+
+<br>
