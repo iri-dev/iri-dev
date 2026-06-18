@@ -443,10 +443,6 @@ I'd love to learn another language one day — and for once, I don't mean a prog
 
 
 
-
-
-
-
 <br>
 
 <h2 align="center">💜 Langs & Tools</h2>
@@ -482,48 +478,40 @@ what you create with them.
 
 </td>
 
-<td width="65%" valign="top">
+<td width="65%" align="center" valign="top">
 
 <h3>💜 Languages</h3>
 
 <p>
-
-<a href="https://dotnet.microsoft.com/en-us/languages/csharp">
-<img src="https://img.shields.io/badge/C%23-9B6BFF?style=for-the-badge&logo=csharp&logoColor=white">
-</a>
-
-<a href="https://www.rust-lang.org">
-<img src="https://img.shields.io/badge/Rust-9B6BFF?style=for-the-badge&logo=rust&logoColor=white">
-</a>
-
-<a href="https://www.python.org">
-<img src="https://img.shields.io/badge/Python-9B6BFF?style=for-the-badge&logo=python&logoColor=white">
-</a>
-
+  <a href="https://dotnet.microsoft.com/en-us/languages/csharp">
+    <img src="https://skillicons.dev/icons?i=cs" width="48">
+  </a>
+  &nbsp;
+  <a href="https://www.rust-lang.org">
+    <img src="https://skillicons.dev/icons?i=rust" width="48">
+  </a>
+  &nbsp;
+  <a href="https://www.python.org">
+    <img src="https://skillicons.dev/icons?i=python" width="48">
+  </a>
+  &nbsp;
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
+    <img src="https://skillicons.dev/icons?i=js" width="48">
+  </a>
 </p>
 
 <p>
-
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
-<img src="https://img.shields.io/badge/JavaScript-9B6BFF?style=for-the-badge&logo=javascript&logoColor=white">
-</a>
-
-<a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
-<img src="https://img.shields.io/badge/HTML5-9B6BFF?style=for-the-badge&logo=html5&logoColor=white">
-</a>
-
-<a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
-<img src="https://img.shields.io/badge/CSS3-9B6BFF?style=for-the-badge&logo=css3&logoColor=white">
-</a>
-
-</p>
-
-<p>
-
-<a href="https://isocpp.org">
-<img src="https://img.shields.io/badge/C%2B%2B-9B6BFF?style=for-the-badge&logo=cplusplus&logoColor=white">
-</a>
-
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
+    <img src="https://skillicons.dev/icons?i=html" width="48">
+  </a>
+  &nbsp;
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
+    <img src="https://skillicons.dev/icons?i=css" width="48">
+  </a>
+  &nbsp;
+  <a href="https://isocpp.org">
+    <img src="https://skillicons.dev/icons?i=cpp" width="48">
+  </a>
 </p>
 
 <br>
@@ -531,23 +519,30 @@ what you create with them.
 <h3>💜 Tools</h3>
 
 <p>
+  <a href="https://code.visualstudio.com">
+    <img src="https://skillicons.dev/icons?i=vscode" width="48">
+  </a>
+  &nbsp;
+  <a href="https://visualstudio.microsoft.com">
+    <img src="https://skillicons.dev/icons?i=visualstudio" width="48">
+  </a>
+  &nbsp;
+  <a href="https://git-scm.com">
+    <img src="https://skillicons.dev/icons?i=git" width="48">
+  </a>
+  &nbsp;
+  <a href="https://github.com">
+    <img src="https://skillicons.dev/icons?i=github" width="48">
+  </a>
+</p>
 
-<a href="https://code.visualstudio.com">
-<img src="https://img.shields.io/badge/VS_Code-9B6BFF?style=for-the-badge&logo=visualstudiocode&logoColor=white">
-</a>
+<br>
 
-<a href="https://visualstudio.microsoft.com">
-<img src="https://img.shields.io/badge/Visual_Studio-9B6BFF?style=for-the-badge&logo=visualstudio&logoColor=white">
-</a>
-
-<a href="https://git-scm.com">
-<img src="https://img.shields.io/badge/Git-9B6BFF?style=for-the-badge&logo=git&logoColor=white">
-</a>
-
-<a href="https://github.com">
-<img src="https://img.shields.io/badge/GitHub-9B6BFF?style=for-the-badge&logo=github&logoColor=white">
-</a>
-
+<p>
+  <em>
+    I like learning new tools, but the goal is always the same:
+    build things that are useful, thoughtful, and real.
+  </em>
 </p>
 
 </td>
