@@ -340,8 +340,14 @@ I believe healthy habits should be accessible to everyone. Looking after yoursel
 
 <br><br>
 
-<strong>Iri's Interests</strong><br>
-<em>the human side of the developer</em>
+<strong>A Few Things I Love</strong><br>
+<em>life outside the code</em>
+
+<br><br>
+
+I think the things we love<br>
+quietly shape the things<br>
+we create.
 
 </td>
 
@@ -350,44 +356,42 @@ I believe healthy habits should be accessible to everyone. Looking after yoursel
 <h3>💜 Favourite Colour</h3>
 
 <p>
-Purple (obviously 💜)
+Purple. I don't think anybody is surprised by that one.
 </p>
 
-<h3>💜 Favourite Games</h3>
+<h3>💜 Games & Stories</h3>
 
 <p>
-Genshin Impact • Wuthering Waves
-</p>
-
-<h3>💜 Favourite Anime</h3>
-
-<p>
-Steins;Gate
+Genshin Impact, Wuthering Waves, and Steins;Gate.
+I love beautiful worlds, strong characters, and stories that stay with you.
 </p>
 
 <h3>💜 Music</h3>
 
 <p>
-Almost every genre imaginable...
-except screamo 😭
+Almost every genre imaginable... except screamo.
+We don't talk about screamo.
 </p>
 
 <h3>💜 Creative Interests</h3>
 
 <p>
-Art • Design • Guitar
+Art, design, guitar, and making things feel personal.
+I like creating things in more ways than just writing code.
 </p>
 
-<h3>💜 Things I Find Fascinating</h3>
+<h3>💜 Space & Gemstones</h3>
 
 <p>
-Space • Stars • Gemstones • Technology
+I've always loved space, stars, gemstones, and things that feel a little magical.
+There's something inspiring about how huge, strange, and beautiful the universe can be.
 </p>
 
 <h3>💜 Self Care</h3>
 
 <p>
-Cooking • Skincare • Haircare
+Cooking, skincare, haircare, and taking care of yourself properly.
+Small routines can make life feel softer, calmer, and more grounded.
 </p>
 
 </td>
@@ -398,16 +402,9 @@ Cooking • Skincare • Haircare
 <br>
 
 <p align="center">
-  While software is a huge part of my life, it isn't the only thing I enjoy.
-</p>
-
-<p align="center">
-  Some of my favourite ideas arrive while listening to music, exploring new games,
-  learning something new, or simply enjoying the little things that make life interesting.
-</p>
-
-<p align="center">
-  I think the things we love outside of code quietly shape the things we create with it.
+  <em>
+    Some of my favourite ideas arrive when I'm away from the keyboard.
+  </em>
 </p>
 
 <br>
