@@ -664,11 +664,10 @@ I'd love to learn another language one day — and for once, I don't mean a prog
 <br>
 
 <p align="center">
-  ✨
+  ˚₊‧꒰ა ───── 💜 ───── ໒꒱‧₊˚
 </p>
 
 <br><br>
-
 
 
 
