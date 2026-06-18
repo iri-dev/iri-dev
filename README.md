@@ -319,53 +319,132 @@ I believe healthy habits should be accessible to everyone. Looking after yoursel
 
 <br>
 
-<table>
-<tr>
-
-<td width="35%" align="center" valign="top">
-
-<img src="image7.png" width="260">
-
-<br><br>
-
-<strong>Beyond The Code</strong><br>
-<em>soft things, quiet ideas, and little inspirations</em>
-
-</td>
-
-<td width="65%" valign="top">
-
-<h2>💜 Beyond The Code</h2>
-
-<p>
-Software is a huge part of my life, but it isn't the only thing that inspires me.
-A lot of my ideas come from the things I enjoy outside of programming.
+<p align="center">
+  <img src="image7.png" width="280">
 </p>
 
-<p>
-I love purple aesthetics, thoughtful design, character-driven games, art, creativity,
-and learning new things. Those interests often shape the way I think about the projects I build.
-</p>
+<h2 align="center">💜 Beyond The Code</h2>
 
-<p>
-When I'm not coding, I'm usually exploring ideas, improving something, designing something,
-or thinking about how small details can make something feel more personal.
+<p align="center">
+  The little things that inspire me away from the keyboard.
 </p>
 
 <br>
 
+<table>
+<tr>
+
+<td width="33%" align="center" valign="top">
+
+<h3>💜 Purple</h3>
+
 <p>
-  💜 Purple aesthetics<br>
-  🎮 Genshin Impact & Wuthering Waves<br>
-  🎸 Guitar<br>
-  🎨 Art and drawing<br>
-  💻 Computers and technology<br>
-  ✨ Learning new things
+Obviously.
+</p>
+
+<p>
+Soft colours, purple aesthetics,
+and anything that feels calm,
+pretty, and a little magical.
+</p>
+
+</td>
+
+<td width="33%" align="center" valign="top">
+
+<h3>💜 Creativity</h3>
+
+<p>
+Art, design, guitar,
+and making things feel personal.
+</p>
+
+<p>
+I like creating things in more ways
+than just writing code.
+</p>
+
+</td>
+
+<td width="33%" align="center" valign="top">
+
+<h3>💜 Space & Gemstones</h3>
+
+<p>
+Stars, planets, crystals,
+gemstones, and little pretty details.
+</p>
+
+<p>
+I love things that feel dreamy,
+shiny, and full of wonder.
+</p>
+
+</td>
+
+</tr>
+<tr>
+
+<td width="33%" align="center" valign="top">
+
+<h3>💜 Games & Stories</h3>
+
+<p>
+Genshin Impact,
+Wuthering Waves,
+and Steins;Gate.
+</p>
+
+<p>
+I love worlds that feel emotional,
+beautiful, and memorable.
+</p>
+
+</td>
+
+<td width="33%" align="center" valign="top">
+
+<h3>💜 Self Care</h3>
+
+<p>
+Cooking, skincare,
+haircare, and taking care
+of yourself properly.
+</p>
+
+<p>
+Small routines can make life
+feel softer and more grounded.
+</p>
+
+</td>
+
+<td width="33%" align="center" valign="top">
+
+<h3>💜 Music</h3>
+
+<p>
+Almost everything...
+except screamo.
+</p>
+
+<p>
+Music helps set the mood,
+especially when building,
+designing, or thinking.
 </p>
 
 </td>
 
 </tr>
 </table>
+
+<br>
+
+<p align="center">
+  <em>
+    I think the things we love outside of code quietly shape the things we create with it.
+  </em>
+</p>
 
 <br>
