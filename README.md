@@ -321,7 +321,7 @@ I believe healthy habits should be accessible to everyone. Looking after yoursel
 <h2 align="center">💜 Beyond The Code</h2>
 
 <p align="center">
-  Small pieces of the person behind the projects.
+  The little things that make me, me.
 </p>
 
 <br>
@@ -335,61 +335,79 @@ I believe healthy habits should be accessible to everyone. Looking after yoursel
 
 <br><br>
 
-<h3>💜 Iri, Outside The Editor</h3>
+<h3>💜 A Few Things About Me</h3>
 
 <p>
-<em>not everything I love has a file extension</em>
+<em>life outside the code</em>
 </p>
 
 <br>
 
 <p>
-Purple things, quiet places,<br>
-pretty details, soft routines,<br>
-and ideas that appear at<br>
-the most random times.
+Flowers 🌸<br>
+Nature 🍃<br>
+Space 🌌<br>
+Gemstones 💎
 </p>
 
 <br>
 
 <p>
-I think the best creations<br>
-carry little pieces of the<br>
-person who made them.
+Always learning.<br>
+Always creating.<br>
+Always curious.
 </p>
 
 </td>
 
 <td width="65%" valign="top">
 
-<h3>💜 Soft Aesthetics</h3>
+<h3>💜 Favourite Colour</h3>
 
 <p>
-Purple is my favourite colour — obviously. I love flowers, nature, soft scenery, gemstones, space, and anything that feels calm, pretty, or a little magical.
+Purple. I genuinely think purple can make almost anything look better.
 </p>
 
-<h3>💜 Stories & Worlds</h3>
+<h3>💜 Games & Stories</h3>
 
 <p>
-I love games and stories that feel emotional and memorable. Genshin Impact, Wuthering Waves, and Steins;Gate all have that feeling of a world you can get attached to.
+Genshin Impact, Wuthering Waves, and Steins;Gate. I love worlds that feel alive and stories that stay with you long after you've finished them.
 </p>
 
-<h3>💜 Creativity In Different Forms</h3>
+<h3>💜 Flowers & Nature</h3>
 
 <p>
-Coding is one way I create, but it isn't the only one. I also enjoy art, design, guitar, cooking, and making things feel personal instead of plain.
+I love flowers, nature, and peaceful scenery. There's something calming about them that I don't think technology can replace.
 </p>
 
-<h3>💜 Self Care & Little Rituals</h3>
+<h3>💜 Music</h3>
 
 <p>
-I like skincare, haircare, and small routines that make life feel softer and more put together. Taking care of yourself matters, even in tiny everyday ways.
+Almost everything. Except screamo. We're not doing that.
 </p>
 
-<h3>💜 Music & Curiosity</h3>
+<h3>💜 Creative Interests</h3>
 
 <p>
-I like almost every kind of music — except screamo, we are not doing that. I also want to learn another language one day, and for once I don't mean a programming language.
+Art, design, guitar, cooking, and making things feel personal. I like creating things in more ways than just writing code.
+</p>
+
+<h3>💜 Space & Gemstones</h3>
+
+<p>
+I've always loved space, stars, gemstones, and things that feel a little magical.
+</p>
+
+<h3>💜 Self Care</h3>
+
+<p>
+Skincare, haircare, and small routines that make life feel softer and more put together.
+</p>
+
+<h3>💜 Something I Want To Learn</h3>
+
+<p>
+I'd love to learn another language one day — and for once, I don't mean a programming language.
 </p>
 
 </td>
