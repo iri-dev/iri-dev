@@ -705,68 +705,59 @@ I'd love to learn another language one day — and for once, I don't mean a prog
 
 <br><br>
 
-<h3>💜 Hi, I'm Iri</h3>
+<h3>💜 Let's Talk</h3>
 
 <p>
-  <em>one person behind the projects</em>
+  <em>
+    feedback, questions, ideas,<br>
+    bug reports, or just a hello
+  </em>
 </p>
 
 <br>
 
 <p>
-  I read my own messages,<br>
-  reply myself,<br>
-  and genuinely enjoy<br>
-  hearing from people.
+  You don't need to write<br>
+  anything perfect.
 </p>
 
-<br>
-
 <p>
-  Feedback.<br>
-  Questions.<br>
-  Ideas.<br>
-  Or just saying hello.
+  A small message is enough.
 </p>
 
 </td>
 
 <td width="62%" valign="top">
 
-<h2>💜 You're Always Welcome Here</h2>
+<h2>💜 Send Me A Message</h2>
 
 <p>
-  If you've made it this far, thank you for spending a little time in my corner of GitHub.
+  If you have feedback, questions, suggestions, bug reports, feature ideas,
+  or thoughts about one of my projects, I’d genuinely love to hear from you.
 </p>
 
 <p>
-  Whether you found me through <strong>WebWarden</strong>, <strong>Hydra Heart</strong>, development,
-  privacy, technology, or pure curiosity, I'm happy you're here.
+  I care a lot about improving what I build, and real messages from real people
+  help me understand what works, what feels confusing, and what could be better.
 </p>
 
 <p>
-  I genuinely like hearing from people who use my projects or have ideas that could make them better.
-  A bug report, a feature request, a question, a suggestion, or simply a friendly hello are all welcome.
-</p>
-
-<p>
-  I check my emails personally and do my best to reply with care.
-  You can also find me on Discord if that feels easier.
+  You can email me, or message me on Discord if you prefer. Either is completely okay.
 </p>
 
 <br>
 
-<h3>💜 Send Me A Message</h3>
+<h3>💜 Contact Options</h3>
 
 <p>
-  📧 <strong>Email</strong><br>
+  💌 <strong>Email</strong><br>
   <a href="mailto:iri.devsupport@gmail.com">
     iri.devsupport@gmail.com
   </a>
 </p>
 
 <p>
-  💬 <strong>Discord</strong><br>
+  💜 <strong>Discord</strong><br>
   <code>iri.dev</code>
 </p>
 
@@ -778,10 +769,10 @@ I'd love to learn another language one day — and for once, I don't mean a prog
 
 <br><br>
 
-<p align="center">
+<p>
   <em>
-    Don't be nervous about sending a message.
-    The worst thing that happens is I say hello back.
+    Please don’t be scared to message me — I’m friendly, I read my messages myself,
+    and I’ll always try to respond with care.
   </em>
 </p>
 
