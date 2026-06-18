@@ -300,3 +300,72 @@ I believe healthy habits should be accessible to everyone. Looking after yoursel
 </table>
 
 <br>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<br>
+
+<table>
+<tr>
+
+<td width="35%" align="center" valign="top">
+
+<img src="image7.png" width="260">
+
+<br><br>
+
+<strong>Beyond The Code</strong><br>
+<em>soft things, quiet ideas, and little inspirations</em>
+
+</td>
+
+<td width="65%" valign="top">
+
+<h2>💜 Beyond The Code</h2>
+
+<p>
+Software is a huge part of my life, but it isn't the only thing that inspires me.
+A lot of my ideas come from the things I enjoy outside of programming.
+</p>
+
+<p>
+I love purple aesthetics, thoughtful design, character-driven games, art, creativity,
+and learning new things. Those interests often shape the way I think about the projects I build.
+</p>
+
+<p>
+When I'm not coding, I'm usually exploring ideas, improving something, designing something,
+or thinking about how small details can make something feel more personal.
+</p>
+
+<br>
+
+<p>
+  💜 Purple aesthetics<br>
+  🎮 Genshin Impact & Wuthering Waves<br>
+  🎸 Guitar<br>
+  🎨 Art and drawing<br>
+  💻 Computers and technology<br>
+  ✨ Learning new things
+</p>
+
+</td>
+
+</tr>
+</table>
+
+<br>
