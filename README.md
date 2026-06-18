@@ -617,10 +617,12 @@ I'd love to learn another language one day — and for once, I don't mean a prog
 
 <br>
 
+<br>
+
 <h2 align="center">💜 Reach Out</h2>
 
 <p align="center">
-  <em>the door is always open</em>
+  <em>friendly messages are always welcome</em>
 </p>
 
 <br>
@@ -634,102 +636,69 @@ I'd love to learn another language one day — and for once, I don't mean a prog
 
 <br><br>
 
-<h3>💜 Hi, I'm Iri</h3>
+<h3>💜 Say Hello</h3>
 
 <p>
-  <em>one person behind the projects</em>
+<em>feedback, ideas, questions,<br>
+or just a friendly message</em>
 </p>
 
 <br>
 
 <p>
-  I genuinely enjoy hearing from people.
+I read my emails personally<br>
+and try my best to respond.
 </p>
 
 <p>
-  Feedback, questions,<br>
-  feature ideas, bug reports,<br>
-  or even just a random hello.
-</p>
-
-<br>
-
-<p>
-  Every project starts with people.<br>
-  Every improvement starts with listening.
+You can also find me on Discord<br>
+if that's easier.
 </p>
 
 </td>
 
 <td width="65%" valign="top">
 
-<h3>💜 Don't Be A Stranger</h3>
+<h3>💜 You're Always Welcome</h3>
 
 <p>
-  If you've made it this far through my profile,
-  thank you.
+If you've used one of my projects, found a bug, have an idea, or think something could be better, I'd genuinely love to hear from you.
 </p>
 
 <p>
-  Whether you're here because of WebWarden,
-  Hydra Heart, programming, privacy,
-  technology, or simple curiosity,
-  I'm genuinely glad you stopped by.
+Constructive feedback helps me improve, and some of my favourite ideas have started from a simple conversation.
 </p>
 
 <p>
-  Some of the best improvements I've made have started from a conversation.
-  A suggestion. A question. A fresh perspective I hadn't considered.
-</p>
-
-<p>
-  If you have an idea, feedback, a feature request,
-  or something you think could be better,
-  I'd love to hear it.
-</p>
-
-<p>
-  And if you don't have feedback?
-  That's completely okay too.
-</p>
-
-<p>
-  You're still welcome to say hello. 💜
+You don't need a perfect reason to reach out either. If you just want to say hello, ask a question, or talk about WebWarden, Hydra Heart, privacy, development, or technology, you're welcome to message me.
 </p>
 
 <br>
 
 <p>
-  💌 <strong>Email</strong><br>
-  <a href="mailto:iri.dev.support@gmail.com">
-    iri.dev.support@gmail.com
-  </a>
+💌 <strong>Email</strong><br>
+<a href="mailto:iri.support@gmail.com">
+iri.support@gmail.com
+</a>
 </p>
 
 <p>
-  💜 <strong>Discord</strong><br>
-  iri.dev
+💜 <strong>Discord</strong><br>
+iri.dev
 </p>
 
 <br>
 
-<p>
-
-<a href="mailto:iri.dev.support@gmail.com">
+<a href="mailto:iri.support@gmail.com">
   <img src="https://img.shields.io/badge/Send%20an%20Email-9B6BFF?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
-
-&nbsp;
-
-<a href="https://github.com/iri-dev">
-  <img src="https://img.shields.io/badge/GitHub-9B6BFF?style=for-the-badge&logo=github&logoColor=white">
-</a>
-
-</p>
 
 </td>
 
 </tr>
+</table>
+
+<br>
 </table>
 
 <br>
