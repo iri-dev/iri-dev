@@ -596,3 +596,81 @@ I'd love to learn another language one day — and for once, I don't mean a prog
 </table>
 
 <br>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<br>
+
+<p align="center">
+  <img src="image6.png" width="100%">
+</p>
+
+<br>
+
+<h2 align="center">💜 A Small Promise</h2>
+
+<p align="center">
+  <em>A few ideas that guide everything I build.</em>
+</p>
+
+<br>
+
+<p align="center">
+  Privacy over tracking.
+  <br>
+  Trust over manipulation.
+  <br>
+  People over profit.
+</p>
+
+<br>
+
+<p align="center">
+  If I build something, I want it to respect the people using it.
+</p>
+
+<p align="center">
+  I want my projects to be honest about what they do,
+  thoughtful in how they work,
+  and useful enough to genuinely help someone.
+</p>
+
+<p align="center">
+  The tools may change.
+  The projects may change.
+  But the reason stays the same.
+</p>
+
+<p align="center">
+  <strong>Build things with care, because people matter.</strong>
+</p>
+
+<br>
