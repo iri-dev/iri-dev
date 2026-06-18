@@ -316,7 +316,6 @@ I believe healthy habits should be accessible to everyone. Looking after yoursel
 
 
 
-
 <br>
 
 <p align="center">
@@ -336,18 +335,19 @@ I believe healthy habits should be accessible to everyone. Looking after yoursel
 
 <td width="35%" align="center" valign="top">
 
-<img src="image8.png" width="220">
+<h3>💜 A Few Things I Love</h3>
 
-<br><br>
-
-<strong>A Few Things I Love</strong><br>
+<p>
 <em>life outside the code</em>
+</p>
 
-<br><br>
+<br>
 
+<p>
 I think the things we love<br>
 quietly shape the things<br>
 we create.
+</p>
 
 </td>
 
@@ -362,49 +362,36 @@ Purple. I don't think anybody is surprised by that one.
 <h3>💜 Games & Stories</h3>
 
 <p>
-Genshin Impact, Wuthering Waves, and Steins;Gate.
-I love beautiful worlds, strong characters, and stories that stay with you.
+Genshin Impact, Wuthering Waves, and Steins;Gate. I love beautiful worlds, strong characters, and stories that stay with you.
 </p>
 
 <h3>💜 Music</h3>
 
 <p>
-Almost every genre imaginable... except screamo.
-We don't talk about screamo.
+Almost every genre imaginable... except screamo. We don't talk about screamo.
 </p>
 
 <h3>💜 Creative Interests</h3>
 
 <p>
-Art, design, guitar, and making things feel personal.
-I like creating things in more ways than just writing code.
+Art, design, guitar, and making things feel personal. I like creating things in more ways than just writing code.
 </p>
 
 <h3>💜 Space & Gemstones</h3>
 
 <p>
-I've always loved space, stars, gemstones, and things that feel a little magical.
-There's something inspiring about how huge, strange, and beautiful the universe can be.
+I've always loved space, stars, gemstones, and things that feel a little magical. There's something inspiring about how huge, strange, and beautiful the universe can be.
 </p>
 
 <h3>💜 Self Care</h3>
 
 <p>
-Cooking, skincare, haircare, and taking care of yourself properly.
-Small routines can make life feel softer, calmer, and more grounded.
+Cooking, skincare, haircare, and taking care of yourself properly. Small routines can make life feel softer, calmer, and more grounded.
 </p>
 
 </td>
 
 </tr>
 </table>
-
-<br>
-
-<p align="center">
-  <em>
-    Some of my favourite ideas arrive when I'm away from the keyboard.
-  </em>
-</p>
 
 <br>
