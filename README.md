@@ -620,13 +620,6 @@ I'd love to learn another language one day — and for once, I don't mean a prog
 
 
 
-
-
-
-
-
-
-
 <br><br>
 
 <p align="center">
@@ -642,103 +635,10 @@ I'd love to learn another language one day — and for once, I don't mean a prog
   </em>
 </p>
 
-<br>
-
-<h2 align="center">💜 Contact</h2>
-
-<p align="center">
-  Questions, feedback, ideas, or simply saying hello.
-</p>
-
-<br>
-
-<p align="center">
-  <img src="image3.png" width="240">
-</p>
-
-<br>
-
-<p align="center">
-  If you've used one of my projects and have suggestions,
-  I'd genuinely love to hear them.
-</p>
-
-<p align="center">
-  Constructive feedback helps me improve,
-  and improvement matters more to me than praise.
-</p>
-
-<br>
-
-<p align="center">
-  <a href="mailto:iridev.support@gmail.com">
-    <img src="https://img.shields.io/badge/Email-9B6BFF?style=for-the-badge&logo=gmail&logoColor=white">
-  </a>
-
-  <a href="https://github.com/iri-dev">
-    <img src="https://img.shields.io/badge/GitHub-9B6BFF?style=for-the-badge&logo=github&logoColor=white">
-  </a>
-
-  <a href="https://discord.com/users/iri.dev">
-    <img src="https://img.shields.io/badge/Discord-9B6BFF?style=for-the-badge&logo=discord&logoColor=white">
-  </a>
-</p>
-
-<br>
-
-<h2 align="center">💜 A Small Promise</h2>
-
-<p align="center">
-  Privacy over tracking.
-  <br>
-  Trust over manipulation.
-  <br>
-  People over profit.
-</p>
-
-<br>
-
-<p align="center">
-  If I build something,
-  I want it to respect the people using it.
-</p>
-
-<p align="center">
-  Technology should help people feel safer,
-  healthier, and more in control —
-  not overwhelmed, manipulated, or treated like a product.
-</p>
-
-<br>
-
-<p align="center">
-  <strong>
-    Build things with care, because people matter.
-  </strong>
-</p>
-
 <br><br>
 
-<p align="center">
-  Thank you for visiting my little corner of GitHub.
-</p>
 
-<p align="center">
-  Whether you're here because of WebWarden,
-  Hydra Heart,
-  a shared interest,
-  or simple curiosity —
-  I'm glad you stopped by.
-</p>
 
-<br>
 
-<p align="center">
-  💜 Iri
-</p>
 
-<p align="center">
-  <em>one person, many ideas</em>
-</p>
 
-<br>
