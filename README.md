@@ -440,7 +440,6 @@ I'd love to learn another language one day — and for once, I don't mean a prog
 
 
 
-
 <br>
 
 <table>
@@ -500,6 +499,26 @@ I'd love to learn another language one day — and for once, I don't mean a prog
   </a>
 </p>
 
+<p>
+  <strong>C#</strong> is where a lot of my bigger ideas begin.
+</p>
+
+<p>
+  <strong>JavaScript</strong>, HTML, and CSS help me build for the browser, especially with projects like WebWarden.
+</p>
+
+<p>
+  <strong>Python</strong> is perfect for experiments, quick tools, and testing little ideas before they become something bigger.
+</p>
+
+<p>
+  <strong>Rust</strong> is one of those languages that makes me think differently, which is exactly why I like learning it.
+</p>
+
+<p>
+  <strong>C++</strong> is powerful, interesting, and occasionally extremely annoying — but I respect it.
+</p>
+
 <br>
 
 <h3>💜 Daily Tools</h3>
@@ -522,6 +541,11 @@ I'd love to learn another language one day — and for once, I don't mean a prog
   </a>
 </p>
 
+<p>
+  Most of my time is spent building, testing, breaking things by accident,
+  fixing them again, and slowly turning ideas into real projects.
+</p>
+
 <br>
 
 <p>
@@ -541,6 +565,11 @@ I'd love to learn another language one day — and for once, I don't mean a prog
 
 <strong>My Toolkit 💜</strong><br>
 <em>always learning, always building</em>
+
+<br><br>
+
+I like tools that help me<br>
+move from idea to reality.
 
 </td>
 
