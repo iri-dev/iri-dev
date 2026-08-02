@@ -25,12 +25,7 @@
 
 <p>
   I recently finished my degree in software engineering and cyber security.
-  I'd rather use it out in the open than keep it on paper, so everything I build
-  is public and free for anyone who needs it.
-</p>
-
-<p>
-  I enjoy creating software that helps people feel safer,
+  Now I use it out in the open, making software that helps people feel safer,
   healthier, and more in control.
 </p>
 
