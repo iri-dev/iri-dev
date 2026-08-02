@@ -250,11 +250,15 @@ then I've achieved what I set out to do.
 <table>
 <tr>
 
-<td colspan="2" valign="top">
+<td width="26%" align="center" valign="top">
+
+<img src="image55.png" alt="" width="210">
+
+</td>
+
+<td colspan="3" rowspan="6" valign="top">
 
 <h2>🌸 Current Creations</h2>
-
-<img align="left" src="image55.png" alt="" width="220">
 
 <p>
   The projects currently occupying my mind.
@@ -263,6 +267,21 @@ then I've achieved what I set out to do.
 <p>
   One is finished and out in the world, the other is still taking shape. Both come from
   the same place: software should look after the person using it.
+</p>
+
+<p>
+  They're built the same way, too. Slowly, in the open, and released when I'm happy with
+  them rather than when they're technically finished.
+</p>
+
+<p>
+  One protects people from things they never asked for. The other reminds them to look
+  after themselves. Different problems, same instinct.
+</p>
+
+<p>
+  Neither is finished in the way software is ever finished. I keep coming back to both,
+  adding what I wish was there and removing what nobody needed.
 </p>
 
 <p>
@@ -293,14 +312,17 @@ then I've achieved what I set out to do.
   </sub>
 </p>
 
-<br clear="left">
-
 </td>
 
 </tr>
+<tr><td align="center"><sub><em>the one doing the building 💜</em></sub></td></tr>
+<tr><td><sub>🌸 <strong>Projects</strong> — WardenOne · Hydra Heart</sub></td></tr>
+<tr><td><sub>💜 <strong>Focus</strong> — privacy · security · wellbeing</sub></td></tr>
+<tr><td><sub>🛠️ <strong>Built</strong> — solo, in the open</sub></td></tr>
+<tr><td><sub>✨ <strong>Cost</strong> — free, and staying free</sub></td></tr>
 <tr>
 
-<td width="50%" align="center" valign="top">
+<td colspan="2" width="37%" align="center" valign="top">
 
 <h3>💜 WardenOne</h3>
 
@@ -342,7 +364,7 @@ I don't want your data, and the simplest way to prove that is to never collect a
 
 </td>
 
-<td width="50%" align="center" valign="top">
+<td colspan="2" width="37%" align="center" valign="top">
 
 <h3>💧 Hydra Heart</h3>
 
