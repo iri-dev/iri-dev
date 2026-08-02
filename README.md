@@ -611,33 +611,38 @@ I'd love to learn another language one day — and for once, I don't mean a prog
   <strong>C++</strong> is powerful, interesting, and sometimes extremely annoying — but I respect it.
 </p>
 
+<br>
+
+<h3>💜 Where Security Fits</h3>
+
 <p>
-  Underneath all of them sits <strong>security</strong>, which is less a language than a habit.
-  Studying it alongside software engineering changed how I write everything. You stop asking
-  only whether something works, and start asking what happens when someone tries to misuse it.
+  <strong>Security</strong> isn't in the list above, because it isn't a language.
+  It's the other half of my degree, and it follows me into every language that is.
+</p>
+
+<p>
+  What it really changed is the question I ask about my own work. You stop asking only
+  whether something works, and start asking what happens when someone tries to misuse it.
 </p>
 
 <br>
 
 <h3>💜 Daily Tools</h3>
 
-<p align="center">
-  <a href="https://code.visualstudio.com">
-    <img src="https://skillicons.dev/icons?i=vscode" width="52">
-  </a>
-  &nbsp;
-  <a href="https://visualstudio.microsoft.com">
-    <img src="https://skillicons.dev/icons?i=visualstudio" width="52">
-  </a>
-  &nbsp;
-  <a href="https://git-scm.com">
-    <img src="https://skillicons.dev/icons?i=git" width="52">
-  </a>
-  &nbsp;
-  <a href="https://github.com">
-    <img src="https://skillicons.dev/icons?i=github" width="52">
-  </a>
-</p>
+<table>
+<tr>
+<td width="15%" align="center"><a href="https://code.visualstudio.com"><img src="https://skillicons.dev/icons?i=vscode" width="42"></a></td>
+<td width="35%"><strong>VS Code</strong><br><sub>where most of it gets written</sub></td>
+<td width="15%" align="center"><a href="https://git-scm.com"><img src="https://skillicons.dev/icons?i=git" width="42"></a></td>
+<td width="35%"><strong>Git</strong><br><sub>every change, kept</sub></td>
+</tr>
+<tr>
+<td align="center"><a href="https://visualstudio.microsoft.com"><img src="https://skillicons.dev/icons?i=visualstudio" width="42"></a></td>
+<td><strong>Visual Studio</strong><br><sub>the bigger C# builds</sub></td>
+<td align="center"><a href="https://github.com"><img src="https://skillicons.dev/icons?i=github" width="42"></a></td>
+<td><strong>GitHub</strong><br><sub>where it all ends up</sub></td>
+</tr>
+</table>
 
 <p>
   Most of my time is spent building, testing, breaking things by accident,
