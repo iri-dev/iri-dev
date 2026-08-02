@@ -538,6 +538,10 @@ I'd love to learn another language one day — and for once, I don't mean a prog
     <img src="https://skillicons.dev/icons?i=cs" width="52">
   </a>
   &nbsp;
+  <a href="https://dev.java">
+    <img src="https://skillicons.dev/icons?i=java" width="52">
+  </a>
+  &nbsp;
   <a href="https://www.rust-lang.org">
     <img src="https://skillicons.dev/icons?i=rust" width="52">
   </a>
@@ -550,12 +554,20 @@ I'd love to learn another language one day — and for once, I don't mean a prog
     <img src="https://skillicons.dev/icons?i=js" width="52">
   </a>
   &nbsp;
+  <a href="https://www.typescriptlang.org">
+    <img src="https://skillicons.dev/icons?i=ts" width="52">
+  </a>
+  &nbsp;
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
     <img src="https://skillicons.dev/icons?i=html" width="52">
   </a>
   &nbsp;
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
     <img src="https://skillicons.dev/icons?i=css" width="52">
+  </a>
+  &nbsp;
+  <a href="https://en.cppreference.com/w/c">
+    <img src="https://skillicons.dev/icons?i=c" width="52">
   </a>
   &nbsp;
   <a href="https://isocpp.org">
@@ -572,7 +584,15 @@ I'd love to learn another language one day — and for once, I don't mean a prog
 </p>
 
 <p>
+  <strong>Java</strong> is where a lot of the fundamentals clicked for me. It makes you say exactly what you mean, which is irritating right up until the moment it saves you.
+</p>
+
+<p>
   <strong>JavaScript</strong>, HTML, and CSS help me build for the browser, which makes them especially important for projects like <strong>WardenOne</strong>.
+</p>
+
+<p>
+  <strong>TypeScript</strong> is the same thing with the guard rails on. Once something grows past a few files, I'd rather my editor catch the mistake than my users.
 </p>
 
 <p>
@@ -581,6 +601,10 @@ I'd love to learn another language one day — and for once, I don't mean a prog
 
 <p>
   <strong>Rust</strong> pushes me to think more carefully about safety, structure, and performance.
+</p>
+
+<p>
+  <strong>C</strong> is the one that shows you what every other language has been doing for you. Nothing is hidden, which is equal parts useful and unnerving.
 </p>
 
 <p>
