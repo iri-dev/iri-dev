@@ -250,7 +250,7 @@ then I've achieved what I set out to do.
 <table>
 <tr>
 
-<td width="22%" align="center" valign="top">
+<td width="25%" align="center" valign="top">
 
 <img src="image55.png" alt="" width="100%">
 
@@ -284,6 +284,8 @@ then I've achieved what I set out to do.
   adding what I wish was there and removing what nobody needed.
 </p>
 
+<br>
+
 <p>
   <a href="#-wardenone">
     <img src="https://img.shields.io/badge/WardenOne-Live-9B6BFF?style=for-the-badge&logo=googlechrome&logoColor=white">
@@ -292,6 +294,7 @@ then I've achieved what I set out to do.
   <img src="https://img.shields.io/badge/Hydra%20Heart-Coming%20Soon-BB86FC?style=for-the-badge">
 </p>
 
+<br>
 <br>
 
 <p>
@@ -304,6 +307,8 @@ then I've achieved what I set out to do.
   Learning more <strong>C#</strong><br>
   Drinking slightly too much caffeine ☕
 </p>
+
+<br>
 
 <p>
   <sub>
