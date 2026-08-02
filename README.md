@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="banner-inazuma.svg" alt="" width="100%">
+  <img src="banner-blossom.svg" alt="" width="100%">
 </p>
 
 <br>
