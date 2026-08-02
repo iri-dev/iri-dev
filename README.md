@@ -120,9 +120,6 @@ I'd rather earn trust slowly than ask for it up front. And if you ever find some
 
 
 
-
-
-
 <br>
 
 <p align="center">
@@ -235,14 +232,6 @@ then I've achieved what I set out to do.
 </table>
 
 <br>
-
-
-
-
-
-
-
-
 
 
 
@@ -363,16 +352,9 @@ I believe healthy habits should be accessible to everyone. Looking after yoursel
 </p>
 
 
-
-
-
-
-
-
-
-
-
-
+<p align="center">
+  <img src="divider-petals.svg" alt="" width="100%">
+</p>
 
 
 <br>
@@ -476,26 +458,9 @@ I'd love to learn another language one day — and for once, I don't mean a prog
 <br>
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<p align="center">
+  <img src="divider-petals.svg" alt="" width="100%">
+</p>
 
 
 <br>
@@ -665,23 +630,6 @@ I'd love to learn another language one day — and for once, I don't mean a prog
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 <br><br>
 
 <p align="center">
@@ -733,28 +681,6 @@ I'd love to learn another language one day — and for once, I don't mean a prog
 </p>
 
 <br><br>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
@@ -895,19 +821,6 @@ I'd love to learn another language one day — and for once, I don't mean a prog
 </table>
 
 <br>
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
