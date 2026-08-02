@@ -247,16 +247,7 @@ then I've achieved what I set out to do.
   <img src="divider-heart.svg" alt="" width="100%">
 </p>
 
-<table>
-<tr>
-
-<td width="34%" align="center" valign="middle">
-
-<img src="iri-stars.svg" alt="" width="100%">
-
-</td>
-
-<td width="66%" valign="middle">
+<img align="left" src="image55.png" alt="" width="250">
 
 <h2>🌸 Current Creations</h2>
 
@@ -277,10 +268,7 @@ then I've achieved what I set out to do.
   <img src="https://img.shields.io/badge/Hydra%20Heart-Coming%20Soon-BB86FC?style=for-the-badge">
 </p>
 
-</td>
-
-</tr>
-</table>
+<br clear="left">
 
 <br>
 
