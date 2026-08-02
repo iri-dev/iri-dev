@@ -632,7 +632,7 @@ I'd love to learn another language one day — and for once, I don't mean a prog
 <table>
 <tr>
 <td width="15%" align="center"><a href="https://code.visualstudio.com"><img src="https://skillicons.dev/icons?i=vscode" width="42"></a></td>
-<td width="35%"><strong>VS Code</strong><br><sub>where most of it gets written</sub></td>
+<td width="35%"><strong>VS Code</strong><br><sub>most of the writing</sub></td>
 <td width="15%" align="center"><a href="https://git-scm.com"><img src="https://skillicons.dev/icons?i=git" width="42"></a></td>
 <td width="35%"><strong>Git</strong><br><sub>every change, kept</sub></td>
 </tr>
