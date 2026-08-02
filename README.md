@@ -1,10 +1,10 @@
-<!-- Banner hidden for now. banner3.png is still in the repo — uncomment to bring it back.
 <p align="center">
-  <img src="banner3.png" alt="Iri Banner" width="100%">
+  <img src="banner-iri.svg" alt="Iri — software developer" width="100%">
 </p>
 
 <br>
--->
+
+<!-- Old banner kept in the repo: <img src="banner3.png" alt="Iri Banner" width="100%"> -->
 
 <table>
 <tr>

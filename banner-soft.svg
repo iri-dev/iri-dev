@@ -1,0 +1,74 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 340" width="1200" height="340" role="img" aria-label="Iri — creating software with care">
+  <defs>
+    <linearGradient id="lilac" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#F3ECFF"/>
+      <stop offset="45%" stop-color="#E3D2FF"/>
+      <stop offset="100%" stop-color="#C9A7FF"/>
+    </linearGradient>
+    <radialGradient id="bloomA" cx="50%" cy="50%">
+      <stop offset="0%" stop-color="#FFFFFF" stop-opacity=".85"/>
+      <stop offset="100%" stop-color="#FFFFFF" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="bloomB" cx="50%" cy="50%">
+      <stop offset="0%" stop-color="#9B6BFF" stop-opacity=".28"/>
+      <stop offset="100%" stop-color="#9B6BFF" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="hair" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#8A5CF6" stop-opacity="0"/>
+      <stop offset="50%" stop-color="#8A5CF6" stop-opacity=".8"/>
+      <stop offset="100%" stop-color="#8A5CF6" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="ribbon" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#BB86FC" stop-opacity=".35"/>
+      <stop offset="50%" stop-color="#9B6BFF" stop-opacity=".45"/>
+      <stop offset="100%" stop-color="#BB86FC" stop-opacity=".35"/>
+    </linearGradient>
+    <clipPath id="frame2"><rect width="1200" height="340" rx="18"/></clipPath>
+    <g id="flower">
+      <ellipse cx="0" cy="-6" rx="3" ry="6"/><ellipse cx="0" cy="-6" rx="3" ry="6" transform="rotate(72)"/>
+      <ellipse cx="0" cy="-6" rx="3" ry="6" transform="rotate(144)"/><ellipse cx="0" cy="-6" rx="3" ry="6" transform="rotate(216)"/>
+      <ellipse cx="0" cy="-6" rx="3" ry="6" transform="rotate(288)"/>
+    </g>
+  </defs>
+
+  <g clip-path="url(#frame2)">
+    <rect width="1200" height="340" fill="url(#lilac)"/>
+    <circle cx="250" cy="90" r="240" fill="url(#bloomA)"/>
+    <circle cx="1000" cy="290" r="260" fill="url(#bloomB)"/>
+
+    <path d="M0 276 C 240 244 420 306 660 272 C 880 242 1030 288 1200 258 L1200 340 L0 340 Z" fill="url(#ribbon)"/>
+
+    <g opacity=".5" fill="#9B6BFF">
+      <g transform="translate(150 250) scale(.9)"><use href="#flower"/></g>
+      <g transform="translate(1055 92) scale(.75)"><use href="#flower"/></g>
+      <g transform="translate(1108 148) scale(.5)"><use href="#flower"/></g>
+      <g transform="translate(96 176) scale(.55)"><use href="#flower"/></g>
+    </g>
+    <g fill="#8A5CF6" opacity=".35">
+      <circle cx="205" cy="196" r="2.4"/><circle cx="1010" cy="164" r="2"/>
+      <circle cx="330" cy="88" r="1.8"/><circle cx="880" cy="252" r="1.8"/>
+    </g>
+
+    <text x="600" y="152" text-anchor="middle"
+          font-family="Georgia, 'Iowan Old Style', 'Palatino Linotype', serif"
+          font-size="94" font-style="italic" fill="#3B1E6E" letter-spacing="2">Iri</text>
+
+    <text x="600" y="184" text-anchor="middle"
+          font-family="'Segoe UI', system-ui, -apple-system, sans-serif"
+          font-size="14" fill="#6B3BC4" letter-spacing="6" opacity=".9">EYE-REE</text>
+
+    <rect x="470" y="202" width="260" height="1.4" rx=".7" fill="url(#hair)"/>
+
+    <text x="600" y="236" text-anchor="middle"
+          font-family="'Segoe UI', system-ui, -apple-system, sans-serif"
+          font-size="19" fill="#3B1E6E">Creating software with care</text>
+
+    <text x="600" y="264" text-anchor="middle"
+          font-family="'Segoe UI', system-ui, -apple-system, sans-serif"
+          font-size="14" fill="#6B3BC4" opacity=".85">privacy &#183; security &#183; wellbeing</text>
+
+    <path d="M600 302c-7.4-4.9-11.5-8.7-11.5-13.3a6.2 6.2 0 0 1 11.5-3.3 6.2 6.2 0 0 1 11.5 3.3c0 4.6-4.1 8.4-11.5 13.3z"
+          fill="#8A5CF6" opacity=".9"/>
+  </g>
+  <rect x=".5" y=".5" width="1199" height="339" rx="18" fill="none" stroke="#8A5CF6" stroke-opacity=".18"/>
+</svg>

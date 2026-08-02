@@ -1,0 +1,78 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 340" width="1200" height="340" role="img" aria-label="Iri — creating software with care">
+  <defs>
+    <linearGradient id="sky" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#1B0E33"/>
+      <stop offset="42%" stop-color="#3B1E6E"/>
+      <stop offset="78%" stop-color="#6B3BC4"/>
+      <stop offset="100%" stop-color="#9B6BFF"/>
+    </linearGradient>
+    <radialGradient id="glowA" cx="50%" cy="50%">
+      <stop offset="0%" stop-color="#D8BBFF" stop-opacity=".55"/>
+      <stop offset="100%" stop-color="#D8BBFF" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="glowB" cx="50%" cy="50%">
+      <stop offset="0%" stop-color="#BB86FC" stop-opacity=".45"/>
+      <stop offset="100%" stop-color="#BB86FC" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="rule" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#D8BBFF" stop-opacity="0"/>
+      <stop offset="50%" stop-color="#D8BBFF" stop-opacity=".85"/>
+      <stop offset="100%" stop-color="#D8BBFF" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="wave" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#BB86FC" stop-opacity=".20"/>
+      <stop offset="50%" stop-color="#D8BBFF" stop-opacity=".32"/>
+      <stop offset="100%" stop-color="#9B6BFF" stop-opacity=".20"/>
+    </linearGradient>
+    <clipPath id="frame"><rect width="1200" height="340" rx="18"/></clipPath>
+  </defs>
+
+  <g clip-path="url(#frame)">
+    <rect width="1200" height="340" fill="url(#sky)"/>
+
+    <!-- soft light -->
+    <circle cx="1010" cy="80" r="230" fill="url(#glowA)"/>
+    <circle cx="150" cy="300" r="200" fill="url(#glowB)"/>
+
+    <!-- drifting bands -->
+    <path d="M0 258 C 220 214 380 292 620 254 C 830 220 1000 268 1200 236 L1200 340 L0 340 Z" fill="url(#wave)"/>
+    <path d="M0 292 C 260 262 420 320 700 288 C 900 266 1060 300 1200 280 L1200 340 L0 340 Z" fill="#0F0722" opacity=".28"/>
+
+    <!-- stars -->
+    <g fill="#FFFFFF">
+      <circle cx="120" cy="70" r="1.7" opacity=".85"/><circle cx="248" cy="132" r="1.2" opacity=".6"/>
+      <circle cx="330" cy="52" r="1.5" opacity=".7"/><circle cx="905" cy="188" r="1.3" opacity=".55"/>
+      <circle cx="1090" cy="120" r="1.8" opacity=".8"/><circle cx="1148" cy="52" r="1.2" opacity=".5"/>
+      <circle cx="700" cy="44" r="1.4" opacity=".6"/><circle cx="792" cy="104" r="1.1" opacity=".45"/>
+    </g>
+    <g fill="#F3E6FF">
+      <path d="M968 60 L971 69 L980 72 L971 75 L968 84 L965 75 L956 72 L965 69 Z" opacity=".9"/>
+      <path d="M228 236 L230.4 243.2 L237.6 245.6 L230.4 248 L228 255.2 L225.6 248 L218.4 245.6 L225.6 243.2 Z" opacity=".7"/>
+      <path d="M1128 214 L1129.8 219.4 L1135.2 221.2 L1129.8 223 L1128 228.4 L1126.2 223 L1120.8 221.2 L1126.2 219.4 Z" opacity=".6"/>
+    </g>
+
+    <!-- wordmark -->
+    <text x="600" y="150" text-anchor="middle"
+          font-family="Georgia, 'Iowan Old Style', 'Palatino Linotype', serif"
+          font-size="92" font-style="italic" fill="#FFFFFF" letter-spacing="2">Iri</text>
+
+    <text x="600" y="182" text-anchor="middle"
+          font-family="'Segoe UI', system-ui, -apple-system, sans-serif"
+          font-size="14" fill="#E4D2FF" letter-spacing="6" opacity=".85">EYE-REE</text>
+
+    <rect x="470" y="200" width="260" height="1.4" rx=".7" fill="url(#rule)"/>
+
+    <text x="600" y="234" text-anchor="middle"
+          font-family="'Segoe UI', system-ui, -apple-system, sans-serif"
+          font-size="19" fill="#FFFFFF" opacity=".95">Creating software with care</text>
+
+    <text x="600" y="262" text-anchor="middle"
+          font-family="'Segoe UI', system-ui, -apple-system, sans-serif"
+          font-size="14" fill="#D8BBFF" opacity=".9">privacy &#183; security &#183; wellbeing</text>
+
+    <!-- heart mark -->
+    <path d="M600 300c-7.4-4.9-11.5-8.7-11.5-13.3a6.2 6.2 0 0 1 11.5-3.3 6.2 6.2 0 0 1 11.5 3.3c0 4.6-4.1 8.4-11.5 13.3z"
+          fill="#D8BBFF" opacity=".95"/>
+  </g>
+  <rect x=".5" y=".5" width="1199" height="339" rx="18" fill="none" stroke="#C9A7FF" stroke-opacity=".22"/>
+</svg>
