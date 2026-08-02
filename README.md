@@ -735,7 +735,13 @@ I'd love to learn another language one day — and for once, I don't mean a prog
   ˚₊‧꒰ა ───── 💜 ───── ໒꒱‧₊˚
 </p>
 
-<br><br>
+<br>
+
+<p align="center">
+  <img src="iri-emblem.png" alt="" width="100%">
+</p>
+
+<br>
 
 
 
