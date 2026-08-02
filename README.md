@@ -16,11 +16,18 @@
 </p>
 
 <p>
-  <em>Welcome to my little corner of GitHub.</em>
+  <em>software engineering &amp; cyber security graduate 🎓</em>
 </p>
 
 <p>
-  I recently finished my degree in software engineering and cyber security.
+  <em>Welcome to my little corner of GitHub.</em>
+</p>
+
+<br>
+
+<p>
+  I studied how to build software, and how software gets broken.
+  Now I make things that sit between the two.
 </p>
 
 <br>
@@ -44,6 +51,10 @@
 </p>
 
 <br>
+
+<p>
+  <img src="https://img.shields.io/badge/Graduate-Software%20Engineering%20%26%20Cyber%20Security-C9A7FF?style=for-the-badge">
+</p>
 
 <p>
   <a href="#-wardenone">
@@ -91,9 +102,9 @@ After all, behind every project is a real person — and this little corner of G
 
 <br>
 
-## 🔍 On Earning Your Trust
+## 💜 On Earning Your Trust
 
-I studied software engineering and cyber security together, which sounds like two subjects but really felt like one. Building things properly, and understanding how they get broken. You need both.
+I studied software engineering and cyber security together. It sounds like two subjects, but it always felt like one: how to build things properly, and how they get broken. You really do need both.
 
 I also know that asking someone to install software that protects them is asking for a lot of trust, and I haven't earned that yet. I'm new, I don't have many followers, and there's no long track record to point at. I'd rather say that plainly than pretend otherwise.
 
@@ -117,7 +128,7 @@ I'd rather earn trust slowly than ask for it up front. And if you ever find some
 
 <br>
 
-<h2 align="center">🌱 Why I Became a Developer & My Ideals</h2>
+<h2 align="center">💜 Why I Became a Developer & My Ideals</h2>
 
 <p align="center">
   <em>Software, to me, is more than code. It's creation, protection, and care.</em>
@@ -164,7 +175,7 @@ I also love learning. I never want to stop growing, improving, and discovering b
 To me, software is a form of art: taking an idea from your head and turning it into something real that people can actually use.
 </p>
 
-<h3>⚡ What I stand against</h3>
+<h3>💜 What I stand against</h3>
 
 <p>
 A lot of modern software frustrates me. Too much of it feels soulless, corporate, and built around profit instead of people.
@@ -176,7 +187,7 @@ I never want to become the kind of developer who fills everything with ads, micr
 Software should help users, not use them.
 </p>
 
-<h3>🛠️ What I want to build</h3>
+<h3>💜 What I want to build</h3>
 
 <p>
 I want my software to be easy enough for almost anyone to understand, but still genuinely effective.
@@ -195,7 +206,7 @@ Part of me also enjoys sticking it to the companies that treat people like produ
 Building software that puts users first feels like pushing back in my own small way.
 </p>
 
-<h3>🌿 How I want to grow</h3>
+<h3>💜 How I want to grow</h3>
 
 <p>
 I don't expect everyone to love everything I build. If someone stops using one of my projects, I'd rather understand why than be blindly praised.
@@ -276,12 +287,12 @@ From tracker blocking and redirect protection to download safety and privacy-foc
 <p>
 In practice that means ad and tracker blocking, anti-fingerprinting, phishing and scam
 detection, protection for your passwords and card details, download scanning, and IP-leak
-protection. Over 80 of them, each one something you can switch off if you disagree with it.
+protection. Over 80 of them, and every single one can be switched off if you disagree with it.
 </p>
 
 <p>
-It runs entirely on your own device. No account, no telemetry, nothing phoning home.
-I don't want your data, and the easiest way to prove that is to not collect any.
+It all runs on your own device. No account, no telemetry, nothing phoning home.
+I don't want your data, and the simplest way to prove that is to never collect any.
 </p>
 
 <br>
@@ -363,7 +374,7 @@ I believe healthy habits should be accessible to everyone. Looking after yoursel
 
 <br>
 
-<h2 align="center">🌸 Beyond The Code</h2>
+<h2 align="center">💜 Beyond The Code</h2>
 
 <p align="center">
   The little things that make me, me.
@@ -406,25 +417,25 @@ creating things meaningful.
 
 <td width="65%" valign="top">
 
-<h3>🎨 Favourite Colour</h3>
+<h3>💜 Favourite Colour</h3>
 
 <p>
 Purple. I genuinely think purple can make almost anything look better.
 </p>
 
-<h3>🎮 Games & Stories</h3>
+<h3>💜 Games & Stories</h3>
 
 <p>
 Genshin Impact, Wuthering Waves, and Steins;Gate. I love worlds that feel alive and stories that stay with you long after you've finished them.
 </p>
 
-<h3>🌷 Flowers & Nature</h3>
+<h3>💜 Flowers & Nature</h3>
 
 <p>
 I love flowers, nature, and peaceful scenery. There's something calming about them that I don't think technology can replace.
 </p>
 
-<h3>🎧 Music</h3>
+<h3>💜 Music</h3>
 
 <p>
 Almost everything. Except screamo. We're not doing that.
@@ -436,19 +447,19 @@ Almost everything. Except screamo. We're not doing that.
 Art, design, guitar, cooking, and making things feel personal. I like creating things in more ways than just writing code.
 </p>
 
-<h3>✨ Space & Gemstones</h3>
+<h3>💜 Space & Gemstones</h3>
 
 <p>
 I've always loved space, stars, gemstones, and things that feel a little magical.
 </p>
 
-<h3>🛁 Self Care</h3>
+<h3>💜 Self Care</h3>
 
 <p>
 Skincare, haircare, and small routines that make life feel softer and more put together.
 </p>
 
-<h3>📚 Something I Want To Learn</h3>
+<h3>💜 Something I Want To Learn</h3>
 
 <p>
 I'd love to learn another language one day — and for once, I don't mean a programming language.
@@ -512,7 +523,7 @@ I'd love to learn another language one day — and for once, I don't mean a prog
 
 <br>
 
-<h3>⚙️ What I Build With</h3>
+<h3>💜 What I Build With</h3>
 
 <p align="center">
   <a href="https://dotnet.microsoft.com/en-us/languages/csharp">
@@ -576,7 +587,7 @@ I'd love to learn another language one day — and for once, I don't mean a prog
 
 <br>
 
-<h3>🧰 Daily Tools</h3>
+<h3>💜 Daily Tools</h3>
 
 <p align="center">
   <a href="https://code.visualstudio.com">
@@ -754,7 +765,7 @@ I'd love to learn another language one day — and for once, I don't mean a prog
 
 <br><br>
 
-<h3>🌙 A Small Invitation</h3>
+<h3>💜 A Small Invitation</h3>
 
 <p>
   <em>my inbox is always open</em>
@@ -791,7 +802,7 @@ I'd love to learn another language one day — and for once, I don't mean a prog
 
 <td width="62%" valign="top">
 
-<h2>✉️ Send Me A Message</h2>
+<h2>💜 Send Me A Message</h2>
 
 <p>
   If one of my projects helped you,
@@ -803,29 +814,70 @@ I'd love to learn another language one day — and for once, I don't mean a prog
 </p>
 
 <p>
-  Some of my favourite improvements and ideas have started because somebody decided to
-  send a message. Questions, suggestions, bug reports, or a random hello are all welcome.
+  Some of my favourite improvements,
+  conversations,
+  and ideas have started because somebody decided to send a message.
 </p>
 
 <p>
-  I read my emails personally and check my messages myself, so whichever you choose,
-  it reaches me rather than a support queue.
+  I read my emails personally,
+  check my messages myself,
+  and always try to respond when I can.
 </p>
 
 <p>
-  💌 Email<br>
+  Questions,
+  suggestions,
+  bug reports,
+  feedback,
+  project ideas,
+  or even a random hello are all welcome.
+</p>
+
+<p>
+  Behind every project is a real person.
+</p>
+
+<p>
+  And I'd be happy to hear from you. 💜
+</p>
+
+<br>
+
+<h3>💜 If You'd Like To Say Hello</h3>
+
+<p>
+  💌 <strong>Email</strong><br>
   <a href="mailto:iri.devsupport@gmail.com">
     iri.devsupport@gmail.com
   </a>
 </p>
 
 <p>
-  💬 Discord<br>
+  💜 <strong>Discord</strong><br>
   <code>iri.dev</code>
 </p>
 
+<br>
+
 <p>
-  Behind every project is a real person, and I'd be happy to hear from you. 💜
+  I check both personally,
+  and I'd genuinely love to hear from you.
+</p>
+
+<p>
+  Choose whichever feels most comfortable and natural to you —
+  both are perfectly welcome.
+</p>
+
+<p>
+  A thoughtful email,
+  a quick Discord message,
+  or even just a simple hello.
+</p>
+
+<p>
+  They're all welcome here. 💜
 </p>
 
 <br>
@@ -874,6 +926,10 @@ I'd love to learn another language one day — and for once, I don't mean a prog
 </p>
 
 <br>
+
+<p align="center">
+  If you've made it all the way down here, thank you.
+</p>
 
 <p align="center">
   Whether you came for a project,
