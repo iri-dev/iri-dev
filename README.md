@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="banner-iri-v2.svg" alt="Iri — software engineering and cyber security graduate" width="100%">
+  <img src="banner-iri-v3.svg" alt="Iri — software engineering and cyber security graduate" width="100%">
 </p>
 
 <br>
