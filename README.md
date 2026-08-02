@@ -133,7 +133,7 @@ I'd rather earn trust slowly than ask for it up front. And if you ever find some
 <br>
 
 <p align="center">
-  <img src="image2.png" alt="Iri Divider" width="100%">
+  <img src="iri-emblem.png" alt="" width="100%">
 </p>
 
 <br>
