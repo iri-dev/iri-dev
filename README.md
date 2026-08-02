@@ -91,6 +91,11 @@
 
 <br>
 
+<p align="center">
+  <img src="divider-heart.svg" alt="" width="100%">
+</p>
+
+
 ## 💜 A Little About Me
 
 I’m not a company or a large development team — just one person who enjoys creating software that helps people.
@@ -104,6 +109,11 @@ I care a lot about thoughtful design, honest communication, and building things 
 After all, behind every project is a real person — and this little corner of GitHub is mine. 💜
 
 <br>
+
+<p align="center">
+  <img src="divider-heart.svg" alt="" width="100%">
+</p>
+
 
 ## 💜 On Earning Your Trust
 
@@ -242,6 +252,11 @@ then I've achieved what I set out to do.
   <img src="image5.png" width="340">
 </p>
 
+<p align="center">
+  <img src="divider-heart.svg" alt="" width="100%">
+</p>
+
+
 <h2 align="center">🌸 Current Creations</h2>
 
 <p align="center">
@@ -353,7 +368,7 @@ I believe healthy habits should be accessible to everyone. Looking after yoursel
 
 
 <p align="center">
-  <img src="divider-heart.svg" alt="" width="100%">
+  <img src="divider-petals.svg" alt="" width="100%">
 </p>
 
 
