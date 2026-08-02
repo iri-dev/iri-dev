@@ -921,57 +921,82 @@ I'd love to learn another language one day — and for once, I don't mean a prog
 <h2 align="center">💜 Thank You For Visiting</h2>
 
 <p align="center">
-  <em>
-    thank you for spending a little time in my corner of GitHub
-  </em>
+  <em>thank you for spending a little time in my corner of GitHub</em>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/-%E2%9D%80-C9A7FF?style=flat-square">
+  <img src="https://img.shields.io/badge/-%E2%9D%80-BB86FC?style=flat-square">
+  <img src="https://img.shields.io/badge/-%E2%9D%80-9B6BFF?style=flat-square">
 </p>
 
 <br>
 
-<p align="center">
+<table align="center">
+<tr>
+<td align="center" width="640">
+
+<br>
+
+<p>
   If you've made it all the way down here, thank you.
 </p>
 
-<p align="center">
-  Whether you came for a project,
-  found something useful,
-  or simply stopped by out of curiosity,
-  I'm genuinely glad you were here.
+<p>
+  Whether you came for a project, found something useful, or simply stopped by out of
+  curiosity, I'm genuinely glad you were here.
 </p>
 
-<p align="center">
-  Every person who uses something I've built,
-  leaves feedback,
-  sends a message,
-  or supports my work
-  means more to me than you might realise.
+<p>
+  Every person who uses something I've built, leaves feedback, sends a message, or
+  supports my work means more to me than you might realise.
 </p>
 
 <br>
 
-<p align="center">
-  ☕ If you'd like to support future projects,
-  you can buy me a coffee.
-</p>
-
-<p align="center">
-  <a href="YOUR_BUYMEACOFFEE_LINK">
-    <img src="https://img.shields.io/badge/Support%20My%20Work-9B6BFF?style=for-the-badge&logo=buymeacoffee&logoColor=white">
-  </a>
-</p>
+</td>
+</tr>
+</table>
 
 <br>
 
-<p align="center">
-  Take care,
-  keep creating,
-  and thank you for being here. 💜
-</p>
+<table align="center">
+<tr>
+<td align="center" width="420">
 
 <br>
 
+<strong>☕ Fuel for future projects</strong>
+
+<p>
+  <sub>Everything I make stays free. If you'd like to help anyway, there's a tip jar.</sub>
+</p>
+
+<!-- Paste your Buy Me a Coffee URL into the href below to make this a link again. -->
+<img src="https://img.shields.io/badge/Support%20My%20Work-9B6BFF?style=for-the-badge&logo=buymeacoffee&logoColor=white">
+
+<br><br>
+
+</td>
+</tr>
+</table>
+
+<br><br>
+
 <p align="center">
-  💜 Iri
+  <sub><em>take care, and keep creating</em></sub>
+</p>
+
+<h3 align="center">💜 Iri</h3>
+
+<p align="center">
+  <sub><em>one person, many ideas</em></sub>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/-%E2%9D%80-9B6BFF?style=flat-square">
+  <img src="https://img.shields.io/badge/-%E2%9D%80-BB86FC?style=flat-square">
+  <img src="https://img.shields.io/badge/-%E2%9D%80-C9A7FF?style=flat-square">
 </p>
 
 <br>
