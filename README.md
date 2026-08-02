@@ -249,7 +249,7 @@ then I've achieved what I set out to do.
 <br>
 
 <p align="center">
-  <img src="iri-band.svg" alt="" width="100%">
+  <img src="image55.png" width="200">
 </p>
 
 <p align="center">
