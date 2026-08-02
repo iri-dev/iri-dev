@@ -256,7 +256,7 @@ then I've achieved what I set out to do.
 
 </td>
 
-<td colspan="3" rowspan="4" valign="top">
+<td colspan="3" rowspan="6" valign="top">
 
 <h2>🌸 Current Creations</h2>
 
@@ -272,6 +272,11 @@ then I've achieved what I set out to do.
 <p>
   One protects people from things they never asked for. The other reminds them to look
   after themselves. Different problems, same instinct.
+</p>
+
+<p>
+  They're built the same way, too. Slowly, in the open, and released when I'm happy with
+  them rather than when they're technically finished.
 </p>
 
 <p>
@@ -307,6 +312,8 @@ then I've achieved what I set out to do.
 </tr>
 <tr><td align="center"><sub><em>the one doing the building 💜</em></sub></td></tr>
 <tr><td><sub>🌸 <strong>Projects</strong> — WardenOne · Hydra Heart</sub></td></tr>
+<tr><td><sub>🧪 <strong>Status</strong> — one live, one in progress</sub></td></tr>
+<tr><td><sub>💜 <strong>For</strong> — people, not metrics</sub></td></tr>
 <tr><td><sub>✨ <strong>Cost</strong> — free, and staying free</sub></td></tr>
 <tr>
 
@@ -372,6 +379,16 @@ Focused on hydration, wellbeing, and healthy habits, Hydra Heart encourages peop
 <p>
 A lot of people forget to drink enough water, even though it is one of the simplest ways to take better care of yourself.
 Hydra Heart is built to make that habit feel easier, softer, and more consistent.
+</p>
+
+<p>
+In practice that means reminders you can shape around your own day, a simple way to keep
+track without it becoming another chore, and a nudge that stays kind when life gets in the way.
+</p>
+
+<p>
+There are no streaks to lose and nothing to feel guilty about if you miss a day.
+I would rather build something you are glad to see than something that pressures you into opening it.
 </p>
 
 <p>
