@@ -19,6 +19,10 @@
   <em>Welcome to my little corner of GitHub.</em>
 </p>
 
+<p>
+  Recent <strong>Software Engineering</strong> graduate, focused on <strong>cyber security</strong>.
+</p>
+
 <br>
 
 <p>
@@ -42,12 +46,12 @@
 <br>
 
 <p>
-  <a href="#-webwarden">
-    <img src="https://img.shields.io/badge/WebWarden-9B6BFF?style=for-the-badge&logo=googlechrome&logoColor=white">
+  <a href="#-wardenone">
+    <img src="https://img.shields.io/badge/WardenOne-9B6BFF?style=for-the-badge&logo=googlechrome&logoColor=white">
   </a>
 
   <a href="#-projects">
-    <img src="https://img.shields.io/badge/Hydra%20Heart-BB86FC?style=for-the-badge">
+    <img src="https://img.shields.io/badge/Hydra%20Heart-Coming%20Soon-BB86FC?style=for-the-badge">
   </a>
 
   <a href="#-contact">
@@ -79,11 +83,23 @@ I’m not a company or a large development team — just one person who enjoys c
 
 Technology is a huge part of everyday life, and I believe it should make people feel safer, healthier, and more in control, not overwhelmed or taken advantage of.
 
-That idea is what inspires many of the projects I build, from privacy-focused tools like **WebWarden** to wellbeing projects such as **Hydra Heart**.
+That idea is what inspires many of the projects I build, from privacy-focused tools like **WardenOne** to wellbeing projects such as **Hydra Heart**.
 
 I care a lot about thoughtful design, honest communication, and building things that genuinely provide value. If you ever have feedback, ideas, questions, or simply want to say hello, you're always welcome to reach out.
 
 After all, behind every project is a real person — and this little corner of GitHub is mine. 💜
+
+<br>
+
+## 💜 On Earning Your Trust
+
+I'm a recent Software Engineering graduate, and cyber security is the part I care about most. It's what got me into this in the first place.
+
+I also know that asking someone to install software that protects them is asking for a lot of trust — and I haven't earned that yet. I'm new, I don't have many followers, and there's no long track record to point at. I'd rather say that plainly than pretend otherwise.
+
+So here is my promise, and it isn't going to change: **everything I make will always be open source and free to inspect.** Every line of code, every permission it asks for, every request it makes. You should never have to take my word for it. You should be able to go and look.
+
+I'd rather earn trust slowly and properly than ask for it up front. If you ever find something I've got wrong, tell me — I'd genuinely like to know.
 
 <br>
 
@@ -236,20 +252,20 @@ then I've achieved what I set out to do.
 
 <td width="50%" align="center" valign="top">
 
-<h3>💜 WebWarden</h3>
+<h3>💜 WardenOne</h3>
 
 <p>
-WebWarden began from a simple belief:
+WardenOne began from a simple belief:
 <strong>people deserve to feel safer on the internet.</strong>
 </p>
 
 <p>
-Built around privacy, protection, and user control, WebWarden is my attempt to make the internet feel safer without overwhelming people.
+Built around privacy, protection, and user control, WardenOne is my attempt to make the internet feel safer without overwhelming people.
 </p>
 
 <p>
 The web can be dangerous, confusing, and full of things designed to track, trick, or take advantage of users.
-WebWarden brings together the protections I wish browsers had by default.
+WardenOne brings together the protections I wish browsers had by default.
 </p>
 
 <p>
@@ -259,8 +275,8 @@ From tracker blocking and redirect protection to download safety and privacy-foc
 
 <br>
 
-<a href="#-webwarden">
-  <img src="https://img.shields.io/badge/WebWarden-9B6BFF?style=for-the-badge&logo=googlechrome&logoColor=white">
+<a href="#-wardenone">
+  <img src="https://img.shields.io/badge/WardenOne-9B6BFF?style=for-the-badge&logo=googlechrome&logoColor=white">
 </a>
 
 </td>
@@ -268,6 +284,10 @@ From tracker blocking and redirect protection to download safety and privacy-foc
 <td width="50%" align="center" valign="top">
 
 <h3>💜 Hydra Heart</h3>
+
+<p>
+<em>Still being built — coming soon. 💜</em>
+</p>
 
 <p>
 Hydra Heart began from a simple belief:
@@ -291,7 +311,7 @@ I believe healthy habits should be accessible to everyone. Looking after yoursel
 <br>
 
 <a href="#-hydra-heart">
-  <img src="https://img.shields.io/badge/Hydra%20Heart-9B6BFF?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Hydra%20Heart-Coming%20Soon-9B6BFF?style=for-the-badge">
 </a>
 
 </td>
@@ -306,7 +326,7 @@ I believe healthy habits should be accessible to everyone. Looking after yoursel
 </p>
 
 <p align="center">
-  Building <strong>WebWarden</strong> • Working on <strong>Hydra Heart</strong><br>
+  Building <strong>WardenOne</strong> • Designing <strong>Hydra Heart</strong> (coming soon)<br>
   Learning more <strong>C#</strong> • Drinking slightly too much caffeine ☕
 </p>
 
@@ -522,7 +542,7 @@ I'd love to learn another language one day — and for once, I don't mean a prog
 </p>
 
 <p>
-  <strong>JavaScript</strong>, HTML, and CSS help me build for the browser, which makes them especially important for projects like <strong>WebWarden</strong>.
+  <strong>JavaScript</strong>, HTML, and CSS help me build for the browser, which makes them especially important for projects like <strong>WardenOne</strong>.
 </p>
 
 <p>
