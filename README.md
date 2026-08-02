@@ -249,7 +249,7 @@ then I've achieved what I set out to do.
 <br>
 
 <p align="center">
-  <img src="image5.png" width="340">
+  <img src="image55.png" width="340">
 </p>
 
 <p align="center">
