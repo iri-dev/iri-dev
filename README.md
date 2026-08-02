@@ -21,10 +21,6 @@
   <em>Welcome to my little corner of GitHub.</em>
 </p>
 
-<p>
-  Recent graduate — double major in <strong>Software Engineering</strong> and <strong>Cyber Security</strong>.
-</p>
-
 <br>
 
 <p>
@@ -53,7 +49,7 @@
   </a>
 
   <a href="#-projects">
-    <img src="https://img.shields.io/badge/Hydra%20Heart-Coming%20Soon-BB86FC?style=for-the-badge">
+    <img src="https://img.shields.io/badge/Hydra%20Heart-BB86FC?style=for-the-badge">
   </a>
 
   <a href="#-contact">
