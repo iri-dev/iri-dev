@@ -353,7 +353,7 @@ I believe healthy habits should be accessible to everyone. Looking after yoursel
 
 
 <p align="center">
-  <img src="divider-sparkle.svg" alt="" width="100%">
+  <img src="divider-heart.svg" alt="" width="100%">
 </p>
 
 
@@ -459,7 +459,7 @@ I'd love to learn another language one day — and for once, I don't mean a prog
 
 
 <p align="center">
-  <img src="divider-sparkle.svg" alt="" width="100%">
+  <img src="divider-heart.svg" alt="" width="100%">
 </p>
 
 
