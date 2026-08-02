@@ -20,7 +20,7 @@
 </p>
 
 <p>
-  Recent <strong>Software Engineering</strong> graduate, focused on <strong>cyber security</strong>.
+  Recent graduate — double major in <strong>Software Engineering</strong> and <strong>Cyber Security</strong>.
 </p>
 
 <br>
@@ -93,7 +93,7 @@ After all, behind every project is a real person — and this little corner of G
 
 ## 💜 On Earning Your Trust
 
-I'm a recent Software Engineering graduate, and cyber security is the part I care about most. It's what got me into this in the first place.
+I'm a recent graduate — I studied a double major in software engineering and cyber security, which is really just two halves of the same interest: building things properly, and understanding how they get broken.
 
 I also know that asking someone to install software that protects them is asking for a lot of trust — and I haven't earned that yet. I'm new, I don't have many followers, and there's no long track record to point at. I'd rather say that plainly than pretend otherwise.
 
