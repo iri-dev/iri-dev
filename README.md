@@ -1,8 +1,10 @@
+<!-- Banner hidden for now. banner3.png is still in the repo — uncomment to bring it back.
 <p align="center">
   <img src="banner3.png" alt="Iri Banner" width="100%">
 </p>
 
 <br>
+-->
 
 <table>
 <tr>
@@ -925,63 +927,27 @@ I'd love to learn another language one day — and for once, I don't mean a prog
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/-%E2%9D%80-C9A7FF?style=flat-square">
-  <img src="https://img.shields.io/badge/-%E2%9D%80-BB86FC?style=flat-square">
-  <img src="https://img.shields.io/badge/-%E2%9D%80-9B6BFF?style=flat-square">
-</p>
-
-<br>
-
-<table align="center">
-<tr>
-<td align="center" width="640">
-
-<br>
-
-<p>
   If you've made it all the way down here, thank you.
 </p>
 
-<p>
+<p align="center">
   Whether you came for a project, found something useful, or simply stopped by out of
   curiosity, I'm genuinely glad you were here.
 </p>
 
-<p>
+<p align="center">
   Every person who uses something I've built, leaves feedback, sends a message, or
   supports my work means more to me than you might realise.
 </p>
 
-<br>
-
-</td>
-</tr>
-</table>
-
-<br>
-
-<table align="center">
-<tr>
-<td align="center" width="420">
-
-<br>
-
-<strong>☕ Fuel for future projects</strong>
-
-<p>
-  <sub>Everything I make stays free. If you'd like to help anyway, there's a tip jar.</sub>
+<p align="center">
+  <sub>☕ Everything I make stays free. If you'd like to help anyway, there's a tip jar.</sub>
 </p>
 
-<!-- Paste your Buy Me a Coffee URL into the href below to make this a link again. -->
-<img src="https://img.shields.io/badge/Support%20My%20Work-9B6BFF?style=for-the-badge&logo=buymeacoffee&logoColor=white">
-
-<br><br>
-
-</td>
-</tr>
-</table>
-
-<br><br>
+<p align="center">
+  <!-- Paste your Buy Me a Coffee URL as an href around this badge to make it a link. -->
+  <img src="https://img.shields.io/badge/Support%20My%20Work-9B6BFF?style=for-the-badge&logo=buymeacoffee&logoColor=white">
+</p>
 
 <p align="center">
   <sub><em>take care, and keep creating</em></sub>
@@ -991,12 +957,6 @@ I'd love to learn another language one day — and for once, I don't mean a prog
 
 <p align="center">
   <sub><em>one person, many ideas</em></sub>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/-%E2%9D%80-9B6BFF?style=flat-square">
-  <img src="https://img.shields.io/badge/-%E2%9D%80-BB86FC?style=flat-square">
-  <img src="https://img.shields.io/badge/-%E2%9D%80-C9A7FF?style=flat-square">
 </p>
 
 <br>
