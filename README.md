@@ -250,7 +250,7 @@ then I've achieved what I set out to do.
 <table>
 <tr>
 
-<td width="25%" align="center" valign="top">
+<td width="26%" align="center" valign="top">
 
 <img src="image55.png" alt="" width="100%">
 
@@ -307,8 +307,6 @@ then I've achieved what I set out to do.
   Learning more <strong>C#</strong><br>
   Drinking slightly too much caffeine ☕
 </p>
-
-<br>
 
 <p>
   <sub>
