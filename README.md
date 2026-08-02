@@ -243,25 +243,44 @@ then I've achieved what I set out to do.
 
 <br>
 
-
-
-
-<br>
-
-<p align="center">
-  <img src="iri-stars.svg" alt="" width="430">
-</p>
-
 <p align="center">
   <img src="divider-heart.svg" alt="" width="100%">
 </p>
 
+<table>
+<tr>
 
-<h2 align="center">🌸 Current Creations</h2>
+<td width="34%" align="center" valign="middle">
 
-<p align="center">
+<img src="iri-stars.svg" alt="" width="100%">
+
+</td>
+
+<td width="66%" valign="middle">
+
+<h2>🌸 Current Creations</h2>
+
+<p>
   The projects currently occupying my mind.
 </p>
+
+<p>
+  One is finished and out in the world, the other is still taking shape. Both come from
+  the same place: software should look after the person using it.
+</p>
+
+<p>
+  <a href="#-wardenone">
+    <img src="https://img.shields.io/badge/WardenOne-Live-9B6BFF?style=for-the-badge&logo=googlechrome&logoColor=white">
+  </a>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Hydra%20Heart-Coming%20Soon-BB86FC?style=for-the-badge">
+</p>
+
+</td>
+
+</tr>
+</table>
 
 <br>
 
