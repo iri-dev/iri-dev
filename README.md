@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="banner-gfx.png" alt="Iri" width="100%">
+  <img src="banner-gfx2.png" alt="Iri" width="100%">
 </p>
 
 <br>
