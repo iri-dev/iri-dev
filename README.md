@@ -250,13 +250,13 @@ then I've achieved what I set out to do.
 <table>
 <tr>
 
-<td width="26%" align="center" valign="top">
+<td width="21%" align="center" valign="top">
 
 <img src="image55.png" alt="" width="100%">
 
 </td>
 
-<td colspan="3" rowspan="6" valign="top">
+<td colspan="3" rowspan="4" valign="top">
 
 <h2>🌸 Current Creations</h2>
 
@@ -270,21 +270,9 @@ then I've achieved what I set out to do.
 </p>
 
 <p>
-  They're built the same way, too. Slowly, in the open, and released when I'm happy with
-  them rather than when they're technically finished.
-</p>
-
-<p>
   One protects people from things they never asked for. The other reminds them to look
   after themselves. Different problems, same instinct.
 </p>
-
-<p>
-  Neither is finished in the way software is ever finished. I keep coming back to both,
-  adding what I wish was there and removing what nobody needed.
-</p>
-
-<br>
 
 <p>
   <a href="#-wardenone">
@@ -294,7 +282,6 @@ then I've achieved what I set out to do.
   <img src="https://img.shields.io/badge/Hydra%20Heart-Coming%20Soon-BB86FC?style=for-the-badge">
 </p>
 
-<br>
 <br>
 
 <p>
@@ -320,8 +307,6 @@ then I've achieved what I set out to do.
 </tr>
 <tr><td align="center"><sub><em>the one doing the building 💜</em></sub></td></tr>
 <tr><td><sub>🌸 <strong>Projects</strong> — WardenOne · Hydra Heart</sub></td></tr>
-<tr><td><sub>💜 <strong>Focus</strong> — privacy · security · wellbeing</sub></td></tr>
-<tr><td><sub>🛠️ <strong>Built</strong> — solo, in the open</sub></td></tr>
 <tr><td><sub>✨ <strong>Cost</strong> — free, and staying free</sub></td></tr>
 <tr>
 
