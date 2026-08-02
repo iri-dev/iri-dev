@@ -18,18 +18,11 @@
 </p>
 
 <p>
-  <em>software engineering &amp; cyber security graduate 🎓</em>
-</p>
-
-<p>
   <em>Welcome to my little corner of GitHub.</em>
 </p>
 
-<br>
-
 <p>
-  I studied how to build software, and how software gets broken.
-  Now I make things that sit between the two.
+  Recent graduate — double major in <strong>Software Engineering</strong> and <strong>Cyber Security</strong>.
 </p>
 
 <br>
@@ -53,11 +46,6 @@
 </p>
 
 <br>
-
-<p>
-  <img src="https://img.shields.io/badge/she%2Fher-D8BBFF?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Graduate-Software%20Engineering%20%26%20Cyber%20Security-C9A7FF?style=for-the-badge">
-</p>
 
 <p>
   <a href="#-wardenone">
