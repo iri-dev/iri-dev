@@ -247,9 +247,14 @@ then I've achieved what I set out to do.
   <img src="divider-heart.svg" alt="" width="100%">
 </p>
 
-<img align="left" src="image55.png" alt="" width="250">
+<table>
+<tr>
+
+<td colspan="2" valign="top">
 
 <h2>🌸 Current Creations</h2>
+
+<img align="left" src="image55.png" alt="" width="220">
 
 <p>
   The projects currently occupying my mind.
@@ -276,7 +281,7 @@ then I've achieved what I set out to do.
 
 <p>
   Building <strong>WardenOne</strong><br>
-  Designing <strong>Hydra Heart</strong> (coming soon)<br>
+  Designing <strong>Hydra Heart</strong><br>
   Learning more <strong>C#</strong><br>
   Drinking slightly too much caffeine ☕
 </p>
@@ -290,9 +295,9 @@ then I've achieved what I set out to do.
 
 <br clear="left">
 
-<br>
+</td>
 
-<table>
+</tr>
 <tr>
 
 <td width="50%" align="center" valign="top">
