@@ -247,7 +247,16 @@ then I've achieved what I set out to do.
   <img src="divider-heart.svg" alt="" width="100%">
 </p>
 
-<img align="left" src="image55.png" alt="" width="250">
+<table>
+<tr>
+
+<td rowspan="2" width="30%" align="center" valign="top">
+
+<img src="image55.png" alt="" width="100%">
+
+</td>
+
+<td colspan="2" valign="top">
 
 <h2>🌸 Current Creations</h2>
 
@@ -268,14 +277,12 @@ then I've achieved what I set out to do.
   <img src="https://img.shields.io/badge/Hydra%20Heart-Coming%20Soon-BB86FC?style=for-the-badge">
 </p>
 
-<br clear="left">
+</td>
 
-<br>
-
-<table>
+</tr>
 <tr>
 
-<td width="50%" align="center" valign="top">
+<td width="35%" align="center" valign="top">
 
 <h3>💜 WardenOne</h3>
 
@@ -317,7 +324,7 @@ I don't want your data, and the simplest way to prove that is to never collect a
 
 </td>
 
-<td width="50%" align="center" valign="top">
+<td width="35%" align="center" valign="top">
 
 <h3>💧 Hydra Heart</h3>
 
