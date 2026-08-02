@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 48" width="1200" height="48" role="img" aria-label="divider">
+  <defs>
+    <linearGradient id="c1" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#8A5CF6" stop-opacity="0"/>
+      <stop offset="18%" stop-color="#9B6BFF" stop-opacity=".7"/>
+      <stop offset="50%" stop-color="#D8BBFF" stop-opacity=".9"/>
+      <stop offset="82%" stop-color="#9B6BFF" stop-opacity=".7"/>
+      <stop offset="100%" stop-color="#8A5CF6" stop-opacity="0"/>
+    </linearGradient>
+    <g id="p5">
+      <ellipse cx="0" cy="-5.2" rx="2.6" ry="5.2"/>
+      <ellipse cx="0" cy="-5.2" rx="2.6" ry="5.2" transform="rotate(72)"/>
+      <ellipse cx="0" cy="-5.2" rx="2.6" ry="5.2" transform="rotate(144)"/>
+      <ellipse cx="0" cy="-5.2" rx="2.6" ry="5.2" transform="rotate(216)"/>
+      <ellipse cx="0" cy="-5.2" rx="2.6" ry="5.2" transform="rotate(288)"/>
+    </g>
+  </defs>
+  <rect x="30" y="23.4" width="1140" height="1.2" rx=".6" fill="url(#c1)"/>
+  <g transform="translate(540 24) scale(.7)" fill="#C9A7FF" opacity=".85"><use href="#p5"/></g>
+  <g transform="translate(660 24) scale(.7)" fill="#C9A7FF" opacity=".85"><use href="#p5"/></g>
+  <g transform="translate(600 24)"><g fill="#BB86FC"><use href="#p5"/></g><circle r="2.1" fill="#FFF3C4"/></g>
+  <circle cx="492" cy="24" r="1.8" fill="#D8BBFF" opacity=".75"/>
+  <circle cx="708" cy="24" r="1.8" fill="#D8BBFF" opacity=".75"/>
+</svg>
