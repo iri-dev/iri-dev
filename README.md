@@ -53,6 +53,7 @@
 <br>
 
 <p>
+  <img src="https://img.shields.io/badge/she%2Fher-D8BBFF?style=for-the-badge">
   <img src="https://img.shields.io/badge/Graduate-Software%20Engineering%20%26%20Cyber%20Security-C9A7FF?style=for-the-badge">
 </p>
 
