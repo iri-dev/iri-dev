@@ -247,34 +247,7 @@ then I've achieved what I set out to do.
   <img src="divider-heart.svg" alt="" width="100%">
 </p>
 
-<table>
-<tr>
-
-<td rowspan="2" width="32%" align="center" valign="top">
-
-<img src="image55.png" alt="" width="100%">
-
-<br><br>
-
-💜 <strong>Currently</strong>
-
-<p>
-  Building <strong>WardenOne</strong><br>
-  Designing <strong>Hydra Heart</strong><br>
-  Learning more <strong>C#</strong><br>
-  Drinking slightly too much caffeine ☕
-</p>
-
-<p>
-  <sub>
-    and probably telling myself<br>
-    "just one more feature" again...
-  </sub>
-</p>
-
-</td>
-
-<td colspan="2" valign="top">
+<img align="left" src="image55.png" alt="" width="250">
 
 <h2>🌸 Current Creations</h2>
 
@@ -295,12 +268,34 @@ then I've achieved what I set out to do.
   <img src="https://img.shields.io/badge/Hydra%20Heart-Coming%20Soon-BB86FC?style=for-the-badge">
 </p>
 
-</td>
+<br>
 
-</tr>
+<p>
+  💜 <strong>Currently</strong>
+</p>
+
+<p>
+  Building <strong>WardenOne</strong><br>
+  Designing <strong>Hydra Heart</strong> (coming soon)<br>
+  Learning more <strong>C#</strong><br>
+  Drinking slightly too much caffeine ☕
+</p>
+
+<p>
+  <sub>
+    and probably telling myself
+    "just one more feature" again...
+  </sub>
+</p>
+
+<br clear="left">
+
+<br>
+
+<table>
 <tr>
 
-<td width="34%" align="center" valign="top">
+<td width="50%" align="center" valign="top">
 
 <h3>💜 WardenOne</h3>
 
@@ -342,7 +337,7 @@ I don't want your data, and the simplest way to prove that is to never collect a
 
 </td>
 
-<td width="34%" align="center" valign="top">
+<td width="50%" align="center" valign="top">
 
 <h3>💧 Hydra Heart</h3>
 
