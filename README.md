@@ -903,10 +903,10 @@ I'd love to learn another language one day — and for once, I don't mean a prog
 <br>
 
 <p align="center">
-  <img src="image6.png" width="82%">
+  <img src="divider-petals.svg" alt="" width="100%">
 </p>
 
-<br><br>
+<br>
 
 <h2 align="center">💜 Thank You For Visiting</h2>
 
@@ -914,19 +914,20 @@ I'd love to learn another language one day — and for once, I don't mean a prog
   <em>thank you for spending a little time in my corner of GitHub</em>
 </p>
 
-<p align="center">
-  If you've made it all the way down here, thank you.
-</p>
+<br>
 
 <p align="center">
+  If you've made it all the way down here, thank you.<br>
   Whether you came for a project, found something useful, or simply stopped by out of
   curiosity, I'm genuinely glad you were here.
 </p>
 
 <p align="center">
   Every person who uses something I've built, leaves feedback, sends a message, or
-  supports my work means more to me than you might realise.
+  supports my work means more to me than you might realise. 💜
 </p>
+
+<br>
 
 <p align="center">
   <sub>☕ Everything I make stays free. If you'd like to help anyway, there's a tip jar.</sub>
@@ -934,17 +935,13 @@ I'd love to learn another language one day — and for once, I don't mean a prog
 
 <p align="center">
   <!-- Paste your Buy Me a Coffee URL as an href around this badge to make it a link. -->
-  <img src="https://img.shields.io/badge/Support%20My%20Work-9B6BFF?style=for-the-badge&logo=buymeacoffee&logoColor=white">
+  <img src="https://img.shields.io/badge/Support%20My%20Work-9B6BFF?style=for-the-badge&logo=buymeacoffee&logoColor=white" alt="Support my work">
 </p>
 
-<p align="center">
-  <sub><em>take care, and keep creating</em></sub>
-</p>
-
-<h3 align="center">💜 Iri</h3>
+<br><br>
 
 <p align="center">
-  <sub><em>one person, many ideas</em></sub>
+  <img src="footer-signoff.jpg" alt="take care, and keep creating — Iri, one person many ideas" width="100%">
 </p>
 
 <br>
