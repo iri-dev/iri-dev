@@ -4,8 +4,6 @@
 
 <br>
 
-<!-- Old banner kept in the repo: <img src="banner3.png" alt="Iri Banner" width="100%"> -->
-
 <table>
 <tr>
 
@@ -934,8 +932,9 @@ I'd love to learn another language one day — and for once, I don't mean a prog
 </p>
 
 <p align="center">
-  <!-- Paste your Buy Me a Coffee URL as an href around this badge to make it a link. -->
-  <img src="https://img.shields.io/badge/Support%20My%20Work-9B6BFF?style=for-the-badge&logo=buymeacoffee&logoColor=white" alt="Support my work">
+  <a href="https://buymeacoffee.com/iri.dev">
+    <img src="https://img.shields.io/badge/Support%20My%20Work-9B6BFF?style=for-the-badge&logo=buymeacoffee&logoColor=white" alt="Support my work">
+  </a>
 </p>
 
 <br><br>
