@@ -940,7 +940,7 @@ I'd love to learn another language one day — and for once, I don't mean a prog
 <br><br>
 
 <p align="center">
-  <img src="footer-signoff-v7.jpg" alt="take care, and keep creating — Iri, one person many ideas" width="100%">
+  <img src="footer-signoff-v8.jpg" alt="take care, and keep creating — Iri, one person many ideas" width="100%">
 </p>
 
 <br>
