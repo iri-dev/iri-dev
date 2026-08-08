@@ -43,15 +43,15 @@
 <br>
 
 <p>
-  <a href="#-wardenone">
+  <a href="https://github.com/iri-dev/WardenOne">
     <img src="https://img.shields.io/badge/WardenOne-9B6BFF?style=for-the-badge&logo=googlechrome&logoColor=white">
   </a>
 
-  <a href="#-projects">
+  <a href="#-hydra-heart">
     <img src="https://img.shields.io/badge/Hydra%20Heart-BB86FC?style=for-the-badge">
   </a>
 
-  <a href="#-contact">
+  <a href="#-send-me-a-message">
     <img src="https://img.shields.io/badge/Contact-8A5CF6?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
 </p>
@@ -263,7 +263,7 @@ then I've achieved what I set out to do.
 </p>
 
 <p>
-  <a href="#-wardenone">
+  <a href="https://github.com/iri-dev/WardenOne">
     <img src="https://img.shields.io/badge/WardenOne-Live-9B6BFF?style=for-the-badge&logo=googlechrome&logoColor=white">
   </a>
   &nbsp;
@@ -336,7 +336,7 @@ I don't want your data, and the simplest way to prove that is to never collect a
 
 <br>
 
-<a href="#-wardenone">
+<a href="https://github.com/iri-dev/WardenOne">
   <img src="https://img.shields.io/badge/WardenOne-9B6BFF?style=for-the-badge&logo=googlechrome&logoColor=white">
 </a>
 
