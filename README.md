@@ -51,6 +51,10 @@
     <img src="https://img.shields.io/badge/Hydra%20Heart-BB86FC?style=for-the-badge">
   </a>
 
+  <a href="https://iri-dev.github.io/">
+    <img src="https://img.shields.io/badge/iri--dev.github.io-8A5CF6?style=for-the-badge&logo=github&logoColor=white">
+  </a>
+
   <a href="#-send-me-a-message">
     <img src="https://img.shields.io/badge/Contact-8A5CF6?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
@@ -338,6 +342,9 @@ I don't want your data, and the simplest way to prove that is to never collect a
 
 <a href="https://github.com/iri-dev/WardenOne">
   <img src="https://img.shields.io/badge/WardenOne-9B6BFF?style=for-the-badge&logo=googlechrome&logoColor=white">
+</a>
+<a href="https://iri-dev.github.io/WardenOne/">
+  <img src="https://img.shields.io/badge/Website-8A5CF6?style=for-the-badge&logo=github&logoColor=white">
 </a>
 
 </td>
