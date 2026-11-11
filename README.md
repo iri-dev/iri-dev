@@ -16,6 +16,10 @@
 </p>
 
 <p>
+  Please just call me <strong>iri</strong>, lowercase if you can (Iri is fine too). It started as a cute little nickname with my friends, and I love it so much that it's simply who I am now.
+</p>
+
+<p>
   <em>Welcome to my little corner of GitHub.</em>
 </p>
 
