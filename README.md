@@ -23,8 +23,6 @@
   <em>And welcome to my little corner of GitHub.</em>
 </p>
 
-<br>
-
 <p>
   I recently finished my degree in software engineering and cyber security.
   Now I use it out in the open, making software that helps people feel safer,
@@ -36,32 +34,17 @@
   I love building things that genuinely help people.
 </p>
 
-<br>
-
 <p>
   <strong>
     Creating software with care, because technology should help people.
   </strong>
 </p>
 
-<br>
-
 <p>
-  <a href="https://github.com/iri-dev/WardenOne">
-    <img src="https://img.shields.io/badge/WardenOne-9B6BFF?style=for-the-badge&logo=googlechrome&logoColor=white">
-  </a>
-
-  <a href="#-hydra-heart">
-    <img src="https://img.shields.io/badge/Hydra%20Heart-BB86FC?style=for-the-badge">
-  </a>
-
-  <a href="https://iri-dev.github.io/">
-    <img src="https://img.shields.io/badge/iri--dev.github.io-8A5CF6?style=for-the-badge&logo=github&logoColor=white">
-  </a>
-
-  <a href="#-send-me-a-message">
-    <img src="https://img.shields.io/badge/Contact-8A5CF6?style=for-the-badge&logo=gmail&logoColor=white">
-  </a>
+  <a href="https://github.com/iri-dev/WardenOne"><img src="https://img.shields.io/badge/WardenOne-9B6BFF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="WardenOne"></a>
+  <a href="#-hydra-heart"><img src="https://img.shields.io/badge/Hydra%20Heart-BB86FC?style=for-the-badge" alt="Hydra Heart"></a>
+  <a href="https://iri-dev.github.io/"><img src="https://img.shields.io/badge/Website-8A5CF6?style=for-the-badge&logo=github&logoColor=white" alt="My website"></a>
+  <a href="#-send-me-a-message"><img src="https://img.shields.io/badge/Contact-8A5CF6?style=for-the-badge&logo=gmail&logoColor=white" alt="Contact"></a>
 </p>
 
 </td>
