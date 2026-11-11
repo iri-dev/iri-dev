@@ -16,11 +16,11 @@
 </p>
 
 <p>
-  Please just call me <strong>iri</strong>, lowercase if you can (Iri is fine too). It started as a cute little nickname with my friends, and I love it so much that it's simply who I am now.
+  You don't have to call me iri-dev or Iris Molina, just **iri** is fine! I prefer it lowercase, but Iri works too. It started as a cute little nickname between friends, and I ended up loving it so much that it's just what I go by now. 💜
 </p>
 
 <p>
-  <em>Welcome to my little corner of GitHub.</em>
+  <em>And welcome to my little corner of GitHub.</em>
 </p>
 
 <br>
