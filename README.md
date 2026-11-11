@@ -23,6 +23,8 @@
   <em>And welcome to my little corner of GitHub.</em>
 </p>
 
+<h6></h6>
+
 <p>
   I recently finished my degree in software engineering and cyber security.
   Now I use it out in the open, making software that helps people feel safer,
@@ -34,11 +36,15 @@
   I love building things that genuinely help people.
 </p>
 
+<br>
+
 <p>
   <strong>
     Creating software with care, because technology should help people.
   </strong>
 </p>
+
+<br>
 
 <p>
   <a href="https://github.com/iri-dev/WardenOne"><img src="https://img.shields.io/badge/WardenOne-9B6BFF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="WardenOne"></a>
