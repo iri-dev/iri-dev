@@ -16,7 +16,7 @@
 </p>
 
 <p>
-  You don't have to call me iri-dev or Iris Molina, just iri is fine! It started as a cute nickname between friends, and I ended up loving it so much that it's just what I go by now. 💜
+  You can just call me iri, not iri-dev or Iris Molina! It started as a cute nickname between friends, and I ended up loving it so much that it's just what I go by now. 💜
 </p>
 
 <p>
