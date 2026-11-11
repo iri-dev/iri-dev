@@ -16,7 +16,7 @@
 </p>
 
 <p>
-  You don't have to call me iri-dev or Iris Molina, just **iri** is fine! I prefer it lowercase, but Iri works too. It started as a cute little nickname between friends, and I ended up loving it so much that it's just what I go by now. 💜
+  You don't have to call me iri-dev or Iris Molina, just iri is fine! It started as a cute nickname between friends, and I ended up loving it so much that it's just what I go by now. 💜
 </p>
 
 <p>
